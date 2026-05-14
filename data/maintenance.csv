@@ -1,0 +1,241 @@
+maintenance_id,equipement_id,equipement_nom,site,type_equipement,date_intervention,type_intervention,duree_heures,technicien,cout_usd,pieces_changees,etat_avant,etat_apres,score_sante_avant,score_sante_apres,anomalie_liee,iso_45001_ok,arret_production_h
+MNT-0001,EQ005,Silo S-09,Youssoufia,Stockage,2024-01-09 19:42,Préventive,46.6,Ahmed B.,55338.0,Moteur,Défaillant,Opérationnel,0.385,0.844,,True,0.0
+MNT-0002,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-27 08:53,Corrective,45.3,Said O.,9145.0,Moteur,Suspect,Opérationnel,0.703,0.908,ANO-0199,True,39.9
+MNT-0003,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-10-14 09:42,Corrective,6.8,Younes A.,865.0,–,Normal,Opérationnel,0.545,0.801,ANO-0158,True,5.3
+MNT-0004,EQ002,Broyeur B-07,Benguerir,Broyeur,2025-02-12 16:56,Corrective,16.3,Said O.,41085.0,Roulement,Normal,Opérationnel,0.637,0.858,ANO-0066,True,9.5
+MNT-0005,EQ003,Pompe P-04,Safi,Pompe,2024-09-03 23:43,Préventive,3.9,Nadia R.,16907.0,Joint,Suspect,Opérationnel,0.207,0.894,,True,0.0
+MNT-0006,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-06-01 14:04,Prédictive,4.0,Said O.,84204.0,Roulement,Défaillant,En observation,0.247,0.909,,True,0.0
+MNT-0007,EQ003,Pompe P-04,Safi,Pompe,2024-02-04 22:38,Préventive,16.3,Nadia R.,53060.0,Moteur,Dégradé,Opérationnel,0.484,0.837,,True,0.0
+MNT-0008,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-02-01 07:31,Préventive,35.3,Said O.,68976.0,Joint,Suspect,Opérationnel,0.502,0.8,,True,0.0
+MNT-0009,EQ005,Silo S-09,Youssoufia,Stockage,2025-01-18 05:18,Corrective,21.6,Younes A.,81516.0,Courroie,Défaillant,Opérationnel,0.743,0.975,ANO-0002,True,21.3
+MNT-0010,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-17 04:55,Préventive,37.4,Younes A.,51901.0,–,Dégradé,Opérationnel,0.249,0.932,,True,0.0
+MNT-0011,EQ003,Pompe P-04,Safi,Pompe,2025-02-22 01:00,Corrective,4.2,Karim M.,30217.0,Joint,Dégradé,Opérationnel,0.507,0.867,ANO-0001,True,3.1
+MNT-0012,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-03-15 03:03,Préventive,40.2,Nadia R.,22518.0,Capteur,Normal,Opérationnel,0.531,0.822,,True,0.0
+MNT-0013,EQ007,Réacteur R-02,Safi,Réacteur,2024-02-06 10:06,Prédictive,39.5,Said O.,728.0,Roulement,Défaillant,Opérationnel,0.594,0.861,,True,0.0
+MNT-0014,EQ005,Silo S-09,Youssoufia,Stockage,2024-04-01 01:19,Corrective,47.3,Karim M.,84532.0,Moteur,Défaillant,Opérationnel,0.245,0.903,ANO-0175,True,30.6
+MNT-0015,EQ007,Réacteur R-02,Safi,Réacteur,2024-11-01 18:17,Prédictive,36.9,Ahmed B.,62896.0,Courroie,Normal,En observation,0.576,0.853,,True,0.0
+MNT-0016,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-12-11 11:58,Corrective,1.1,Karim M.,33602.0,Moteur,Normal,Opérationnel,0.734,0.873,ANO-0178,True,0.9
+MNT-0017,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-06-07 05:41,Prédictive,16.8,Karim M.,35781.0,Roulement,Défaillant,En observation,0.365,0.962,,True,0.0
+MNT-0018,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-12-01 13:06,Corrective,24.5,Nadia R.,82039.0,Capteur,Dégradé,Opérationnel,0.223,0.929,ANO-0031,True,22.5
+MNT-0019,EQ002,Broyeur B-07,Benguerir,Broyeur,2025-02-24 02:12,Prédictive,39.6,Said O.,53668.0,Courroie,Dégradé,Opérationnel,0.31,0.963,,True,0.0
+MNT-0020,EQ003,Pompe P-04,Safi,Pompe,2024-10-29 18:21,Corrective,5.1,Nadia R.,45886.0,Joint,Dégradé,Opérationnel,0.29,0.876,ANO-0048,True,4.9
+MNT-0021,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-11-09 05:38,Préventive,47.7,Karim M.,67992.0,Courroie,Dégradé,Opérationnel,0.324,0.972,,True,0.0
+MNT-0022,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2025-01-04 18:11,Corrective,13.5,Said O.,60594.0,Capteur,Dégradé,Opérationnel,0.705,0.97,ANO-0021,True,10.9
+MNT-0023,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-08-12 16:29,Corrective,4.0,Said O.,52686.0,–,Défaillant,Opérationnel,0.432,0.951,ANO-0100,True,4.8
+MNT-0024,EQ003,Pompe P-04,Safi,Pompe,2024-11-12 11:19,Préventive,16.0,Younes A.,64631.0,Roulement,Normal,Opérationnel,0.737,0.826,,True,0.0
+MNT-0025,EQ007,Réacteur R-02,Safi,Réacteur,2024-02-27 05:21,Prédictive,14.8,Younes A.,11463.0,Moteur,Suspect,Opérationnel,0.319,0.874,,True,0.0
+MNT-0026,EQ007,Réacteur R-02,Safi,Réacteur,2024-02-07 14:35,Préventive,39.1,Ahmed B.,33740.0,Capteur,Suspect,Opérationnel,0.439,0.802,,True,0.0
+MNT-0027,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-04-10 09:41,Prédictive,42.6,Younes A.,7913.0,Joint,Dégradé,Opérationnel,0.206,0.841,,True,0.0
+MNT-0028,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-04-01 20:37,Inspection,3.3,Ahmed B.,63096.0,Courroie,Normal,Opérationnel,0.213,0.85,,True,0.0
+MNT-0029,EQ003,Pompe P-04,Safi,Pompe,2024-06-04 08:50,Prédictive,22.4,Younes A.,31852.0,–,Normal,Opérationnel,0.672,0.909,,True,0.0
+MNT-0030,EQ003,Pompe P-04,Safi,Pompe,2024-10-31 19:17,Préventive,30.1,Ahmed B.,45576.0,Courroie,Suspect,Opérationnel,0.704,0.98,,True,0.0
+MNT-0031,EQ005,Silo S-09,Youssoufia,Stockage,2024-09-06 20:33,Préventive,13.5,Karim M.,53749.0,Roulement,Normal,Opérationnel,0.611,0.983,,True,0.0
+MNT-0032,EQ005,Silo S-09,Youssoufia,Stockage,2024-08-09 14:37,Inspection,11.2,Nadia R.,8153.0,Roulement,Dégradé,En observation,0.391,0.867,,True,0.0
+MNT-0033,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-08-08 02:50,Prédictive,40.7,Younes A.,64897.0,Capteur,Défaillant,Opérationnel,0.528,0.93,,True,0.0
+MNT-0034,EQ003,Pompe P-04,Safi,Pompe,2024-04-05 19:22,Corrective,24.0,Younes A.,27109.0,Capteur,Dégradé,Opérationnel,0.733,0.878,ANO-0108,True,26.1
+MNT-0035,EQ005,Silo S-09,Youssoufia,Stockage,2025-02-24 19:09,Corrective,21.8,Karim M.,25540.0,Capteur,Suspect,Opérationnel,0.272,0.867,ANO-0017,True,16.5
+MNT-0036,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-01-22 02:32,Préventive,45.9,Ahmed B.,58036.0,Capteur,Défaillant,Opérationnel,0.433,0.954,,True,0.0
+MNT-0037,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-11-24 17:53,Préventive,25.5,Said O.,48841.0,Courroie,Défaillant,Opérationnel,0.366,0.84,,True,0.0
+MNT-0038,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-08-26 21:54,Corrective,13.1,Said O.,60466.0,–,Normal,Opérationnel,0.253,0.954,ANO-0178,True,15.2
+MNT-0039,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2025-03-29 05:41,Préventive,34.8,Ahmed B.,10903.0,–,Suspect,En observation,0.73,0.978,,True,0.0
+MNT-0040,EQ007,Réacteur R-02,Safi,Réacteur,2025-03-27 01:42,Préventive,16.2,Nadia R.,75297.0,Courroie,Défaillant,Opérationnel,0.592,0.894,,True,0.0
+MNT-0041,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-03 13:45,Corrective,0.8,Ahmed B.,58523.0,Courroie,Défaillant,En observation,0.666,0.952,ANO-0023,True,0.7
+MNT-0042,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-01-05 15:27,Prédictive,5.3,Ahmed B.,16184.0,Moteur,Normal,En observation,0.469,0.841,,True,0.0
+MNT-0043,EQ003,Pompe P-04,Safi,Pompe,2025-01-07 02:17,Préventive,32.9,Younes A.,18273.0,Joint,Normal,Opérationnel,0.302,0.907,,True,0.0
+MNT-0044,EQ003,Pompe P-04,Safi,Pompe,2024-09-07 05:29,Préventive,8.3,Younes A.,33859.0,Capteur,Défaillant,Opérationnel,0.291,0.89,,True,0.0
+MNT-0045,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-05-03 20:25,Préventive,25.9,Karim M.,29073.0,Roulement,Défaillant,Opérationnel,0.577,0.804,,True,0.0
+MNT-0046,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-07-14 05:43,Prédictive,0.5,Karim M.,36267.0,Courroie,Défaillant,Opérationnel,0.361,0.84,,True,0.0
+MNT-0047,EQ005,Silo S-09,Youssoufia,Stockage,2025-01-19 04:49,Prédictive,29.2,Nadia R.,44885.0,Roulement,Suspect,Opérationnel,0.651,0.964,,True,0.0
+MNT-0048,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-07-27 17:28,Prédictive,6.5,Younes A.,33371.0,Joint,Suspect,Opérationnel,0.311,0.982,,True,0.0
+MNT-0049,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-01-23 21:04,Préventive,40.0,Karim M.,67137.0,Courroie,Défaillant,Opérationnel,0.625,0.882,,True,0.0
+MNT-0050,EQ003,Pompe P-04,Safi,Pompe,2024-04-09 15:19,Corrective,22.7,Ahmed B.,18950.0,Capteur,Dégradé,En observation,0.421,0.857,ANO-0123,True,11.8
+MNT-0051,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-01-03 16:17,Préventive,17.7,Ahmed B.,20614.0,Joint,Normal,Opérationnel,0.543,0.951,,True,0.0
+MNT-0052,EQ003,Pompe P-04,Safi,Pompe,2024-08-11 10:26,Préventive,39.6,Said O.,54606.0,–,Dégradé,Opérationnel,0.694,0.851,,True,0.0
+MNT-0053,EQ007,Réacteur R-02,Safi,Réacteur,2025-01-02 13:53,Prédictive,17.9,Younes A.,14612.0,Capteur,Défaillant,Opérationnel,0.513,0.8,,True,0.0
+MNT-0054,EQ007,Réacteur R-02,Safi,Réacteur,2024-05-04 04:46,Préventive,2.4,Karim M.,60207.0,Moteur,Normal,En observation,0.686,0.951,,True,0.0
+MNT-0055,EQ007,Réacteur R-02,Safi,Réacteur,2024-02-25 03:02,Préventive,21.8,Younes A.,27123.0,–,Défaillant,Opérationnel,0.487,0.841,,True,0.0
+MNT-0056,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2025-03-22 02:00,Prédictive,34.1,Nadia R.,71659.0,Roulement,Normal,En observation,0.219,0.941,,True,0.0
+MNT-0057,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-08-31 13:36,Préventive,13.9,Karim M.,59836.0,Courroie,Suspect,En observation,0.363,0.824,,True,0.0
+MNT-0058,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-07-18 19:40,Prédictive,5.3,Nadia R.,9021.0,Moteur,Dégradé,Opérationnel,0.381,0.855,,True,0.0
+MNT-0059,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-06-26 01:49,Préventive,0.7,Younes A.,6688.0,Capteur,Défaillant,Opérationnel,0.7,0.955,,True,0.0
+MNT-0060,EQ005,Silo S-09,Youssoufia,Stockage,2025-01-21 13:56,Préventive,39.8,Karim M.,79013.0,Joint,Suspect,En observation,0.611,0.932,,True,0.0
+MNT-0061,EQ002,Broyeur B-07,Benguerir,Broyeur,2025-02-02 18:19,Prédictive,25.5,Karim M.,77310.0,Courroie,Suspect,En observation,0.232,0.925,,True,0.0
+MNT-0062,EQ005,Silo S-09,Youssoufia,Stockage,2024-02-22 08:17,Corrective,2.9,Karim M.,59441.0,–,Normal,Opérationnel,0.42,0.889,ANO-0148,True,2.7
+MNT-0063,EQ005,Silo S-09,Youssoufia,Stockage,2024-10-31 00:30,Préventive,32.8,Younes A.,44044.0,Moteur,Normal,En observation,0.306,0.929,,True,0.0
+MNT-0064,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-01-03 21:06,Prédictive,41.3,Karim M.,38083.0,Capteur,Dégradé,Opérationnel,0.662,0.811,,True,0.0
+MNT-0065,EQ003,Pompe P-04,Safi,Pompe,2024-11-20 00:48,Préventive,19.5,Younes A.,1126.0,Joint,Normal,Opérationnel,0.603,0.93,,True,0.0
+MNT-0066,EQ007,Réacteur R-02,Safi,Réacteur,2024-08-03 18:15,Préventive,32.1,Younes A.,44671.0,Joint,Normal,Opérationnel,0.689,0.867,,True,0.0
+MNT-0067,EQ003,Pompe P-04,Safi,Pompe,2024-07-16 21:10,Corrective,13.5,Younes A.,1079.0,Moteur,Suspect,Opérationnel,0.487,0.954,ANO-0136,True,14.8
+MNT-0068,EQ005,Silo S-09,Youssoufia,Stockage,2024-02-14 15:41,Corrective,20.2,Said O.,30320.0,Roulement,Défaillant,Opérationnel,0.69,0.964,ANO-0067,True,11.1
+MNT-0069,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-08-17 23:49,Préventive,38.6,Karim M.,70904.0,Moteur,Suspect,En observation,0.209,0.947,,True,0.0
+MNT-0070,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-12-31 00:32,Prédictive,35.2,Karim M.,38748.0,Capteur,Défaillant,Opérationnel,0.685,0.857,,True,0.0
+MNT-0071,EQ005,Silo S-09,Youssoufia,Stockage,2024-04-29 12:35,Inspection,24.9,Karim M.,35247.0,Roulement,Normal,Opérationnel,0.497,0.94,,True,0.0
+MNT-0072,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-01-24 14:38,Inspection,37.4,Ahmed B.,23989.0,Courroie,Normal,Opérationnel,0.521,0.882,,True,0.0
+MNT-0073,EQ002,Broyeur B-07,Benguerir,Broyeur,2025-01-04 10:23,Corrective,41.7,Nadia R.,78181.0,Capteur,Défaillant,Opérationnel,0.385,0.829,ANO-0069,True,24.0
+MNT-0074,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-10-29 07:58,Prédictive,25.5,Ahmed B.,25751.0,Capteur,Défaillant,Opérationnel,0.614,0.872,,True,0.0
+MNT-0075,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-08-20 08:39,Inspection,46.7,Said O.,1697.0,Capteur,Défaillant,Opérationnel,0.572,0.969,,True,0.0
+MNT-0076,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-04-19 00:25,Prédictive,21.0,Nadia R.,14745.0,Joint,Normal,Opérationnel,0.558,0.954,,True,0.0
+MNT-0077,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-06-30 04:26,Inspection,17.3,Karim M.,45323.0,Joint,Normal,Opérationnel,0.458,0.96,,True,0.0
+MNT-0078,EQ003,Pompe P-04,Safi,Pompe,2024-02-01 17:51,Préventive,27.3,Younes A.,37682.0,Capteur,Normal,En observation,0.453,0.916,,True,0.0
+MNT-0079,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-08-27 19:45,Préventive,43.2,Nadia R.,62845.0,–,Défaillant,Opérationnel,0.202,0.899,,True,0.0
+MNT-0080,EQ003,Pompe P-04,Safi,Pompe,2024-09-05 13:13,Prédictive,25.2,Nadia R.,33998.0,Joint,Dégradé,En observation,0.288,0.923,,True,0.0
+MNT-0081,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-05-10 17:37,Inspection,20.9,Said O.,62762.0,–,Suspect,Opérationnel,0.291,0.88,,True,0.0
+MNT-0082,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-08-15 05:15,Inspection,10.5,Younes A.,72266.0,Courroie,Dégradé,En observation,0.422,0.96,,True,0.0
+MNT-0083,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-03-08 03:34,Corrective,47.1,Ahmed B.,45254.0,Capteur,Défaillant,Opérationnel,0.628,0.968,ANO-0093,True,50.6
+MNT-0084,EQ005,Silo S-09,Youssoufia,Stockage,2024-11-17 19:28,Prédictive,28.7,Younes A.,2478.0,Courroie,Défaillant,Opérationnel,0.453,0.827,,True,0.0
+MNT-0085,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-04-02 11:11,Corrective,24.4,Karim M.,49448.0,Courroie,Défaillant,En observation,0.574,0.909,ANO-0010,True,24.3
+MNT-0086,EQ007,Réacteur R-02,Safi,Réacteur,2024-09-02 17:20,Prédictive,42.0,Younes A.,60872.0,Roulement,Normal,En observation,0.741,0.91,,True,0.0
+MNT-0087,EQ005,Silo S-09,Youssoufia,Stockage,2024-02-24 20:06,Prédictive,21.6,Said O.,42446.0,Courroie,Dégradé,Opérationnel,0.664,0.942,,True,0.0
+MNT-0088,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2025-02-03 09:09,Préventive,28.2,Nadia R.,27574.0,Roulement,Normal,Opérationnel,0.48,0.916,,True,0.0
+MNT-0089,EQ007,Réacteur R-02,Safi,Réacteur,2024-05-10 05:11,Corrective,26.6,Nadia R.,43217.0,Moteur,Suspect,En observation,0.313,0.804,ANO-0040,True,31.2
+MNT-0090,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-05 14:19,Préventive,11.8,Ahmed B.,34228.0,Courroie,Dégradé,Opérationnel,0.548,0.863,,True,0.0
+MNT-0091,EQ002,Broyeur B-07,Benguerir,Broyeur,2025-03-01 00:12,Prédictive,26.5,Nadia R.,13571.0,–,Suspect,Opérationnel,0.481,0.825,,True,0.0
+MNT-0092,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2025-01-14 09:26,Préventive,19.6,Nadia R.,60940.0,Roulement,Dégradé,Opérationnel,0.45,0.825,,True,0.0
+MNT-0093,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-04-23 23:19,Corrective,7.3,Karim M.,47252.0,Courroie,Normal,En observation,0.564,0.915,ANO-0117,True,8.4
+MNT-0094,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-09-02 14:04,Préventive,23.8,Nadia R.,39390.0,Capteur,Défaillant,Opérationnel,0.386,0.931,,True,0.0
+MNT-0095,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2025-01-13 03:19,Corrective,35.6,Karim M.,65222.0,Roulement,Normal,Opérationnel,0.387,0.808,ANO-0197,True,25.7
+MNT-0096,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-10-04 15:50,Préventive,4.9,Nadia R.,40928.0,–,Défaillant,Opérationnel,0.591,0.853,,True,0.0
+MNT-0097,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-08-29 16:48,Corrective,24.7,Ahmed B.,18180.0,Joint,Dégradé,Opérationnel,0.688,0.981,ANO-0167,True,28.3
+MNT-0098,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-04-28 08:39,Inspection,46.9,Ahmed B.,67532.0,Courroie,Suspect,En observation,0.263,0.919,,True,0.0
+MNT-0099,EQ007,Réacteur R-02,Safi,Réacteur,2025-02-18 15:01,Prédictive,35.8,Younes A.,49745.0,Capteur,Suspect,Opérationnel,0.681,0.827,,True,0.0
+MNT-0100,EQ005,Silo S-09,Youssoufia,Stockage,2024-07-26 09:25,Corrective,24.8,Younes A.,22758.0,Moteur,Normal,Opérationnel,0.703,0.988,ANO-0198,True,19.7
+MNT-0101,EQ007,Réacteur R-02,Safi,Réacteur,2024-08-19 14:09,Prédictive,3.7,Karim M.,18915.0,Moteur,Normal,En observation,0.32,0.895,,True,0.0
+MNT-0102,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-04-02 10:47,Corrective,45.4,Karim M.,31431.0,Moteur,Défaillant,En observation,0.328,0.897,ANO-0144,True,47.3
+MNT-0103,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-01-30 07:38,Préventive,39.9,Said O.,28506.0,–,Normal,Opérationnel,0.748,0.843,,True,0.0
+MNT-0104,EQ003,Pompe P-04,Safi,Pompe,2024-08-21 02:00,Préventive,41.1,Ahmed B.,62725.0,Moteur,Normal,Opérationnel,0.496,0.911,,True,0.0
+MNT-0105,EQ007,Réacteur R-02,Safi,Réacteur,2024-01-19 14:45,Inspection,43.7,Younes A.,25841.0,Capteur,Normal,En observation,0.297,0.823,,True,0.0
+MNT-0106,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2025-02-27 03:14,Préventive,4.4,Said O.,53491.0,–,Dégradé,En observation,0.235,0.801,,True,0.0
+MNT-0107,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-05-05 11:43,Prédictive,4.2,Younes A.,56642.0,Moteur,Dégradé,Opérationnel,0.69,0.819,,True,0.0
+MNT-0108,EQ005,Silo S-09,Youssoufia,Stockage,2024-07-31 09:36,Prédictive,18.9,Nadia R.,75651.0,Joint,Défaillant,En observation,0.646,0.855,,True,0.0
+MNT-0109,EQ003,Pompe P-04,Safi,Pompe,2024-04-07 09:09,Corrective,14.2,Karim M.,54320.0,Courroie,Dégradé,Opérationnel,0.434,0.962,ANO-0090,True,16.7
+MNT-0110,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2025-03-22 17:20,Prédictive,28.3,Karim M.,60248.0,Roulement,Défaillant,En observation,0.407,0.887,,True,0.0
+MNT-0111,EQ007,Réacteur R-02,Safi,Réacteur,2024-11-18 17:15,Corrective,45.7,Said O.,626.0,–,Suspect,Opérationnel,0.353,0.954,ANO-0009,True,27.2
+MNT-0112,EQ003,Pompe P-04,Safi,Pompe,2024-04-13 19:13,Prédictive,47.0,Nadia R.,23202.0,Moteur,Dégradé,Opérationnel,0.695,0.84,,True,0.0
+MNT-0113,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-24 20:18,Corrective,42.8,Nadia R.,41755.0,–,Dégradé,Opérationnel,0.461,0.886,ANO-0019,True,31.2
+MNT-0114,EQ005,Silo S-09,Youssoufia,Stockage,2024-08-02 10:28,Prédictive,6.2,Nadia R.,25323.0,Courroie,Défaillant,Opérationnel,0.627,0.867,,True,0.0
+MNT-0115,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-08-24 03:49,Prédictive,43.6,Said O.,37197.0,Courroie,Suspect,Opérationnel,0.261,0.873,,True,0.0
+MNT-0116,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-04-09 14:34,Corrective,3.7,Said O.,49895.0,–,Suspect,Opérationnel,0.396,0.944,ANO-0164,True,2.3
+MNT-0117,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-10-18 18:14,Prédictive,13.0,Nadia R.,8332.0,Roulement,Dégradé,Opérationnel,0.71,0.984,,True,0.0
+MNT-0118,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-01-02 22:13,Inspection,35.8,Ahmed B.,28767.0,–,Défaillant,Opérationnel,0.629,0.976,,True,0.0
+MNT-0119,EQ005,Silo S-09,Youssoufia,Stockage,2025-03-02 16:11,Corrective,7.2,Nadia R.,45576.0,Courroie,Dégradé,Opérationnel,0.458,0.846,ANO-0060,True,3.9
+MNT-0120,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-08-02 08:53,Corrective,35.6,Younes A.,7572.0,Joint,Défaillant,Opérationnel,0.397,0.822,ANO-0179,True,37.3
+MNT-0121,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2025-02-12 13:02,Corrective,28.5,Ahmed B.,27271.0,Courroie,Dégradé,Opérationnel,0.208,0.861,ANO-0063,True,23.0
+MNT-0122,EQ007,Réacteur R-02,Safi,Réacteur,2024-11-26 01:11,Préventive,9.7,Said O.,59512.0,Moteur,Dégradé,Opérationnel,0.255,0.932,,True,0.0
+MNT-0123,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-07-07 21:44,Préventive,10.3,Ahmed B.,7624.0,Roulement,Normal,Opérationnel,0.438,0.902,,True,0.0
+MNT-0124,EQ003,Pompe P-04,Safi,Pompe,2024-03-21 16:33,Inspection,1.2,Ahmed B.,67967.0,Moteur,Suspect,Opérationnel,0.225,0.928,,True,0.0
+MNT-0125,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-11-24 17:51,Préventive,16.2,Ahmed B.,38875.0,Capteur,Dégradé,Opérationnel,0.675,0.956,,True,0.0
+MNT-0126,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-07-08 19:46,Inspection,34.8,Said O.,31958.0,Courroie,Défaillant,Opérationnel,0.422,0.81,,True,0.0
+MNT-0127,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-02-12 02:55,Préventive,24.4,Said O.,74377.0,–,Dégradé,Opérationnel,0.704,0.826,,True,0.0
+MNT-0128,EQ005,Silo S-09,Youssoufia,Stockage,2024-03-15 05:40,Préventive,37.9,Younes A.,2808.0,Capteur,Dégradé,Opérationnel,0.373,0.849,,True,0.0
+MNT-0129,EQ003,Pompe P-04,Safi,Pompe,2024-01-15 19:55,Préventive,41.3,Karim M.,36363.0,Courroie,Défaillant,Opérationnel,0.275,0.826,,True,0.0
+MNT-0130,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-01-25 11:20,Inspection,11.5,Karim M.,83083.0,Courroie,Défaillant,Opérationnel,0.405,0.827,,True,0.0
+MNT-0131,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-03-15 06:13,Inspection,35.6,Ahmed B.,64509.0,Roulement,Défaillant,Opérationnel,0.494,0.84,,True,0.0
+MNT-0132,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-05-29 11:23,Préventive,8.8,Younes A.,15840.0,Roulement,Défaillant,Opérationnel,0.334,0.914,,True,0.0
+MNT-0133,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-11-15 19:01,Prédictive,16.3,Karim M.,18801.0,Moteur,Suspect,Opérationnel,0.625,0.857,,True,0.0
+MNT-0134,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-28 14:10,Prédictive,8.7,Younes A.,49818.0,Capteur,Défaillant,Opérationnel,0.296,0.81,,True,0.0
+MNT-0135,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-07-11 06:03,Corrective,22.1,Karim M.,57117.0,Joint,Normal,Opérationnel,0.542,0.958,ANO-0092,True,17.3
+MNT-0136,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-09-16 21:33,Prédictive,47.9,Younes A.,83465.0,Joint,Normal,Opérationnel,0.347,0.945,,True,0.0
+MNT-0137,EQ007,Réacteur R-02,Safi,Réacteur,2024-05-02 11:51,Corrective,12.2,Ahmed B.,54545.0,Moteur,Suspect,En observation,0.365,0.851,ANO-0095,True,8.0
+MNT-0138,EQ007,Réacteur R-02,Safi,Réacteur,2025-03-27 17:54,Prédictive,8.1,Said O.,74704.0,Capteur,Suspect,Opérationnel,0.567,0.864,,True,0.0
+MNT-0139,EQ007,Réacteur R-02,Safi,Réacteur,2024-04-08 20:42,Prédictive,42.3,Said O.,49222.0,–,Défaillant,Opérationnel,0.359,0.967,,True,0.0
+MNT-0140,EQ007,Réacteur R-02,Safi,Réacteur,2025-01-18 14:06,Inspection,7.7,Younes A.,9225.0,Roulement,Défaillant,En observation,0.675,0.933,,True,0.0
+MNT-0141,EQ007,Réacteur R-02,Safi,Réacteur,2024-06-01 15:19,Prédictive,26.5,Said O.,19479.0,Courroie,Normal,En observation,0.502,0.895,,True,0.0
+MNT-0142,EQ007,Réacteur R-02,Safi,Réacteur,2024-07-10 08:18,Prédictive,1.7,Younes A.,66815.0,–,Défaillant,Opérationnel,0.511,0.912,,True,0.0
+MNT-0143,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2025-02-28 09:14,Prédictive,4.2,Karim M.,8627.0,–,Dégradé,Opérationnel,0.417,0.949,,True,0.0
+MNT-0144,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-12-24 18:31,Préventive,12.1,Karim M.,42505.0,Capteur,Défaillant,En observation,0.232,0.931,,True,0.0
+MNT-0145,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-03-15 02:44,Préventive,29.6,Nadia R.,69327.0,–,Dégradé,Opérationnel,0.413,0.852,,True,0.0
+MNT-0146,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-04-01 12:24,Préventive,6.3,Karim M.,24623.0,Moteur,Normal,En observation,0.418,0.861,,True,0.0
+MNT-0147,EQ005,Silo S-09,Youssoufia,Stockage,2024-04-21 23:08,Prédictive,47.6,Younes A.,53975.0,–,Normal,Opérationnel,0.613,0.839,,True,0.0
+MNT-0148,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-03-25 13:45,Corrective,36.0,Nadia R.,49939.0,–,Normal,Opérationnel,0.318,0.956,ANO-0068,True,30.7
+MNT-0149,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-03-26 07:30,Préventive,20.1,Said O.,77483.0,Moteur,Suspect,Opérationnel,0.541,0.886,,True,0.0
+MNT-0150,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-11-15 18:31,Prédictive,26.7,Karim M.,18959.0,Moteur,Dégradé,Opérationnel,0.258,0.874,,True,0.0
+MNT-0151,EQ003,Pompe P-04,Safi,Pompe,2024-09-28 18:41,Prédictive,27.6,Karim M.,10098.0,Moteur,Normal,Opérationnel,0.619,0.815,,True,0.0
+MNT-0152,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-06-28 21:46,Préventive,13.4,Younes A.,40742.0,Capteur,Défaillant,Opérationnel,0.493,0.819,,True,0.0
+MNT-0153,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2025-03-13 13:38,Corrective,33.3,Ahmed B.,7988.0,Roulement,Suspect,En observation,0.53,0.807,ANO-0065,True,37.8
+MNT-0154,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-03-21 13:39,Corrective,46.8,Nadia R.,49370.0,–,Dégradé,Opérationnel,0.226,0.859,ANO-0042,True,52.7
+MNT-0155,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-04-26 21:56,Corrective,40.0,Younes A.,35756.0,Roulement,Suspect,Opérationnel,0.611,0.814,ANO-0159,True,36.9
+MNT-0156,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-08-14 18:51,Préventive,45.9,Said O.,65540.0,Moteur,Normal,Opérationnel,0.504,0.969,,True,0.0
+MNT-0157,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-06-11 17:55,Préventive,4.0,Younes A.,5687.0,Moteur,Dégradé,En observation,0.661,0.976,,True,0.0
+MNT-0158,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-06-08 13:05,Inspection,18.7,Younes A.,7246.0,Roulement,Dégradé,En observation,0.264,0.967,,True,0.0
+MNT-0159,EQ002,Broyeur B-07,Benguerir,Broyeur,2025-03-28 19:17,Prédictive,44.5,Karim M.,69529.0,Joint,Suspect,Opérationnel,0.289,0.977,,True,0.0
+MNT-0160,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-08-12 17:28,Préventive,6.8,Said O.,45591.0,Joint,Défaillant,En observation,0.714,0.814,,True,0.0
+MNT-0161,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-12-04 18:14,Corrective,24.7,Said O.,41978.0,Capteur,Défaillant,Opérationnel,0.331,0.95,ANO-0021,True,13.0
+MNT-0162,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-08-22 07:27,Prédictive,5.8,Ahmed B.,83806.0,Moteur,Normal,Opérationnel,0.337,0.829,,True,0.0
+MNT-0163,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-08-08 13:22,Prédictive,4.1,Said O.,20566.0,Courroie,Normal,Opérationnel,0.426,0.926,,True,0.0
+MNT-0164,EQ003,Pompe P-04,Safi,Pompe,2024-10-28 18:50,Préventive,26.5,Said O.,69296.0,Courroie,Normal,Opérationnel,0.617,0.894,,True,0.0
+MNT-0165,EQ005,Silo S-09,Youssoufia,Stockage,2024-02-28 07:04,Préventive,30.6,Ahmed B.,24413.0,–,Suspect,Opérationnel,0.486,0.974,,True,0.0
+MNT-0166,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-11-26 19:42,Corrective,13.9,Nadia R.,48683.0,Courroie,Dégradé,Opérationnel,0.403,0.912,ANO-0161,True,13.8
+MNT-0167,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-12-02 01:50,Corrective,45.1,Karim M.,77988.0,Joint,Normal,Opérationnel,0.688,0.962,ANO-0048,True,36.7
+MNT-0168,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-12-19 22:34,Préventive,19.7,Said O.,64756.0,Capteur,Normal,Opérationnel,0.342,0.966,,True,0.0
+MNT-0169,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-01-18 12:27,Prédictive,4.4,Said O.,73087.0,Roulement,Défaillant,Opérationnel,0.743,0.872,,True,0.0
+MNT-0170,EQ007,Réacteur R-02,Safi,Réacteur,2024-05-19 20:03,Préventive,37.9,Ahmed B.,43760.0,Roulement,Dégradé,En observation,0.425,0.914,,True,0.0
+MNT-0171,EQ005,Silo S-09,Youssoufia,Stockage,2024-03-18 21:33,Corrective,26.0,Younes A.,1151.0,Courroie,Défaillant,Opérationnel,0.267,0.965,ANO-0169,True,15.9
+MNT-0172,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-04-20 22:27,Corrective,9.1,Said O.,47488.0,Roulement,Normal,En observation,0.38,0.83,ANO-0050,True,6.8
+MNT-0173,EQ005,Silo S-09,Youssoufia,Stockage,2024-01-25 19:35,Préventive,4.9,Nadia R.,61871.0,Joint,Suspect,Opérationnel,0.325,0.969,,True,0.0
+MNT-0174,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-03-30 16:21,Inspection,17.0,Said O.,3010.0,Courroie,Normal,En observation,0.71,0.831,,True,0.0
+MNT-0175,EQ003,Pompe P-04,Safi,Pompe,2024-01-06 22:42,Prédictive,21.2,Said O.,10442.0,Capteur,Dégradé,En observation,0.488,0.806,,True,0.0
+MNT-0176,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-02-26 12:51,Préventive,14.8,Said O.,53064.0,Courroie,Normal,Opérationnel,0.537,0.966,,True,0.0
+MNT-0177,EQ003,Pompe P-04,Safi,Pompe,2025-01-31 13:07,Prédictive,5.0,Said O.,55914.0,Capteur,Suspect,En observation,0.358,0.968,,True,0.0
+MNT-0178,EQ003,Pompe P-04,Safi,Pompe,2025-03-03 15:58,Préventive,4.5,Nadia R.,43590.0,Moteur,Défaillant,Opérationnel,0.412,0.944,,True,0.0
+MNT-0179,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2025-03-10 09:05,Prédictive,46.5,Karim M.,57427.0,Capteur,Dégradé,Opérationnel,0.254,0.957,,True,0.0
+MNT-0180,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-07-13 15:10,Inspection,43.4,Younes A.,69961.0,Moteur,Dégradé,Opérationnel,0.648,0.905,,True,0.0
+MNT-0181,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2025-01-17 21:56,Prédictive,28.6,Ahmed B.,26362.0,Moteur,Normal,Opérationnel,0.517,0.94,,True,0.0
+MNT-0182,EQ007,Réacteur R-02,Safi,Réacteur,2024-11-29 22:23,Corrective,2.8,Karim M.,25684.0,Moteur,Suspect,Opérationnel,0.407,0.938,ANO-0100,True,2.0
+MNT-0183,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-07-05 20:58,Préventive,36.4,Ahmed B.,31871.0,Roulement,Suspect,Opérationnel,0.279,0.879,,True,0.0
+MNT-0184,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-11-20 20:49,Prédictive,3.8,Nadia R.,50165.0,Roulement,Défaillant,Opérationnel,0.321,0.804,,True,0.0
+MNT-0185,EQ005,Silo S-09,Youssoufia,Stockage,2024-05-31 00:50,Corrective,19.4,Nadia R.,52364.0,Capteur,Normal,Opérationnel,0.366,0.947,ANO-0128,True,21.4
+MNT-0186,EQ003,Pompe P-04,Safi,Pompe,2024-09-07 23:10,Prédictive,39.1,Karim M.,45412.0,Courroie,Défaillant,Opérationnel,0.296,0.857,,True,0.0
+MNT-0187,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-01-25 18:50,Préventive,22.1,Ahmed B.,11149.0,–,Normal,Opérationnel,0.336,0.966,,True,0.0
+MNT-0188,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-09-11 11:25,Corrective,15.5,Nadia R.,24311.0,Roulement,Suspect,Opérationnel,0.659,0.907,ANO-0097,True,7.9
+MNT-0189,EQ005,Silo S-09,Youssoufia,Stockage,2024-05-07 19:17,Corrective,3.4,Karim M.,84725.0,Courroie,Défaillant,Opérationnel,0.572,0.855,ANO-0047,True,3.9
+MNT-0190,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-09-07 05:28,Prédictive,44.3,Younes A.,12271.0,Courroie,Dégradé,Opérationnel,0.211,0.957,,True,0.0
+MNT-0191,EQ007,Réacteur R-02,Safi,Réacteur,2024-10-31 17:11,Préventive,42.4,Ahmed B.,52656.0,Capteur,Défaillant,Opérationnel,0.467,0.981,,True,0.0
+MNT-0192,EQ003,Pompe P-04,Safi,Pompe,2024-04-11 18:25,Préventive,4.6,Karim M.,39709.0,Roulement,Normal,Opérationnel,0.525,0.971,,True,0.0
+MNT-0193,EQ007,Réacteur R-02,Safi,Réacteur,2024-06-12 01:07,Corrective,47.5,Karim M.,919.0,Courroie,Normal,Opérationnel,0.734,0.823,ANO-0060,True,43.2
+MNT-0194,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-08-22 14:59,Corrective,45.0,Karim M.,30776.0,Courroie,Dégradé,En observation,0.252,0.911,ANO-0028,True,40.7
+MNT-0195,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-06-13 09:22,Corrective,11.2,Ahmed B.,51555.0,Moteur,Dégradé,Opérationnel,0.232,0.804,ANO-0182,True,10.2
+MNT-0196,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-11-30 05:07,Préventive,7.4,Younes A.,71622.0,–,Normal,En observation,0.235,0.941,,True,0.0
+MNT-0197,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-08-28 02:07,Préventive,21.9,Karim M.,84789.0,Courroie,Dégradé,Opérationnel,0.637,0.865,,True,0.0
+MNT-0198,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-04-16 04:34,Prédictive,4.4,Younes A.,33038.0,Capteur,Dégradé,Opérationnel,0.382,0.855,,True,0.0
+MNT-0199,EQ005,Silo S-09,Youssoufia,Stockage,2024-07-09 08:18,Corrective,37.7,Said O.,10494.0,Joint,Défaillant,Opérationnel,0.706,0.927,ANO-0128,True,30.1
+MNT-0200,EQ007,Réacteur R-02,Safi,Réacteur,2024-11-28 10:42,Préventive,16.9,Younes A.,56171.0,Roulement,Défaillant,Opérationnel,0.631,0.83,,True,0.0
+MNT-0201,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-09-06 10:42,Corrective,3.1,Nadia R.,56454.0,Roulement,Défaillant,Opérationnel,0.335,0.928,ANO-0101,True,2.6
+MNT-0202,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-01-19 16:08,Corrective,39.7,Karim M.,53956.0,Joint,Défaillant,Opérationnel,0.283,0.93,ANO-0032,True,34.8
+MNT-0203,EQ003,Pompe P-04,Safi,Pompe,2024-02-25 14:57,Prédictive,18.5,Said O.,54222.0,–,Normal,En observation,0.321,0.895,,True,0.0
+MNT-0204,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-08-10 04:40,Prédictive,29.3,Ahmed B.,16772.0,Roulement,Défaillant,En observation,0.657,0.947,,True,0.0
+MNT-0205,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2025-03-18 13:47,Prédictive,27.3,Karim M.,59387.0,–,Dégradé,Opérationnel,0.279,0.883,,True,0.0
+MNT-0206,EQ007,Réacteur R-02,Safi,Réacteur,2024-10-22 03:30,Prédictive,6.5,Nadia R.,40954.0,–,Normal,Opérationnel,0.47,0.905,,True,0.0
+MNT-0207,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-16 13:55,Préventive,3.9,Karim M.,83769.0,Moteur,Défaillant,Opérationnel,0.252,0.948,,True,0.0
+MNT-0208,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-10-28 05:46,Prédictive,8.3,Said O.,36663.0,Courroie,Suspect,En observation,0.676,0.967,,True,0.0
+MNT-0209,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-02-19 09:50,Prédictive,23.7,Said O.,84444.0,Joint,Défaillant,Opérationnel,0.469,0.959,,True,0.0
+MNT-0210,EQ007,Réacteur R-02,Safi,Réacteur,2024-08-31 21:40,Inspection,18.8,Younes A.,40153.0,Joint,Suspect,Opérationnel,0.524,0.83,,True,0.0
+MNT-0211,EQ005,Silo S-09,Youssoufia,Stockage,2025-03-24 18:09,Préventive,18.0,Said O.,10667.0,Capteur,Défaillant,Opérationnel,0.203,0.879,,True,0.0
+MNT-0212,EQ003,Pompe P-04,Safi,Pompe,2025-03-16 18:38,Corrective,18.7,Ahmed B.,78984.0,Courroie,Dégradé,En observation,0.621,0.943,ANO-0107,True,18.7
+MNT-0213,EQ003,Pompe P-04,Safi,Pompe,2024-06-28 17:53,Prédictive,33.9,Nadia R.,52374.0,Courroie,Normal,Opérationnel,0.677,0.814,,True,0.0
+MNT-0214,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-08-21 22:03,Corrective,37.7,Ahmed B.,31870.0,Courroie,Défaillant,Opérationnel,0.361,0.894,ANO-0141,True,44.8
+MNT-0215,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-08-10 19:43,Inspection,46.7,Younes A.,61597.0,Courroie,Normal,Opérationnel,0.675,0.855,,True,0.0
+MNT-0216,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-12-22 11:33,Préventive,11.4,Karim M.,52126.0,Roulement,Normal,En observation,0.506,0.96,,True,0.0
+MNT-0217,EQ003,Pompe P-04,Safi,Pompe,2024-07-07 18:08,Préventive,31.1,Ahmed B.,74930.0,Moteur,Normal,Opérationnel,0.235,0.975,,True,0.0
+MNT-0218,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-11-06 20:17,Prédictive,21.7,Younes A.,33913.0,–,Défaillant,Opérationnel,0.667,0.949,,True,0.0
+MNT-0219,EQ007,Réacteur R-02,Safi,Réacteur,2024-06-04 16:52,Préventive,3.7,Karim M.,12188.0,Roulement,Dégradé,Opérationnel,0.477,0.851,,True,0.0
+MNT-0220,EQ007,Réacteur R-02,Safi,Réacteur,2024-07-15 14:38,Prédictive,41.8,Karim M.,17699.0,Capteur,Suspect,En observation,0.213,0.95,,True,0.0
+MNT-0221,EQ003,Pompe P-04,Safi,Pompe,2025-02-23 15:07,Prédictive,24.2,Ahmed B.,63036.0,–,Défaillant,En observation,0.205,0.864,,True,0.0
+MNT-0222,EQ005,Silo S-09,Youssoufia,Stockage,2024-08-10 04:10,Prédictive,42.1,Ahmed B.,51149.0,Moteur,Normal,En observation,0.354,0.936,,True,0.0
+MNT-0223,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-03-29 07:58,Prédictive,7.4,Ahmed B.,53028.0,Moteur,Défaillant,Opérationnel,0.227,0.924,,True,0.0
+MNT-0224,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-03-01 03:41,Préventive,16.3,Younes A.,33582.0,Joint,Dégradé,Opérationnel,0.319,0.9,,True,0.0
+MNT-0225,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-08-10 00:28,Préventive,3.7,Said O.,24316.0,Courroie,Dégradé,Opérationnel,0.423,0.97,,True,0.0
+MNT-0226,EQ006,Convoyeur C-05,Youssoufia,Convoyeur,2024-02-28 21:54,Prédictive,40.1,Ahmed B.,16634.0,Joint,Défaillant,En observation,0.371,0.861,,True,0.0
+MNT-0227,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-06-02 01:55,Préventive,30.9,Younes A.,9213.0,Moteur,Normal,En observation,0.355,0.821,,True,0.0
+MNT-0228,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2025-03-02 08:30,Préventive,4.8,Ahmed B.,78843.0,Courroie,Suspect,Opérationnel,0.423,0.915,,True,0.0
+MNT-0229,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2025-01-10 17:26,Prédictive,21.2,Nadia R.,9516.0,Capteur,Suspect,En observation,0.262,0.908,,True,0.0
+MNT-0230,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-10-26 08:00,Corrective,28.0,Karim M.,60732.0,–,Défaillant,Opérationnel,0.428,0.891,ANO-0011,True,28.1
+MNT-0231,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-09-15 12:34,Inspection,26.0,Said O.,32181.0,Joint,Dégradé,Opérationnel,0.432,0.884,,True,0.0
+MNT-0232,EQ003,Pompe P-04,Safi,Pompe,2025-02-27 15:35,Corrective,17.8,Karim M.,20731.0,Moteur,Défaillant,Opérationnel,0.288,0.876,ANO-0037,True,10.1
+MNT-0233,EQ008,Compresseur K-01,Jorf Lasfar,Compresseur,2024-09-17 07:40,Corrective,3.7,Said O.,28406.0,Capteur,Suspect,En observation,0.533,0.84,ANO-0199,True,2.4
+MNT-0234,EQ003,Pompe P-04,Safi,Pompe,2025-02-04 08:28,Préventive,8.0,Karim M.,70274.0,Capteur,Suspect,En observation,0.526,0.954,,True,0.0
+MNT-0235,EQ004,Chargeur CH-03,Jorf Lasfar,Chargeur,2024-07-17 02:24,Préventive,30.8,Ahmed B.,69030.0,Courroie,Normal,Opérationnel,0.681,0.87,,True,0.0
+MNT-0236,EQ005,Silo S-09,Youssoufia,Stockage,2024-11-27 05:57,Préventive,11.8,Younes A.,68420.0,Courroie,Dégradé,En observation,0.269,0.937,,True,0.0
+MNT-0237,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-12-20 17:07,Prédictive,11.1,Karim M.,73595.0,Capteur,Suspect,En observation,0.451,0.942,,True,0.0
+MNT-0238,EQ002,Broyeur B-07,Benguerir,Broyeur,2024-04-03 21:11,Prédictive,24.3,Karim M.,12348.0,–,Suspect,En observation,0.309,0.948,,True,0.0
+MNT-0239,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-01-07 16:41,Corrective,4.4,Karim M.,6684.0,–,Normal,Opérationnel,0.306,0.928,ANO-0126,True,2.9
+MNT-0240,EQ001,Convoyeur C-12,Khouribga,Convoyeur,2024-09-27 22:04,Prédictive,23.5,Younes A.,69929.0,Capteur,Dégradé,En observation,0.714,0.929,,True,0.0

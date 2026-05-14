@@ -1,0 +1,8 @@
+.\venv\Scripts\Activate,nom,role,site,email,actif
+U001,Admin Système,admin,Casablanca Port,admin@ocp.ma,True
+U002,Ahmed Benali,responsable_logistique,Khouribga,a.benali@ocp.ma,True
+U003,Fatima Zahra,analyste_data,Jorf Lasfar,f.zahra@ocp.ma,True
+U004,Karim Mansouri,technicien_maintenance,Safi,k.mansouri@ocp.ma,True
+U005,Nadia Rachidi,responsable_qualite,Benguerir,n.rachidi@ocp.ma,True
+U006,Said Oufkir,operateur_terrain,Youssoufia,s.oufkir@ocp.ma,True
+U007,Youssef Tazi,directeur_sc,Casablanca Port,y.tazi@ocp.ma,True

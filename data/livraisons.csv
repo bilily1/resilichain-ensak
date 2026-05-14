@@ -1,0 +1,451 @@
+livraison_id,commande_id,origine,destination,transporteur_id,transporteur_nom,mode_transport,distance_km,masse_t,date_depart,date_arrivee_prevue,retard_heures,statut,co2_kg,cout_transport_usd,produit,otif
+LIV-0001,CMD-0031,Youssoufia,Benguerir,T002,ONCF Fret,Rail,711,143.9,2024-05-22 09:56,2024-05-22 19:50,2.8,Livré,2250.88,1249.94,MAP,0
+LIV-0002,CMD-0334,Safi,Khouribga,T003,Atlas Trucks,Route,155,241.4,2024-09-27 18:39,2024-09-27 20:57,0.9,Planifié,3592.03,405.22,MAP,0
+LIV-0003,CMD-0442,Laayoune,Benguerir,T005,OCP Maritime,Maritime,552,212.4,2024-07-08 06:43,2024-07-08 15:13,0.0,Planifié,937.96,1474.56,Urée,0
+LIV-0004,CMD-0334,Jorf Lasfar,Benguerir,T005,OCP Maritime,Maritime,110,133.4,2024-03-01 12:03,2024-03-01 13:33,0.0,En transit,117.39,210.88,MAP,0
+LIV-0005,CMD-0063,Laayoune,Safi,T002,ONCF Fret,Rail,395,478.8,2024-03-25 11:08,2024-03-25 16:44,0.0,En transit,4160.77,1910.39,MAP,0
+LIV-0006,CMD-0211,Youssoufia,Benguerir,T005,OCP Maritime,Maritime,853,325.3,2024-04-23 23:09,2024-04-24 11:21,0.0,Livré,2219.85,2664.18,Sulfate d'ammonium,1
+LIV-0007,CMD-0302,Benguerir,Casablanca Port,T006,Marsa Maroc,Maritime,391,460.9,2024-09-24 09:33,2024-09-24 14:09,0.0,Planifié,1261.48,2945.4,DAP,0
+LIV-0008,CMD-0326,Benguerir,Casablanca Port,T001,OCP Rail,Rail,80,357.6,2024-10-06 00:48,2024-10-06 02:36,0.0,En transit,715.2,443.69,Urée,0
+LIV-0009,CMD-0129,Safi,Jorf Lasfar,T004,Sahara Trans,Route,75,121.4,2024-04-18 00:25,2024-04-18 01:55,1.8,Livré,946.92,98.78,TSP,0
+LIV-0010,CMD-0436,Khouribga,Youssoufia,T006,Marsa Maroc,Maritime,96,89.1,2024-12-05 05:19,2024-12-05 06:25,1.0,Planifié,59.88,136.61,TSP,0
+LIV-0011,CMD-0514,Safi,Casablanca Port,T004,Sahara Trans,Route,645,413.6,2024-06-24 08:06,2024-06-24 21:24,2.6,Livré,27744.29,3299.96,Acide phosphorique,0
+LIV-0012,CMD-0540,Safi,Casablanca Port,T005,OCP Maritime,Maritime,455,36.1,2025-01-10 08:46,2025-01-10 15:04,0.9,Livré,131.4,162.16,Acide phosphorique,0
+LIV-0013,CMD-0594,Safi,Casablanca Port,T001,OCP Rail,Rail,615,447.2,2025-01-01 23:08,2025-01-02 08:08,2.8,Livré,6875.7,2815.41,Acide phosphorique,0
+LIV-0014,CMD-0302,Jorf Lasfar,Khouribga,T003,Atlas Trucks,Route,180,393.7,2025-02-02 04:43,2025-02-02 06:55,0.0,Incident,6803.14,919.55,Acide phosphorique,0
+LIV-0015,CMD-0299,Youssoufia,Khouribga,T006,Marsa Maroc,Maritime,691,379.7,2025-03-13 20:14,2025-03-14 09:38,0.0,En transit,1836.61,3892.09,DAP,0
+LIV-0016,CMD-0179,Benguerir,Jorf Lasfar,T001,OCP Rail,Rail,110,262.7,2024-08-03 19:28,2024-08-03 21:34,0.0,En transit,722.42,454.56,TSP,0
+LIV-0017,CMD-0149,Casablanca Port,Safi,T003,Atlas Trucks,Route,907,104.2,2024-07-02 11:00,2024-07-03 01:42,0.0,Livré,9072.9,1439.78,TSP,1
+LIV-0018,CMD-0119,Laayoune,Safi,T004,Sahara Trans,Route,868,203.9,2024-05-09 22:23,2024-05-10 15:53,0.0,Planifié,18406.46,2540.94,DAP,0
+LIV-0019,CMD-0446,Youssoufia,Jorf Lasfar,T004,Sahara Trans,Route,90,164.7,2025-02-17 14:54,2025-02-17 16:42,0.0,Livré,1541.59,221.93,DAP,1
+LIV-0020,CMD-0280,Benguerir,Jorf Lasfar,T004,Sahara Trans,Route,110,171.5,2024-02-01 20:37,2024-02-01 23:07,2.4,En transit,1961.96,253.13,Sulfate d'ammonium,0
+LIV-0021,CMD-0185,Benguerir,Safi,T001,OCP Rail,Rail,95,334.1,2024-07-06 19:25,2024-07-06 20:43,0.0,En transit,793.49,394.09,Sulfate d'ammonium,0
+LIV-0022,CMD-0035,Jorf Lasfar,Khouribga,T006,Marsa Maroc,Maritime,180,419.2,2024-03-16 21:14,2024-03-17 00:02,2.9,Livré,528.19,730.88,DAP,0
+LIV-0023,CMD-0580,Jorf Lasfar,Khouribga,T001,OCP Rail,Rail,180,335.2,2024-04-04 14:19,2024-04-04 16:49,0.0,En transit,1508.4,942.17,TSP,0
+LIV-0024,CMD-0332,Khouribga,Laayoune,T002,ONCF Fret,Rail,339,161.4,2024-02-28 19:24,2024-02-29 00:18,0.0,Retardé,1203.72,785.45,Acide phosphorique,0
+LIV-0025,CMD-0206,Youssoufia,Khouribga,T003,Atlas Trucks,Route,875,49.9,2024-02-16 15:34,2024-02-17 08:34,0.0,Incident,4191.6,541.32,Urée,0
+LIV-0026,CMD-0073,Youssoufia,Laayoune,T004,Sahara Trans,Route,191,89.1,2024-06-18 15:01,2024-06-18 17:49,0.0,Livré,1769.88,257.56,Acide phosphorique,1
+LIV-0027,CMD-0528,Laayoune,Safi,T001,OCP Rail,Rail,589,91.5,2024-01-30 09:18,2024-01-30 17:42,18.0,En transit,1347.34,765.85,NPS,0
+LIV-0028,CMD-0581,Safi,Jorf Lasfar,T004,Sahara Trans,Route,75,369.3,2024-02-24 10:45,2024-02-24 11:57,0.5,Livré,2880.54,427.88,Sulfate d'ammonium,0
+LIV-0029,CMD-0297,Benguerir,Laayoune,T003,Atlas Trucks,Route,490,46.5,2024-03-11 10:09,2024-03-11 18:51,3.5,Planifié,2187.36,382.3,Phosphate brut,0
+LIV-0030,CMD-0195,Youssoufia,Casablanca Port,T001,OCP Rail,Rail,473,337.2,2024-10-30 00:04,2024-10-30 05:58,0.0,En transit,3987.39,1874.37,TSP,0
+LIV-0031,CMD-0461,Khouribga,Benguerir,T001,OCP Rail,Rail,80,498.3,2024-10-28 23:09,2024-10-29 01:03,0.0,Planifié,996.6,451.14,DAP,0
+LIV-0032,CMD-0550,Khouribga,Safi,T001,OCP Rail,Rail,155,398.1,2024-04-01 19:10,2024-04-01 22:16,14.5,Retardé,1542.64,611.39,TSP,0
+LIV-0033,CMD-0177,Casablanca Port,Jorf Lasfar,T002,ONCF Fret,Rail,95,37.7,2024-01-15 19:21,2024-01-15 20:57,3.7,Livré,78.79,38.03,DAP,0
+LIV-0034,CMD-0346,Benguerir,Khouribga,T004,Sahara Trans,Route,80,101.9,2024-03-23 14:09,2024-03-23 15:57,0.0,Livré,847.81,112.95,Urée,1
+LIV-0035,CMD-0426,Benguerir,Khouribga,T006,Marsa Maroc,Maritime,80,282.0,2024-06-14 14:55,2024-06-14 16:01,0.0,Livré,157.92,268.81,TSP,1
+LIV-0036,CMD-0499,Casablanca Port,Benguerir,T005,OCP Maritime,Maritime,248,230.6,2024-02-01 14:40,2024-02-01 20:04,0.0,Livré,457.51,930.17,MAP,1
+LIV-0037,CMD-0278,Khouribga,Youssoufia,T002,ONCF Fret,Rail,171,359.2,2024-08-08 09:08,2024-08-08 12:02,3.3,Livré,1351.31,852.24,NPS,0
+LIV-0038,CMD-0572,Safi,Youssoufia,T002,ONCF Fret,Rail,60,352.0,2025-01-23 06:34,2025-01-23 07:28,0.0,Livré,464.64,293.42,Phosphate brut,1
+LIV-0039,CMD-0116,Youssoufia,Khouribga,T005,OCP Maritime,Maritime,177,317.1,2025-02-23 05:09,2025-02-23 07:57,0.0,Livré,449.01,887.46,TSP,1
+LIV-0040,CMD-0465,Casablanca Port,Safi,T004,Sahara Trans,Route,260,96.7,2024-02-11 23:08,2024-02-12 02:56,0.0,Planifié,2614.77,408.39,DAP,0
+LIV-0041,CMD-0430,Khouribga,Laayoune,T001,OCP Rail,Rail,630,104.4,2025-01-11 18:11,2025-01-12 04:11,0.0,En transit,1644.3,1003.39,Phosphate brut,0
+LIV-0042,CMD-0600,Casablanca Port,Laayoune,T003,Atlas Trucks,Route,900,393.9,2024-03-17 04:02,2024-03-17 21:50,1.9,Livré,34032.96,4235.74,NPS,0
+LIV-0043,CMD-0344,Khouribga,Jorf Lasfar,T002,ONCF Fret,Rail,180,465.4,2024-10-27 20:21,2024-10-27 23:33,0.0,Livré,1842.98,1078.64,TSP,1
+LIV-0044,CMD-0175,Khouribga,Laayoune,T005,OCP Maritime,Maritime,141,154.7,2024-12-27 14:11,2024-12-27 16:29,1.1,En transit,174.5,226.85,Phosphate brut,0
+LIV-0045,CMD-0336,Khouribga,Jorf Lasfar,T005,OCP Maritime,Maritime,180,433.9,2025-01-02 18:28,2025-01-02 20:46,1.5,Livré,624.82,871.49,Urée,0
+LIV-0046,CMD-0544,Jorf Lasfar,Youssoufia,T005,OCP Maritime,Maritime,90,458.6,2024-11-20 11:49,2024-11-20 12:55,0.6,Livré,330.19,663.17,Urée,0
+LIV-0047,CMD-0093,Safi,Laayoune,T001,OCP Rail,Rail,543,257.7,2024-01-10 15:34,2024-01-10 23:10,0.0,Livré,3498.28,1427.05,DAP,1
+LIV-0048,CMD-0380,Safi,Laayoune,T003,Atlas Trucks,Route,245,357.6,2025-03-29 08:12,2025-03-29 14:12,2.1,Livré,8410.75,1382.26,NPS,0
+LIV-0049,CMD-0590,Casablanca Port,Laayoune,T001,OCP Rail,Rail,900,53.9,2024-09-15 13:49,2024-09-16 03:55,1.5,En transit,1212.75,777.75,Phosphate brut,0
+LIV-0050,CMD-0477,Laayoune,Casablanca Port,T001,OCP Rail,Rail,900,442.8,2024-02-12 13:45,2024-02-13 03:57,0.0,Livré,9963.0,5936.94,DAP,1
+LIV-0051,CMD-0595,Benguerir,Safi,T002,ONCF Fret,Rail,95,288.2,2024-06-08 00:07,2024-06-08 02:13,0.0,En transit,602.34,276.05,Phosphate brut,0
+LIV-0052,CMD-0126,Laayoune,Casablanca Port,T002,ONCF Fret,Rail,900,189.3,2024-11-24 11:58,2024-11-25 05:10,0.0,Livré,3748.14,1963.51,NPS,1
+LIV-0053,CMD-0469,Casablanca Port,Jorf Lasfar,T006,Marsa Maroc,Maritime,95,275.8,2024-10-12 22:44,2024-10-13 00:02,20.2,Livré,183.41,306.66,MAP,0
+LIV-0054,CMD-0024,Khouribga,Jorf Lasfar,T002,ONCF Fret,Rail,180,480.0,2024-05-07 23:27,2024-05-08 02:51,2.9,Livré,1900.8,877.31,Acide phosphorique,0
+LIV-0055,CMD-0344,Safi,Laayoune,T005,OCP Maritime,Maritime,215,247.5,2024-01-17 16:27,2024-01-17 20:27,0.0,Retardé,425.7,671.8,Urée,0
+LIV-0056,CMD-0176,Jorf Lasfar,Benguerir,T006,Marsa Maroc,Maritime,110,397.7,2025-02-15 19:00,2025-02-15 20:24,0.0,Planifié,306.23,573.1,Acide phosphorique,0
+LIV-0057,CMD-0187,Youssoufia,Jorf Lasfar,T003,Atlas Trucks,Route,90,389.5,2024-10-01 06:39,2024-10-01 08:21,0.0,Livré,3365.28,348.47,TSP,1
+LIV-0058,CMD-0576,Laayoune,Casablanca Port,T006,Marsa Maroc,Maritime,900,401.3,2024-03-31 19:29,2024-04-01 16:59,0.0,Livré,2528.19,3886.56,DAP,1
+LIV-0059,CMD-0470,Casablanca Port,Benguerir,T003,Atlas Trucks,Route,231,199.0,2024-05-06 07:02,2024-05-06 10:38,4.5,Planifié,4413.02,619.99,Sulfate d'ammonium,0
+LIV-0060,CMD-0151,Youssoufia,Khouribga,T006,Marsa Maroc,Maritime,639,488.3,2024-08-17 13:34,2024-08-17 23:58,22.9,En transit,2184.17,3739.67,NPS,0
+LIV-0061,CMD-0335,Benguerir,Laayoune,T001,OCP Rail,Rail,829,249.9,2025-03-03 22:38,2025-03-04 16:56,0.0,Livré,5179.18,2048.59,DAP,1
+LIV-0062,CMD-0525,Jorf Lasfar,Laayoune,T002,ONCF Fret,Rail,820,272.7,2024-08-03 20:56,2024-08-04 13:44,0.8,Retardé,4919.51,3404.58,Urée,0
+LIV-0063,CMD-0354,Youssoufia,Jorf Lasfar,T003,Atlas Trucks,Route,90,310.4,2024-10-07 10:44,2024-10-07 12:20,0.0,Livré,2681.86,457.94,Sulfate d'ammonium,1
+LIV-0064,CMD-0425,Benguerir,Jorf Lasfar,T005,OCP Maritime,Maritime,110,123.5,2024-11-18 19:31,2024-11-18 20:55,20.1,Livré,108.68,217.25,TSP,0
+LIV-0065,CMD-0420,Laayoune,Jorf Lasfar,T005,OCP Maritime,Maritime,820,88.9,2025-02-12 00:19,2025-02-12 10:01,0.7,Livré,583.18,858.98,Acide phosphorique,0
+LIV-0066,CMD-0310,Safi,Youssoufia,T005,OCP Maritime,Maritime,60,360.9,2024-04-16 08:30,2024-04-16 09:42,0.0,Planifié,173.23,325.63,Acide phosphorique,0
+LIV-0067,CMD-0295,Safi,Casablanca Port,T006,Marsa Maroc,Maritime,554,127.8,2024-04-29 15:12,2024-04-30 01:54,0.0,En transit,495.61,1083.03,Urée,0
+LIV-0068,CMD-0447,Youssoufia,Jorf Lasfar,T006,Marsa Maroc,Maritime,90,137.5,2024-08-03 07:42,2024-08-03 09:06,0.0,Livré,86.62,129.43,Acide phosphorique,1
+LIV-0069,CMD-0139,Casablanca Port,Laayoune,T004,Sahara Trans,Route,900,412.8,2025-03-22 19:41,2025-03-23 17:47,0.0,Livré,38638.08,4564.89,Sulfate d'ammonium,1
+LIV-0070,CMD-0188,Youssoufia,Khouribga,T003,Atlas Trucks,Route,449,221.4,2024-10-03 12:01,2024-10-03 22:37,0.0,Livré,9543.23,1607.15,MAP,1
+LIV-0071,CMD-0148,Jorf Lasfar,Youssoufia,T005,OCP Maritime,Maritime,90,438.8,2024-08-21 20:23,2024-08-21 22:05,0.0,Livré,315.94,614.22,DAP,1
+LIV-0072,CMD-0539,Youssoufia,Casablanca Port,T003,Atlas Trucks,Route,461,393.8,2024-05-06 15:05,2024-05-07 01:23,0.0,Retardé,17428.01,2281.32,MAP,0
+LIV-0073,CMD-0536,Safi,Jorf Lasfar,T001,OCP Rail,Rail,75,413.0,2025-01-07 10:52,2025-01-07 12:10,0.0,Incident,774.38,503.3,Sulfate d'ammonium,0
+LIV-0074,CMD-0081,Youssoufia,Laayoune,T003,Atlas Trucks,Route,109,377.3,2024-04-09 23:24,2024-04-10 00:48,0.0,Livré,3948.07,429.92,Urée,1
+LIV-0075,CMD-0260,Casablanca Port,Khouribga,T001,OCP Rail,Rail,120,391.9,2024-02-03 00:34,2024-02-03 03:04,0.0,Livré,1175.7,707.9,DAP,1
+LIV-0076,CMD-0285,Khouribga,Safi,T006,Marsa Maroc,Maritime,155,382.2,2024-06-08 12:57,2024-06-08 15:15,0.0,Livré,414.69,902.42,Sulfate d'ammonium,1
+LIV-0077,CMD-0289,Benguerir,Youssoufia,T005,OCP Maritime,Maritime,879,369.7,2025-03-18 21:57,2025-03-19 18:21,0.0,En transit,2599.73,3685.48,TSP,0
+LIV-0078,CMD-0110,Laayoune,Jorf Lasfar,T001,OCP Rail,Rail,820,67.4,2025-01-26 14:52,2025-01-27 01:22,0.0,En transit,1381.7,615.74,TSP,0
+LIV-0079,CMD-0370,Laayoune,Benguerir,T004,Sahara Trans,Route,514,122.9,2024-03-28 15:35,2024-03-28 22:29,0.0,Livré,6569.74,709.94,Acide phosphorique,1
+LIV-0080,CMD-0418,Jorf Lasfar,Laayoune,T001,OCP Rail,Rail,820,177.5,2024-08-08 06:54,2024-08-08 20:24,3.1,Livré,3638.75,1518.55,Acide phosphorique,0
+LIV-0081,CMD-0088,Laayoune,Safi,T002,ONCF Fret,Rail,151,449.5,2024-10-12 09:36,2024-10-12 12:42,0.0,Livré,1493.24,1043.74,MAP,1
+LIV-0082,CMD-0126,Youssoufia,Jorf Lasfar,T004,Sahara Trans,Route,90,303.5,2024-05-11 01:13,2024-05-11 03:19,0.0,Incident,2840.76,282.23,Phosphate brut,0
+LIV-0083,CMD-0415,Laayoune,Safi,T006,Marsa Maroc,Maritime,591,153.7,2025-03-27 23:44,2025-03-28 08:38,20.0,Livré,635.86,1338.67,NPS,0
+LIV-0084,CMD-0070,Jorf Lasfar,Benguerir,T002,ONCF Fret,Rail,110,238.2,2025-01-15 01:59,2025-01-15 03:47,0.0,Livré,576.44,274.59,NPS,1
+LIV-0085,CMD-0478,Casablanca Port,Khouribga,T002,ONCF Fret,Rail,120,310.2,2024-08-23 03:43,2024-08-23 05:31,0.8,Planifié,818.93,444.98,Phosphate brut,0
+LIV-0086,CMD-0393,Benguerir,Laayoune,T004,Sahara Trans,Route,582,262.3,2025-02-23 20:11,2025-02-24 05:11,0.0,Retardé,15876.49,2061.74,NPS,0
+LIV-0087,CMD-0113,Benguerir,Jorf Lasfar,T004,Sahara Trans,Route,110,37.3,2024-08-23 09:09,2024-08-23 10:33,0.0,Livré,426.71,44.61,NPS,1
+LIV-0088,CMD-0362,Casablanca Port,Jorf Lasfar,T006,Marsa Maroc,Maritime,95,294.7,2024-05-01 09:50,2024-05-01 11:20,13.9,En transit,195.98,364.7,Acide phosphorique,0
+LIV-0089,CMD-0439,Benguerir,Khouribga,T001,OCP Rail,Rail,80,41.7,2024-09-27 23:32,2024-09-28 00:32,0.0,Livré,83.4,52.13,Sulfate d'ammonium,1
+LIV-0090,CMD-0021,Benguerir,Jorf Lasfar,T003,Atlas Trucks,Route,110,337.4,2024-08-30 09:57,2024-08-30 11:39,0.0,Livré,3562.94,422.46,Sulfate d'ammonium,1
+LIV-0091,CMD-0331,Khouribga,Jorf Lasfar,T006,Marsa Maroc,Maritime,180,292.7,2024-07-26 02:08,2024-07-26 06:32,0.0,En transit,368.8,847.73,MAP,0
+LIV-0092,CMD-0207,Laayoune,Safi,T001,OCP Rail,Rail,787,344.1,2025-01-25 12:17,2025-01-25 22:35,0.0,Retardé,6770.17,3254.82,NPS,0
+LIV-0093,CMD-0098,Casablanca Port,Khouribga,T005,OCP Maritime,Maritime,120,157.9,2025-03-21 11:12,2025-03-21 13:18,0.0,Planifié,151.58,188.39,Sulfate d'ammonium,0
+LIV-0094,CMD-0553,Benguerir,Khouribga,T005,OCP Maritime,Maritime,80,274.9,2024-09-26 18:26,2024-09-26 19:32,2.8,Livré,175.94,278.75,Sulfate d'ammonium,0
+LIV-0095,CMD-0219,Youssoufia,Jorf Lasfar,T004,Sahara Trans,Route,90,320.0,2025-03-01 07:18,2025-03-01 09:12,0.6,En transit,2995.2,370.46,NPS,0
+LIV-0096,CMD-0247,Benguerir,Laayoune,T005,OCP Maritime,Maritime,908,314.9,2024-12-02 21:12,2024-12-03 08:18,0.0,Livré,2287.43,4328.3,TSP,1
+LIV-0097,CMD-0242,Casablanca Port,Laayoune,T003,Atlas Trucks,Route,900,229.0,2024-02-20 01:00,2024-02-20 14:06,0.0,Livré,19785.6,2451.42,Urée,1
+LIV-0098,CMD-0164,Youssoufia,Khouribga,T002,ONCF Fret,Rail,276,33.3,2024-08-29 04:53,2024-08-29 09:23,0.0,Livré,202.2,140.98,Acide phosphorique,1
+LIV-0099,CMD-0086,Youssoufia,Khouribga,T003,Atlas Trucks,Route,888,405.7,2024-05-16 16:36,2024-05-17 05:30,0.6,Livré,34585.11,5167.03,Sulfate d'ammonium,0
+LIV-0100,CMD-0513,Jorf Lasfar,Benguerir,T001,OCP Rail,Rail,110,450.5,2024-03-11 03:25,2024-03-11 05:19,0.0,En transit,1238.88,715.38,MAP,0
+LIV-0101,CMD-0400,Jorf Lasfar,Laayoune,T005,OCP Maritime,Maritime,820,467.1,2024-03-11 02:21,2024-03-11 18:33,0.0,En transit,3064.18,4371.44,Phosphate brut,0
+LIV-0102,CMD-0116,Safi,Youssoufia,T002,ONCF Fret,Rail,60,104.1,2024-12-07 08:24,2024-12-07 09:24,0.0,En transit,137.41,103.58,Sulfate d'ammonium,0
+LIV-0103,CMD-0036,Jorf Lasfar,Safi,T004,Sahara Trans,Route,75,138.2,2024-04-22 13:20,2024-04-22 14:38,0.0,Retardé,1077.96,120.23,DAP,0
+LIV-0104,CMD-0009,Casablanca Port,Laayoune,T002,ONCF Fret,Rail,900,285.3,2024-10-08 20:06,2024-10-09 07:18,0.0,Livré,5648.94,3036.75,Urée,1
+LIV-0105,CMD-0035,Benguerir,Safi,T001,OCP Rail,Rail,95,383.2,2024-05-04 10:51,2024-05-04 12:03,2.7,Livré,910.1,427.44,Acide phosphorique,0
+LIV-0106,CMD-0519,Laayoune,Khouribga,T004,Sahara Trans,Route,562,373.7,2024-09-15 10:23,2024-09-15 18:11,3.6,En transit,21842.02,3417.18,MAP,0
+LIV-0107,CMD-0140,Benguerir,Jorf Lasfar,T005,OCP Maritime,Maritime,110,410.4,2024-12-18 01:24,2024-12-18 02:54,0.0,Livré,361.15,673.19,DAP,1
+LIV-0108,CMD-0421,Safi,Youssoufia,T006,Marsa Maroc,Maritime,60,170.6,2024-05-02 14:01,2024-05-02 15:13,0.0,Livré,71.65,104.33,Sulfate d'ammonium,1
+LIV-0109,CMD-0585,Safi,Jorf Lasfar,T006,Marsa Maroc,Maritime,75,145.1,2024-09-11 10:32,2024-09-11 11:32,0.0,Retardé,76.18,158.34,Phosphate brut,0
+LIV-0110,CMD-0440,Khouribga,Youssoufia,T005,OCP Maritime,Maritime,742,313.8,2024-03-10 02:38,2024-03-10 11:32,0.0,Livré,1862.72,2618.68,Acide phosphorique,1
+LIV-0111,CMD-0209,Youssoufia,Khouribga,T003,Atlas Trucks,Route,254,474.7,2025-02-12 10:19,2025-02-12 14:37,3.7,Livré,11575.08,1259.38,Phosphate brut,0
+LIV-0112,CMD-0419,Laayoune,Benguerir,T003,Atlas Trucks,Route,844,257.2,2024-06-09 11:24,2024-06-10 00:00,4.0,Livré,20839.37,2287.43,TSP,0
+LIV-0113,CMD-0408,Khouribga,Safi,T003,Atlas Trucks,Route,155,316.5,2024-10-14 02:32,2024-10-14 04:50,0.0,Retardé,4709.52,791.43,Phosphate brut,0
+LIV-0114,CMD-0047,Casablanca Port,Safi,T006,Marsa Maroc,Maritime,513,373.3,2024-03-15 00:08,2024-03-15 08:02,0.0,Livré,1340.52,2191.72,DAP,1
+LIV-0115,CMD-0505,Benguerir,Casablanca Port,T005,OCP Maritime,Maritime,470,165.2,2024-10-15 02:05,2024-10-15 12:17,0.0,Livré,621.15,966.03,Sulfate d'ammonium,1
+LIV-0116,CMD-0370,Safi,Youssoufia,T001,OCP Rail,Rail,60,360.9,2024-07-21 06:19,2024-07-21 07:37,0.7,Planifié,541.35,275.38,Urée,0
+LIV-0117,CMD-0570,Benguerir,Safi,T005,OCP Maritime,Maritime,95,385.6,2024-08-31 02:56,2024-08-31 04:32,0.0,Retardé,293.06,421.23,NPS,0
+LIV-0118,CMD-0453,Khouribga,Benguerir,T002,ONCF Fret,Rail,80,130.3,2024-07-21 02:55,2024-07-21 04:37,2.1,Livré,229.33,102.76,Sulfate d'ammonium,0
+LIV-0119,CMD-0521,Casablanca Port,Jorf Lasfar,T004,Sahara Trans,Route,95,256.6,2024-04-24 23:55,2024-04-25 02:01,0.0,Livré,2535.21,382.48,Acide phosphorique,1
+LIV-0120,CMD-0097,Jorf Lasfar,Laayoune,T005,OCP Maritime,Maritime,820,300.1,2025-02-12 13:38,2025-02-13 00:38,0.0,Livré,1968.66,4083.91,Sulfate d'ammonium,1
+LIV-0121,CMD-0465,Khouribga,Safi,T006,Marsa Maroc,Maritime,155,78.6,2024-03-23 09:17,2024-03-23 11:17,1.0,En transit,85.28,149.72,Acide phosphorique,0
+LIV-0122,CMD-0217,Jorf Lasfar,Laayoune,T001,OCP Rail,Rail,820,485.5,2024-12-17 22:26,2024-12-18 13:26,18.7,En transit,9952.75,5702.7,DAP,0
+LIV-0123,CMD-0409,Laayoune,Casablanca Port,T003,Atlas Trucks,Route,900,403.1,2025-02-28 23:43,2025-03-01 10:37,0.0,Retardé,34827.84,5425.66,MAP,0
+LIV-0124,CMD-0135,Khouribga,Benguerir,T002,ONCF Fret,Rail,80,394.2,2024-04-29 17:16,2024-04-29 19:04,2.2,Livré,693.79,367.44,Sulfate d'ammonium,0
+LIV-0125,CMD-0191,Casablanca Port,Khouribga,T003,Atlas Trucks,Route,120,115.9,2024-10-28 10:30,2024-10-28 12:30,2.5,Planifié,1335.17,178.12,Urée,0
+LIV-0126,CMD-0086,Casablanca Port,Safi,T001,OCP Rail,Rail,121,266.4,2024-06-23 03:57,2024-06-23 05:45,0.0,En transit,805.86,535.33,Acide phosphorique,0
+LIV-0127,CMD-0565,Safi,Jorf Lasfar,T001,OCP Rail,Rail,75,249.3,2024-04-09 06:10,2024-04-09 07:16,0.0,En transit,467.44,199.5,MAP,0
+LIV-0128,CMD-0474,Khouribga,Casablanca Port,T001,OCP Rail,Rail,120,224.0,2025-03-17 13:12,2025-03-17 14:48,1.7,Livré,672.0,276.33,TSP,0
+LIV-0129,CMD-0350,Laayoune,Youssoufia,T004,Sahara Trans,Route,126,60.0,2024-08-19 04:33,2024-08-19 06:51,0.0,Planifié,786.24,120.3,TSP,0
+LIV-0130,CMD-0472,Youssoufia,Benguerir,T001,OCP Rail,Rail,844,491.4,2024-03-23 14:08,2024-03-24 04:20,0.0,En transit,10368.54,4755.88,Urée,0
+LIV-0131,CMD-0139,Laayoune,Casablanca Port,T006,Marsa Maroc,Maritime,900,368.4,2024-10-07 04:28,2024-10-07 17:10,3.9,Livré,2320.92,3905.83,DAP,0
+LIV-0132,CMD-0552,Youssoufia,Khouribga,T001,OCP Rail,Rail,792,485.8,2024-06-11 12:19,2024-06-12 01:07,1.0,Planifié,9618.84,6073.29,Phosphate brut,0
+LIV-0133,CMD-0461,Khouribga,Safi,T004,Sahara Trans,Route,155,247.5,2024-05-09 00:25,2024-05-09 02:19,0.0,Livré,3989.7,374.31,Phosphate brut,1
+LIV-0134,CMD-0593,Youssoufia,Safi,T005,OCP Maritime,Maritime,60,420.2,2024-01-07 02:47,2024-01-07 04:05,0.0,Livré,201.7,251.28,Acide phosphorique,1
+LIV-0135,CMD-0275,Khouribga,Jorf Lasfar,T004,Sahara Trans,Route,180,266.4,2025-01-13 23:08,2025-01-14 02:44,0.0,En transit,4987.01,710.52,Urée,0
+LIV-0136,CMD-0225,Safi,Khouribga,T004,Sahara Trans,Route,155,470.7,2024-12-04 19:55,2024-12-04 23:43,0.0,Livré,7587.68,882.56,Sulfate d'ammonium,1
+LIV-0137,CMD-0166,Jorf Lasfar,Laayoune,T006,Marsa Maroc,Maritime,820,83.0,2024-10-30 05:02,2024-10-30 14:56,3.4,Planifié,476.42,797.15,Phosphate brut,0
+LIV-0138,CMD-0241,Benguerir,Laayoune,T006,Marsa Maroc,Maritime,168,340.2,2024-06-03 22:39,2024-06-04 02:15,19.9,Livré,400.08,601.8,Phosphate brut,0
+LIV-0139,CMD-0117,Jorf Lasfar,Khouribga,T001,OCP Rail,Rail,180,442.8,2024-05-03 04:37,2024-05-03 08:25,3.5,Livré,1992.6,970.05,Phosphate brut,0
+LIV-0140,CMD-0528,Khouribga,Casablanca Port,T002,ONCF Fret,Rail,120,143.8,2024-10-02 22:10,2024-10-02 23:46,3.2,Planifié,379.63,207.94,MAP,0
+LIV-0141,CMD-0576,Casablanca Port,Khouribga,T004,Sahara Trans,Route,120,239.4,2024-03-27 03:54,2024-03-27 05:18,3.2,Livré,2987.71,449.87,DAP,0
+LIV-0142,CMD-0102,Jorf Lasfar,Khouribga,T002,ONCF Fret,Rail,180,76.7,2024-10-07 21:25,2024-10-08 01:13,0.0,En transit,303.73,152.95,TSP,0
+LIV-0143,CMD-0294,Casablanca Port,Benguerir,T003,Atlas Trucks,Route,918,86.1,2024-12-07 01:34,2024-12-07 12:34,3.2,Livré,7587.82,1241.71,TSP,0
+LIV-0144,CMD-0424,Khouribga,Safi,T003,Atlas Trucks,Route,155,382.3,2024-07-09 15:32,2024-07-09 18:50,0.0,Planifié,5688.62,722.73,Urée,0
+LIV-0145,CMD-0169,Safi,Casablanca Port,T006,Marsa Maroc,Maritime,450,473.0,2024-01-08 17:27,2024-01-08 23:39,0.0,Livré,1489.95,2721.62,Urée,1
+LIV-0146,CMD-0303,Khouribga,Jorf Lasfar,T001,OCP Rail,Rail,180,462.8,2025-03-22 06:31,2025-03-22 10:43,2.7,Livré,2082.6,890.26,Urée,0
+LIV-0147,CMD-0414,Safi,Laayoune,T006,Marsa Maroc,Maritime,646,439.3,2024-08-31 15:42,2024-08-31 23:42,0.0,Retardé,1986.51,4198.69,NPS,0
+LIV-0148,CMD-0038,Casablanca Port,Youssoufia,T005,OCP Maritime,Maritime,719,398.4,2024-09-25 03:56,2024-09-25 12:56,0.0,Livré,2291.6,4094.7,Sulfate d'ammonium,1
+LIV-0149,CMD-0164,Safi,Laayoune,T006,Marsa Maroc,Maritime,837,442.3,2025-02-24 01:03,2025-02-24 16:57,0.0,Planifié,2591.44,4941.27,DAP,0
+LIV-0150,CMD-0363,Khouribga,Casablanca Port,T005,OCP Maritime,Maritime,120,135.8,2024-11-24 08:33,2024-11-24 09:57,0.0,En transit,130.37,247.27,MAP,0
+LIV-0151,CMD-0547,Khouribga,Laayoune,T001,OCP Rail,Rail,539,163.0,2024-12-17 23:16,2024-12-18 09:04,0.0,En transit,2196.43,1309.54,Phosphate brut,0
+LIV-0152,CMD-0370,Benguerir,Safi,T003,Atlas Trucks,Route,95,396.7,2024-04-18 17:15,2024-04-18 18:33,0.0,En transit,3617.9,555.76,NPS,0
+LIV-0153,CMD-0413,Khouribga,Benguerir,T006,Marsa Maroc,Maritime,80,417.7,2024-02-18 07:22,2024-02-18 08:46,0.0,En transit,233.91,340.51,Urée,0
+LIV-0154,CMD-0469,Laayoune,Benguerir,T005,OCP Maritime,Maritime,590,325.5,2025-01-15 05:42,2025-01-15 13:48,0.0,Livré,1536.36,3221.53,TSP,1
+LIV-0155,CMD-0419,Casablanca Port,Jorf Lasfar,T005,OCP Maritime,Maritime,95,353.3,2024-01-26 07:50,2024-01-26 09:08,11.4,En transit,268.51,432.27,MAP,0
+LIV-0156,CMD-0432,Khouribga,Safi,T005,OCP Maritime,Maritime,155,39.3,2024-10-15 12:39,2024-10-15 15:33,0.0,Livré,48.73,65.2,DAP,1
+LIV-0157,CMD-0464,Benguerir,Safi,T002,ONCF Fret,Rail,95,413.2,2024-04-05 00:21,2024-04-05 01:51,0.0,Livré,863.59,514.99,Sulfate d'ammonium,1
+LIV-0158,CMD-0334,Laayoune,Safi,T004,Sahara Trans,Route,934,365.6,2024-04-17 14:14,2024-04-18 05:08,0.0,Planifié,35512.92,4767.31,MAP,0
+LIV-0159,CMD-0091,Laayoune,Jorf Lasfar,T006,Marsa Maroc,Maritime,820,216.6,2024-11-03 02:44,2024-11-03 17:32,0.0,Livré,1243.28,2002.81,TSP,1
+LIV-0160,CMD-0055,Casablanca Port,Khouribga,T005,OCP Maritime,Maritime,120,402.2,2025-03-11 18:37,2025-03-11 20:19,5.7,Livré,386.11,709.16,Phosphate brut,0
+LIV-0161,CMD-0594,Laayoune,Safi,T005,OCP Maritime,Maritime,99,77.7,2024-05-19 14:39,2024-05-19 15:51,1.5,Planifié,61.54,125.7,NPS,0
+LIV-0162,CMD-0094,Khouribga,Casablanca Port,T005,OCP Maritime,Maritime,120,212.9,2024-01-19 01:39,2024-01-19 03:51,0.0,Livré,204.38,253.54,MAP,1
+LIV-0163,CMD-0186,Khouribga,Casablanca Port,T002,ONCF Fret,Rail,120,89.1,2024-03-10 14:47,2024-03-10 17:23,0.0,Retardé,235.22,122.32,DAP,0
+LIV-0164,CMD-0243,Casablanca Port,Khouribga,T003,Atlas Trucks,Route,120,67.4,2024-09-08 19:51,2024-09-08 22:09,0.0,Livré,776.45,85.94,NPS,1
+LIV-0165,CMD-0276,Jorf Lasfar,Casablanca Port,T004,Sahara Trans,Route,95,149.3,2025-03-05 14:55,2025-03-05 16:31,0.0,Retardé,1475.08,168.67,MAP,0
+LIV-0166,CMD-0173,Youssoufia,Casablanca Port,T006,Marsa Maroc,Maritime,884,80.3,2024-12-12 09:42,2024-12-13 05:54,8.1,Livré,496.9,971.88,Phosphate brut,0
+LIV-0167,CMD-0257,Jorf Lasfar,Safi,T005,OCP Maritime,Maritime,75,40.1,2024-08-12 16:00,2024-08-12 17:06,5.2,Livré,24.06,46.47,Urée,0
+LIV-0168,CMD-0144,Benguerir,Laayoune,T002,ONCF Fret,Rail,679,423.5,2024-05-05 09:01,2024-05-05 18:19,0.0,Livré,6326.24,3342.97,Acide phosphorique,1
+LIV-0169,CMD-0330,Safi,Youssoufia,T005,OCP Maritime,Maritime,60,479.6,2024-09-23 03:11,2024-09-23 04:05,0.0,En transit,230.21,342.2,Sulfate d'ammonium,0
+LIV-0170,CMD-0501,Youssoufia,Jorf Lasfar,T005,OCP Maritime,Maritime,90,27.6,2024-01-02 14:10,2024-01-02 15:28,0.0,En transit,19.87,36.22,Urée,0
+LIV-0171,CMD-0182,Jorf Lasfar,Khouribga,T006,Marsa Maroc,Maritime,180,57.2,2024-12-11 18:41,2024-12-11 21:17,1.7,Livré,72.07,101.14,DAP,0
+LIV-0172,CMD-0311,Khouribga,Jorf Lasfar,T003,Atlas Trucks,Route,180,233.4,2024-01-16 08:45,2024-01-16 11:09,0.0,Planifié,4033.15,470.32,Phosphate brut,0
+LIV-0173,CMD-0513,Youssoufia,Jorf Lasfar,T003,Atlas Trucks,Route,90,154.8,2024-06-11 09:39,2024-06-11 11:51,0.0,Livré,1337.47,224.48,NPS,1
+LIV-0174,CMD-0234,Youssoufia,Casablanca Port,T002,ONCF Fret,Rail,755,374.6,2025-03-14 22:58,2025-03-15 14:46,0.0,Retardé,6222.11,4083.87,Acide phosphorique,0
+LIV-0175,CMD-0331,Youssoufia,Laayoune,T001,OCP Rail,Rail,789,345.3,2025-03-11 01:19,2025-03-11 11:13,0.5,En transit,6811.04,3820.75,Urée,0
+LIV-0176,CMD-0546,Laayoune,Safi,T003,Atlas Trucks,Route,204,346.5,2024-10-07 18:19,2024-10-07 21:31,0.0,Retardé,6785.86,916.05,NPS,0
+LIV-0177,CMD-0202,Benguerir,Khouribga,T004,Sahara Trans,Route,80,180.7,2024-01-20 16:58,2024-01-20 17:52,17.8,Retardé,1503.42,230.38,TSP,0
+LIV-0178,CMD-0111,Benguerir,Safi,T001,OCP Rail,Rail,95,320.1,2024-12-01 12:06,2024-12-01 13:18,0.0,Livré,760.24,298.03,NPS,1
+LIV-0179,CMD-0088,Youssoufia,Safi,T001,OCP Rail,Rail,60,180.1,2024-02-26 15:09,2024-02-26 15:57,0.0,En transit,270.15,165.52,DAP,0
+LIV-0180,CMD-0058,Khouribga,Jorf Lasfar,T003,Atlas Trucks,Route,180,352.8,2024-02-18 03:48,2024-02-18 06:00,0.0,Livré,6096.38,967.49,DAP,1
+LIV-0181,CMD-0027,Benguerir,Jorf Lasfar,T004,Sahara Trans,Route,110,316.3,2024-01-09 05:43,2024-01-09 07:31,0.0,Livré,3618.47,437.0,NPS,1
+LIV-0182,CMD-0364,Jorf Lasfar,Benguerir,T005,OCP Maritime,Maritime,110,71.8,2024-02-22 11:07,2024-02-22 12:43,0.0,Livré,63.18,76.52,Urée,1
+LIV-0183,CMD-0319,Safi,Laayoune,T005,OCP Maritime,Maritime,535,109.2,2024-02-04 05:32,2024-02-04 18:02,12.7,Planifié,467.38,618.76,TSP,0
+LIV-0184,CMD-0573,Youssoufia,Jorf Lasfar,T003,Atlas Trucks,Route,90,184.6,2024-01-07 06:39,2024-01-07 08:03,0.0,Planifié,1594.94,203.61,DAP,0
+LIV-0185,CMD-0340,Safi,Benguerir,T002,ONCF Fret,Rail,95,327.5,2024-02-23 03:08,2024-02-23 04:50,17.9,En transit,684.47,343.76,Sulfate d'ammonium,0
+LIV-0186,CMD-0219,Jorf Lasfar,Benguerir,T004,Sahara Trans,Route,110,97.9,2024-02-02 18:31,2024-02-02 20:19,3.7,Livré,1119.98,138.61,Phosphate brut,0
+LIV-0187,CMD-0146,Safi,Laayoune,T003,Atlas Trucks,Route,906,375.2,2024-05-23 02:33,2024-05-23 14:15,0.0,En transit,32633.4,3765.85,Acide phosphorique,0
+LIV-0188,CMD-0568,Safi,Youssoufia,T006,Marsa Maroc,Maritime,60,458.1,2024-01-24 01:22,2024-01-24 02:34,0.0,Livré,192.4,335.09,Phosphate brut,1
+LIV-0189,CMD-0216,Youssoufia,Benguerir,T001,OCP Rail,Rail,260,424.6,2024-01-17 07:21,2024-01-17 10:45,1.0,Livré,2759.9,1783.63,Acide phosphorique,0
+LIV-0190,CMD-0148,Safi,Youssoufia,T003,Atlas Trucks,Route,60,198.7,2025-02-13 06:37,2025-02-13 07:19,4.0,Livré,1144.51,129.16,TSP,0
+LIV-0191,CMD-0549,Laayoune,Youssoufia,T002,ONCF Fret,Rail,625,201.5,2024-11-29 15:12,2024-11-29 22:36,0.0,Livré,2770.62,1548.36,Acide phosphorique,1
+LIV-0192,CMD-0482,Laayoune,Youssoufia,T003,Atlas Trucks,Route,333,45.6,2024-04-08 05:21,2024-04-08 09:39,0.0,Livré,1457.74,232.76,MAP,1
+LIV-0193,CMD-0507,Youssoufia,Casablanca Port,T004,Sahara Trans,Route,849,443.6,2024-10-17 16:49,2024-10-18 06:25,0.0,En transit,39168.11,5652.33,NPS,0
+LIV-0194,CMD-0436,Benguerir,Casablanca Port,T004,Sahara Trans,Route,733,462.2,2024-01-29 10:21,2024-01-30 01:15,0.0,Livré,35234.43,4676.92,Urée,1
+LIV-0195,CMD-0345,Jorf Lasfar,Youssoufia,T003,Atlas Trucks,Route,90,284.3,2024-03-06 06:23,2024-03-06 08:05,0.0,Livré,2456.35,270.38,Urée,1
+LIV-0196,CMD-0085,Safi,Jorf Lasfar,T004,Sahara Trans,Route,75,196.4,2024-07-31 01:27,2024-07-31 02:45,0.0,Livré,1531.92,194.18,Acide phosphorique,1
+LIV-0197,CMD-0338,Laayoune,Jorf Lasfar,T005,OCP Maritime,Maritime,820,329.0,2024-06-25 21:24,2024-06-26 15:54,0.0,Livré,2158.24,4116.38,Acide phosphorique,1
+LIV-0198,CMD-0307,Benguerir,Laayoune,T006,Marsa Maroc,Maritime,945,151.7,2024-04-17 01:59,2024-04-17 13:05,18.8,Livré,1003.5,2104.56,Acide phosphorique,0
+LIV-0199,CMD-0233,Laayoune,Benguerir,T004,Sahara Trans,Route,495,414.5,2024-01-10 05:39,2024-01-10 13:45,0.0,Livré,21338.46,3089.19,Phosphate brut,1
+LIV-0200,CMD-0428,Safi,Youssoufia,T005,OCP Maritime,Maritime,60,397.3,2024-12-24 09:08,2024-12-24 10:14,0.0,Retardé,190.7,358.88,Phosphate brut,0
+LIV-0201,CMD-0231,Safi,Jorf Lasfar,T005,OCP Maritime,Maritime,75,199.9,2024-04-09 16:32,2024-04-09 17:56,3.1,Livré,119.94,206.27,Urée,0
+LIV-0202,CMD-0339,Safi,Laayoune,T004,Sahara Trans,Route,861,393.7,2024-09-10 06:33,2024-09-10 19:33,0.0,Incident,35253.47,4566.26,Urée,0
+LIV-0203,CMD-0567,Safi,Youssoufia,T004,Sahara Trans,Route,60,276.6,2024-03-25 09:09,2024-03-25 10:15,0.0,Livré,1725.98,181.83,TSP,1
+LIV-0204,CMD-0531,Khouribga,Laayoune,T005,OCP Maritime,Maritime,580,32.9,2024-10-26 17:35,2024-10-27 04:35,0.0,Livré,152.66,210.53,DAP,1
+LIV-0205,CMD-0211,Youssoufia,Safi,T004,Sahara Trans,Route,60,95.4,2025-02-20 16:12,2025-02-20 17:12,11.8,Livré,595.3,59.51,Acide phosphorique,0
+LIV-0206,CMD-0147,Safi,Laayoune,T006,Marsa Maroc,Maritime,566,96.2,2024-08-29 00:40,2024-08-29 09:10,0.0,Livré,381.14,748.17,NPS,1
+LIV-0207,CMD-0468,Khouribga,Jorf Lasfar,T005,OCP Maritime,Maritime,180,138.5,2025-03-18 03:11,2025-03-18 05:29,2.1,Livré,199.44,298.36,Sulfate d'ammonium,0
+LIV-0208,CMD-0188,Casablanca Port,Laayoune,T003,Atlas Trucks,Route,900,314.3,2024-05-16 00:35,2024-05-16 15:53,0.0,Livré,27155.52,4365.22,MAP,1
+LIV-0209,CMD-0506,Safi,Laayoune,T001,OCP Rail,Rail,325,445.1,2025-02-21 16:09,2025-02-21 22:15,3.7,Livré,3616.44,1553.2,Urée,0
+LIV-0210,CMD-0473,Laayoune,Jorf Lasfar,T001,OCP Rail,Rail,820,56.7,2024-09-10 05:19,2024-09-10 19:19,0.0,Livré,1162.35,481.57,Urée,1
+LIV-0211,CMD-0085,Benguerir,Laayoune,T004,Sahara Trans,Route,279,210.4,2024-03-30 01:50,2024-03-30 05:44,0.0,Livré,6104.97,568.07,Phosphate brut,1
+LIV-0212,CMD-0173,Casablanca Port,Safi,T002,ONCF Fret,Rail,562,413.8,2024-05-12 12:00,2024-05-12 19:12,0.0,En transit,5116.22,3641.65,MAP,0
+LIV-0213,CMD-0536,Casablanca Port,Khouribga,T006,Marsa Maroc,Maritime,120,93.7,2024-06-17 07:04,2024-06-17 08:46,0.0,Livré,78.71,136.93,MAP,1
+LIV-0214,CMD-0432,Safi,Laayoune,T003,Atlas Trucks,Route,534,45.2,2024-10-20 03:09,2024-10-20 10:21,0.0,Livré,2317.13,232.52,DAP,1
+LIV-0215,CMD-0111,Khouribga,Safi,T002,ONCF Fret,Rail,155,341.1,2024-03-16 00:48,2024-03-16 02:48,0.0,Livré,1163.15,591.52,Sulfate d'ammonium,1
+LIV-0216,CMD-0412,Benguerir,Casablanca Port,T006,Marsa Maroc,Maritime,274,319.8,2024-11-02 20:31,2024-11-02 23:49,0.0,Livré,613.38,1430.67,Sulfate d'ammonium,1
+LIV-0217,CMD-0512,Khouribga,Jorf Lasfar,T002,ONCF Fret,Rail,180,125.6,2024-08-04 06:49,2024-08-04 09:25,0.0,Livré,497.38,324.14,MAP,1
+LIV-0218,CMD-0341,Casablanca Port,Jorf Lasfar,T005,OCP Maritime,Maritime,95,140.9,2024-09-08 22:24,2024-09-08 23:30,17.6,En transit,107.08,137.63,TSP,0
+LIV-0219,CMD-0014,Casablanca Port,Laayoune,T003,Atlas Trucks,Route,900,251.4,2025-03-30 09:52,2025-03-31 00:46,0.0,En transit,21720.96,2718.01,Phosphate brut,0
+LIV-0220,CMD-0210,Khouribga,Casablanca Port,T001,OCP Rail,Rail,120,133.5,2024-07-08 04:01,2024-07-08 05:49,0.0,Livré,400.5,203.22,DAP,1
+LIV-0221,CMD-0296,Youssoufia,Laayoune,T005,OCP Maritime,Maritime,534,374.8,2024-08-04 00:39,2024-08-04 10:27,3.3,Livré,1601.15,2395.03,DAP,0
+LIV-0222,CMD-0188,Youssoufia,Laayoune,T003,Atlas Trucks,Route,430,136.3,2024-07-11 21:21,2024-07-12 03:03,2.9,Livré,5626.46,790.23,NPS,0
+LIV-0223,CMD-0210,Casablanca Port,Khouribga,T001,OCP Rail,Rail,120,53.6,2024-04-19 22:20,2024-04-19 23:50,0.0,Planifié,160.8,70.66,Phosphate brut,0
+LIV-0224,CMD-0207,Jorf Lasfar,Khouribga,T004,Sahara Trans,Route,180,244.2,2024-06-02 10:20,2024-06-02 13:50,0.0,Livré,4571.42,473.93,Acide phosphorique,1
+LIV-0225,CMD-0494,Laayoune,Safi,T001,OCP Rail,Rail,448,211.2,2024-12-08 19:50,2024-12-09 03:26,0.0,Retardé,2365.44,1022.62,DAP,0
+LIV-0226,CMD-0385,Laayoune,Safi,T004,Sahara Trans,Route,165,384.3,2025-02-21 06:05,2025-02-21 09:35,0.0,Livré,6594.59,1029.46,NPS,1
+LIV-0227,CMD-0426,Khouribga,Safi,T002,ONCF Fret,Rail,155,245.2,2024-05-27 06:52,2024-05-27 10:46,0.0,Livré,836.13,407.2,Urée,1
+LIV-0228,CMD-0199,Casablanca Port,Benguerir,T004,Sahara Trans,Route,581,167.7,2024-02-25 07:54,2024-02-25 17:48,0.0,En transit,10133.1,1628.13,Urée,0
+LIV-0229,CMD-0036,Benguerir,Laayoune,T003,Atlas Trucks,Route,601,360.4,2024-10-12 23:22,2024-10-13 07:46,2.8,Livré,20793.64,3069.63,Sulfate d'ammonium,0
+LIV-0230,CMD-0166,Casablanca Port,Laayoune,T006,Marsa Maroc,Maritime,900,354.8,2024-07-21 23:33,2024-07-22 12:57,0.0,En transit,2235.24,4549.16,DAP,0
+LIV-0231,CMD-0310,Khouribga,Youssoufia,T006,Marsa Maroc,Maritime,808,460.1,2024-03-03 09:48,2024-03-03 22:36,1.2,Livré,2602.33,4633.33,Urée,0
+LIV-0232,CMD-0215,Jorf Lasfar,Benguerir,T006,Marsa Maroc,Maritime,110,381.2,2024-03-10 00:43,2024-03-10 03:07,2.5,Livré,293.52,681.61,Urée,0
+LIV-0233,CMD-0181,Casablanca Port,Benguerir,T001,OCP Rail,Rail,252,411.9,2024-02-24 05:56,2024-02-24 09:20,0.0,Livré,2594.97,997.65,Sulfate d'ammonium,1
+LIV-0234,CMD-0197,Youssoufia,Laayoune,T002,ONCF Fret,Rail,282,253.5,2024-03-26 14:59,2024-03-26 19:41,0.0,Livré,1572.71,944.97,Acide phosphorique,1
+LIV-0235,CMD-0241,Laayoune,Safi,T004,Sahara Trans,Route,721,458.2,2024-05-09 00:48,2024-05-09 17:18,0.0,Livré,34357.67,3431.21,NPS,1
+LIV-0236,CMD-0385,Safi,Laayoune,T001,OCP Rail,Rail,89,49.3,2024-01-06 14:42,2024-01-06 16:00,0.0,Planifié,109.69,65.87,Acide phosphorique,0
+LIV-0237,CMD-0059,Safi,Jorf Lasfar,T003,Atlas Trucks,Route,75,226.1,2024-09-23 11:25,2024-09-23 12:19,3.4,Livré,1627.92,208.06,Sulfate d'ammonium,0
+LIV-0238,CMD-0255,Laayoune,Benguerir,T001,OCP Rail,Rail,83,239.3,2024-04-17 20:35,2024-04-17 22:35,14.6,Planifié,496.55,290.54,Sulfate d'ammonium,0
+LIV-0239,CMD-0047,Safi,Casablanca Port,T006,Marsa Maroc,Maritime,754,437.5,2024-05-25 23:21,2024-05-26 18:09,0.0,En transit,2309.12,4389.77,Sulfate d'ammonium,0
+LIV-0240,CMD-0103,Casablanca Port,Safi,T002,ONCF Fret,Rail,701,252.6,2024-03-04 04:49,2024-03-04 17:25,0.0,En transit,3895.6,2642.33,Urée,0
+LIV-0241,CMD-0562,Benguerir,Casablanca Port,T002,ONCF Fret,Rail,809,88.7,2025-03-20 04:51,2025-03-20 15:33,0.0,Livré,1578.68,957.57,NPS,1
+LIV-0242,CMD-0030,Youssoufia,Jorf Lasfar,T001,OCP Rail,Rail,90,338.1,2024-06-13 09:16,2024-06-13 11:10,0.0,Incident,760.73,344.9,TSP,0
+LIV-0243,CMD-0341,Benguerir,Jorf Lasfar,T003,Atlas Trucks,Route,110,365.2,2024-04-05 14:42,2024-04-05 16:18,0.0,Planifié,3856.51,578.26,Phosphate brut,0
+LIV-0244,CMD-0266,Jorf Lasfar,Casablanca Port,T001,OCP Rail,Rail,95,184.7,2024-10-23 10:28,2024-10-23 11:52,0.0,Livré,438.66,283.43,MAP,1
+LIV-0245,CMD-0591,Benguerir,Khouribga,T001,OCP Rail,Rail,80,183.3,2024-05-26 03:29,2024-05-26 04:35,0.9,Retardé,366.6,203.3,DAP,0
+LIV-0246,CMD-0228,Benguerir,Khouribga,T005,OCP Maritime,Maritime,80,111.1,2024-11-25 02:18,2024-11-25 03:48,1.8,Livré,71.1,110.16,MAP,0
+LIV-0247,CMD-0036,Safi,Khouribga,T005,OCP Maritime,Maritime,155,171.6,2024-08-18 13:11,2024-08-18 15:11,0.0,Livré,212.78,411.64,Sulfate d'ammonium,1
+LIV-0248,CMD-0342,Benguerir,Casablanca Port,T006,Marsa Maroc,Maritime,206,151.3,2025-03-21 19:36,2025-03-21 22:54,3.4,Livré,218.17,489.43,TSP,0
+LIV-0249,CMD-0164,Laayoune,Casablanca Port,T002,ONCF Fret,Rail,900,371.7,2024-02-10 19:54,2024-02-11 06:54,3.2,Livré,7359.66,5163.48,DAP,0
+LIV-0250,CMD-0562,Jorf Lasfar,Safi,T003,Atlas Trucks,Route,75,345.4,2024-10-30 23:31,2024-10-31 00:49,2.3,Livré,2486.88,433.4,Urée,0
+LIV-0251,CMD-0495,Khouribga,Benguerir,T003,Atlas Trucks,Route,80,399.8,2024-02-12 00:55,2024-02-12 01:55,0.0,Livré,3070.46,506.44,Acide phosphorique,1
+LIV-0252,CMD-0386,Youssoufia,Benguerir,T002,ONCF Fret,Rail,903,379.2,2024-01-08 02:14,2024-01-08 18:14,3.5,Planifié,7533.19,5100.07,Urée,0
+LIV-0253,CMD-0414,Casablanca Port,Youssoufia,T001,OCP Rail,Rail,178,190.7,2024-02-10 18:09,2024-02-10 22:03,0.0,Livré,848.62,441.68,Phosphate brut,1
+LIV-0254,CMD-0475,Khouribga,Youssoufia,T002,ONCF Fret,Rail,486,254.5,2024-05-13 23:23,2024-05-14 06:23,1.8,En transit,2721.11,1800.08,Urée,0
+LIV-0255,CMD-0587,Benguerir,Laayoune,T006,Marsa Maroc,Maritime,535,196.3,2024-03-05 04:27,2024-03-05 16:15,0.0,En transit,735.14,1098.93,NPS,0
+LIV-0256,CMD-0551,Benguerir,Laayoune,T006,Marsa Maroc,Maritime,176,401.3,2025-01-11 01:58,2025-01-11 04:04,0.0,Livré,494.4,770.13,TSP,1
+LIV-0257,CMD-0128,Safi,Laayoune,T001,OCP Rail,Rail,483,286.9,2025-02-15 17:33,2025-02-16 01:21,2.3,Planifié,3464.32,1865.49,Phosphate brut,0
+LIV-0258,CMD-0576,Casablanca Port,Khouribga,T002,ONCF Fret,Rail,120,353.7,2024-12-13 09:01,2024-12-13 10:37,0.0,Livré,933.77,409.09,Acide phosphorique,1
+LIV-0259,CMD-0532,Laayoune,Khouribga,T001,OCP Rail,Rail,207,263.0,2025-02-26 20:51,2025-02-27 01:09,0.0,Livré,1361.03,665.14,Acide phosphorique,1
+LIV-0260,CMD-0046,Casablanca Port,Jorf Lasfar,T004,Sahara Trans,Route,95,297.0,2025-02-09 23:12,2025-02-10 00:24,0.0,En transit,2934.36,412.07,Phosphate brut,0
+LIV-0261,CMD-0077,Khouribga,Benguerir,T002,ONCF Fret,Rail,80,430.9,2024-04-14 05:49,2024-04-14 07:01,0.0,En transit,758.38,384.35,Acide phosphorique,0
+LIV-0262,CMD-0276,Benguerir,Jorf Lasfar,T006,Marsa Maroc,Maritime,110,212.0,2024-07-16 10:14,2024-07-16 11:50,0.0,En transit,163.24,237.85,Phosphate brut,0
+LIV-0263,CMD-0254,Casablanca Port,Benguerir,T005,OCP Maritime,Maritime,753,330.9,2024-05-07 09:59,2024-05-07 22:47,0.0,Livré,1993.34,3309.51,MAP,1
+LIV-0264,CMD-0232,Benguerir,Khouribga,T005,OCP Maritime,Maritime,80,348.3,2024-09-12 19:40,2024-09-12 20:52,0.0,Planifié,222.91,349.1,Acide phosphorique,0
+LIV-0265,CMD-0542,Khouribga,Youssoufia,T004,Sahara Trans,Route,307,201.7,2024-04-05 22:16,2024-04-06 04:40,3.0,Livré,6439.88,641.26,Sulfate d'ammonium,0
+LIV-0266,CMD-0545,Casablanca Port,Jorf Lasfar,T003,Atlas Trucks,Route,95,150.1,2024-02-07 06:06,2024-02-07 08:06,0.0,En transit,1368.91,147.06,Urée,0
+LIV-0267,CMD-0380,Safi,Casablanca Port,T002,ONCF Fret,Rail,345,24.6,2024-04-30 18:34,2024-04-30 23:34,0.0,Retardé,186.71,112.86,Phosphate brut,0
+LIV-0268,CMD-0235,Casablanca Port,Jorf Lasfar,T004,Sahara Trans,Route,95,239.7,2024-10-01 23:03,2024-10-02 00:21,0.0,Retardé,2368.24,290.58,Acide phosphorique,0
+LIV-0269,CMD-0293,Casablanca Port,Khouribga,T003,Atlas Trucks,Route,120,389.9,2024-03-02 17:31,2024-03-02 20:19,0.0,Livré,4491.65,733.91,NPS,1
+LIV-0270,CMD-0015,Laayoune,Khouribga,T004,Sahara Trans,Route,773,264.2,2025-01-07 13:26,2025-01-08 01:50,0.0,Livré,21239.57,3035.16,Phosphate brut,1
+LIV-0271,CMD-0541,Laayoune,Casablanca Port,T001,OCP Rail,Rail,900,224.0,2024-09-25 00:23,2024-09-25 18:05,3.1,Retardé,5040.0,2710.94,DAP,0
+LIV-0272,CMD-0508,Jorf Lasfar,Safi,T002,ONCF Fret,Rail,75,466.5,2024-06-23 19:34,2024-06-23 21:10,0.0,Livré,769.72,528.27,Urée,1
+LIV-0273,CMD-0003,Youssoufia,Safi,T001,OCP Rail,Rail,60,458.7,2025-02-22 17:55,2025-02-22 18:43,0.0,Livré,688.05,313.7,Urée,1
+LIV-0274,CMD-0306,Youssoufia,Safi,T006,Marsa Maroc,Maritime,60,416.3,2024-12-25 16:00,2024-12-25 16:42,0.0,Livré,174.85,246.16,Sulfate d'ammonium,1
+LIV-0275,CMD-0500,Khouribga,Youssoufia,T003,Atlas Trucks,Route,819,109.4,2024-03-19 17:04,2024-03-20 06:52,1.2,Livré,8601.47,1088.86,DAP,0
+LIV-0276,CMD-0450,Youssoufia,Laayoune,T003,Atlas Trucks,Route,311,245.9,2024-10-10 02:41,2024-10-10 07:53,0.0,Livré,7341.59,940.26,TSP,1
+LIV-0277,CMD-0033,Youssoufia,Safi,T006,Marsa Maroc,Maritime,60,22.8,2024-06-03 03:38,2024-06-03 04:56,0.0,Livré,9.58,21.84,TSP,1
+LIV-0278,CMD-0410,Casablanca Port,Youssoufia,T004,Sahara Trans,Route,761,491.8,2025-01-14 20:53,2025-01-15 08:41,0.0,Planifié,38923.02,3913.0,Urée,0
+LIV-0279,CMD-0009,Youssoufia,Khouribga,T001,OCP Rail,Rail,891,30.2,2025-01-23 08:41,2025-01-24 06:35,2.9,Livré,672.71,288.45,Urée,0
+LIV-0280,CMD-0254,Safi,Benguerir,T003,Atlas Trucks,Route,95,59.7,2024-04-28 10:43,2024-04-28 12:01,0.0,Livré,544.46,71.96,Urée,1
+LIV-0281,CMD-0124,Youssoufia,Jorf Lasfar,T006,Marsa Maroc,Maritime,90,408.8,2025-01-25 04:11,2025-01-25 05:29,0.0,Livré,257.54,538.94,TSP,1
+LIV-0282,CMD-0237,Safi,Khouribga,T003,Atlas Trucks,Route,155,466.0,2024-06-04 01:37,2024-06-04 05:07,0.0,En transit,6934.08,915.11,Phosphate brut,0
+LIV-0283,CMD-0049,Benguerir,Jorf Lasfar,T004,Sahara Trans,Route,110,264.7,2024-08-24 08:22,2024-08-24 10:46,1.8,Livré,3028.17,414.51,TSP,0
+LIV-0284,CMD-0343,Khouribga,Youssoufia,T001,OCP Rail,Rail,756,377.5,2025-01-01 15:48,2025-01-02 06:12,0.0,Livré,7134.75,3175.32,Acide phosphorique,1
+LIV-0285,CMD-0381,Khouribga,Youssoufia,T006,Marsa Maroc,Maritime,93,347.8,2024-04-11 05:07,2024-04-11 06:49,3.1,Livré,226.42,489.95,Phosphate brut,0
+LIV-0286,CMD-0196,Casablanca Port,Benguerir,T002,ONCF Fret,Rail,678,204.3,2024-04-11 08:25,2024-04-11 18:19,4.8,Retardé,3047.34,2214.56,Phosphate brut,0
+LIV-0287,CMD-0197,Casablanca Port,Safi,T001,OCP Rail,Rail,156,472.1,2024-08-22 03:55,2024-08-22 06:01,4.0,Livré,1841.19,1035.26,Urée,0
+LIV-0288,CMD-0430,Jorf Lasfar,Laayoune,T003,Atlas Trucks,Route,820,429.7,2024-09-26 18:52,2024-09-27 05:04,18.3,Livré,33825.98,5683.14,DAP,0
+LIV-0289,CMD-0546,Youssoufia,Casablanca Port,T003,Atlas Trucks,Route,793,484.4,2025-03-15 18:15,2025-03-16 12:51,3.9,Livré,36876.4,4488.75,MAP,0
+LIV-0290,CMD-0526,Youssoufia,Jorf Lasfar,T005,OCP Maritime,Maritime,90,290.0,2024-07-29 21:01,2024-07-29 22:49,0.0,Livré,208.8,323.9,NPS,1
+LIV-0291,CMD-0041,Jorf Lasfar,Laayoune,T006,Marsa Maroc,Maritime,820,144.2,2024-08-18 04:37,2024-08-18 16:01,0.0,Livré,827.71,1860.9,TSP,1
+LIV-0292,CMD-0086,Benguerir,Youssoufia,T003,Atlas Trucks,Route,889,44.7,2024-06-12 02:10,2024-06-12 16:04,0.0,Livré,3814.88,661.89,Acide phosphorique,1
+LIV-0293,CMD-0551,Casablanca Port,Youssoufia,T004,Sahara Trans,Route,706,161.5,2024-01-09 02:01,2024-01-09 11:13,0.0,Incident,11857.98,1903.42,MAP,0
+LIV-0294,CMD-0405,Casablanca Port,Laayoune,T006,Marsa Maroc,Maritime,900,473.9,2025-03-03 21:06,2025-03-04 15:24,0.0,En transit,2985.57,4884.77,TSP,0
+LIV-0295,CMD-0503,Safi,Youssoufia,T006,Marsa Maroc,Maritime,60,228.3,2025-01-07 01:20,2025-01-07 02:44,1.1,Livré,95.89,146.13,TSP,0
+LIV-0296,CMD-0413,Casablanca Port,Benguerir,T001,OCP Rail,Rail,397,98.2,2024-11-02 04:22,2024-11-02 09:58,0.0,Livré,974.64,424.15,MAP,1
+LIV-0297,CMD-0045,Casablanca Port,Jorf Lasfar,T002,ONCF Fret,Rail,95,380.2,2024-03-18 11:06,2024-03-18 12:48,0.6,En transit,794.62,349.81,TSP,0
+LIV-0298,CMD-0208,Youssoufia,Khouribga,T003,Atlas Trucks,Route,226,470.5,2024-01-08 07:09,2024-01-08 09:51,0.0,En transit,10207.97,1479.88,TSP,0
+LIV-0299,CMD-0046,Safi,Casablanca Port,T004,Sahara Trans,Route,915,98.3,2024-04-30 00:20,2024-04-30 18:20,0.0,Livré,9354.23,1078.31,MAP,1
+LIV-0300,CMD-0232,Jorf Lasfar,Benguerir,T001,OCP Rail,Rail,110,445.5,2024-01-01 22:33,2024-01-01 23:57,0.0,En transit,1225.12,616.98,Urée,0
+LIV-0301,CMD-0087,Casablanca Port,Laayoune,T001,OCP Rail,Rail,900,101.4,2024-03-20 00:30,2024-03-20 11:18,0.0,Livré,2281.5,948.46,DAP,1
+LIV-0302,CMD-0107,Jorf Lasfar,Youssoufia,T002,ONCF Fret,Rail,90,274.6,2024-11-26 07:07,2024-11-26 09:01,2.8,Livré,543.71,343.95,Acide phosphorique,0
+LIV-0303,CMD-0152,Safi,Laayoune,T003,Atlas Trucks,Route,351,409.1,2024-02-29 07:37,2024-02-29 12:13,3.5,Livré,13785.03,2113.91,Urée,0
+LIV-0304,CMD-0507,Safi,Laayoune,T004,Sahara Trans,Route,914,52.3,2024-08-04 07:10,2024-08-05 02:52,1.6,Livré,4971.43,657.78,Urée,0
+LIV-0305,CMD-0236,Safi,Laayoune,T004,Sahara Trans,Route,696,400.9,2024-07-10 00:03,2024-07-10 12:15,0.0,Livré,29018.75,3348.58,Urée,1
+LIV-0306,CMD-0572,Khouribga,Casablanca Port,T006,Marsa Maroc,Maritime,120,272.9,2024-06-19 08:40,2024-06-19 10:22,4.1,Livré,229.24,497.49,NPS,0
+LIV-0307,CMD-0249,Youssoufia,Khouribga,T001,OCP Rail,Rail,437,193.2,2024-04-18 05:39,2024-04-18 13:51,21.1,Retardé,2110.71,1326.81,Phosphate brut,0
+LIV-0308,CMD-0596,Laayoune,Youssoufia,T001,OCP Rail,Rail,844,86.1,2024-04-21 03:08,2024-04-21 17:56,0.0,En transit,1816.71,1200.97,MAP,0
+LIV-0309,CMD-0144,Safi,Casablanca Port,T002,ONCF Fret,Rail,110,90.5,2024-07-09 07:59,2024-07-09 10:29,0.0,Livré,219.01,105.69,Acide phosphorique,1
+LIV-0310,CMD-0516,Safi,Jorf Lasfar,T006,Marsa Maroc,Maritime,75,233.1,2024-01-11 06:14,2024-01-11 07:38,0.0,Planifié,122.38,249.0,TSP,0
+LIV-0311,CMD-0095,Khouribga,Jorf Lasfar,T004,Sahara Trans,Route,180,475.2,2024-07-19 10:28,2024-07-19 12:40,0.0,Livré,8895.74,1100.93,Urée,1
+LIV-0312,CMD-0489,Youssoufia,Laayoune,T002,ONCF Fret,Rail,490,317.1,2024-05-22 16:18,2024-05-22 22:42,0.0,En transit,3418.34,1736.54,Sulfate d'ammonium,0
+LIV-0313,CMD-0344,Casablanca Port,Laayoune,T004,Sahara Trans,Route,900,202.6,2024-10-15 12:51,2024-10-16 01:51,0.0,En transit,18963.36,1822.24,DAP,0
+LIV-0314,CMD-0276,Youssoufia,Safi,T002,ONCF Fret,Rail,60,71.1,2024-01-09 12:37,2024-01-09 13:25,0.0,Livré,93.85,47.46,MAP,1
+LIV-0315,CMD-0408,Jorf Lasfar,Casablanca Port,T001,OCP Rail,Rail,95,493.5,2024-02-07 07:41,2024-02-07 09:29,0.0,Livré,1172.06,613.38,Phosphate brut,1
+LIV-0316,CMD-0025,Benguerir,Jorf Lasfar,T006,Marsa Maroc,Maritime,110,487.4,2024-03-16 15:17,2024-03-16 17:17,0.0,Planifié,375.3,785.93,Urée,0
+LIV-0317,CMD-0145,Safi,Casablanca Port,T001,OCP Rail,Rail,377,97.4,2024-03-02 04:03,2024-03-02 08:45,0.8,Planifié,918.0,532.92,TSP,0
+LIV-0318,CMD-0041,Jorf Lasfar,Casablanca Port,T006,Marsa Maroc,Maritime,95,332.7,2024-09-22 04:26,2024-09-22 06:02,0.0,Retardé,221.25,515.11,Urée,0
+LIV-0319,CMD-0090,Youssoufia,Benguerir,T005,OCP Maritime,Maritime,701,56.0,2025-01-21 10:29,2025-01-22 02:17,0.0,Planifié,314.05,419.93,NPS,0
+LIV-0320,CMD-0485,Khouribga,Jorf Lasfar,T003,Atlas Trucks,Route,180,468.3,2024-08-05 13:45,2024-08-05 16:27,1.7,Livré,8092.22,907.22,Acide phosphorique,0
+LIV-0321,CMD-0133,Laayoune,Safi,T006,Marsa Maroc,Maritime,223,471.1,2025-01-14 05:48,2025-01-14 11:06,3.5,Retardé,735.39,1743.51,NPS,0
+LIV-0322,CMD-0059,Benguerir,Casablanca Port,T005,OCP Maritime,Maritime,401,199.4,2025-01-27 23:27,2025-01-28 06:09,0.0,Incident,639.68,1160.36,Phosphate brut,0
+LIV-0323,CMD-0358,Casablanca Port,Jorf Lasfar,T001,OCP Rail,Rail,95,429.5,2024-05-02 21:10,2024-05-02 22:34,3.5,En transit,1020.06,477.09,NPS,0
+LIV-0324,CMD-0325,Safi,Laayoune,T005,OCP Maritime,Maritime,917,243.1,2024-03-25 03:45,2024-03-25 15:03,0.0,Livré,1783.38,2277.81,Sulfate d'ammonium,1
+LIV-0325,CMD-0033,Jorf Lasfar,Safi,T002,ONCF Fret,Rail,75,375.8,2024-12-19 01:57,2024-12-19 03:45,0.0,Livré,620.07,293.78,Urée,1
+LIV-0326,CMD-0071,Khouribga,Safi,T004,Sahara Trans,Route,155,122.4,2024-01-18 19:41,2024-01-18 21:35,0.0,Livré,1973.09,211.02,Acide phosphorique,1
+LIV-0327,CMD-0351,Safi,Khouribga,T003,Atlas Trucks,Route,155,236.7,2024-06-15 07:12,2024-06-15 09:24,0.0,Retardé,3522.1,463.08,Acide phosphorique,0
+LIV-0328,CMD-0575,Youssoufia,Benguerir,T003,Atlas Trucks,Route,509,251.2,2024-05-04 19:27,2024-05-05 01:33,0.0,Planifié,12274.64,1720.45,Phosphate brut,0
+LIV-0329,CMD-0417,Khouribga,Laayoune,T006,Marsa Maroc,Maritime,672,315.9,2024-09-02 20:16,2024-09-03 12:46,0.0,Livré,1485.99,2532.74,Acide phosphorique,1
+LIV-0330,CMD-0560,Jorf Lasfar,Laayoune,T001,OCP Rail,Rail,820,472.8,2024-12-15 00:05,2024-12-15 11:59,2.5,Livré,9692.4,6114.87,TSP,0
+LIV-0331,CMD-0128,Jorf Lasfar,Safi,T002,ONCF Fret,Rail,75,120.7,2025-03-24 01:00,2025-03-24 01:54,0.0,Livré,199.16,99.36,NPS,1
+LIV-0332,CMD-0182,Casablanca Port,Safi,T004,Sahara Trans,Route,500,188.8,2024-11-26 18:24,2024-11-27 02:18,0.0,Livré,9817.6,1469.14,TSP,1
+LIV-0333,CMD-0090,Jorf Lasfar,Safi,T004,Sahara Trans,Route,75,425.6,2024-12-05 19:28,2024-12-05 20:34,22.8,Livré,3319.68,464.68,MAP,0
+LIV-0334,CMD-0431,Khouribga,Laayoune,T001,OCP Rail,Rail,711,467.6,2025-02-27 02:34,2025-02-27 18:34,0.0,Livré,8311.59,3439.82,Phosphate brut,1
+LIV-0335,CMD-0406,Youssoufia,Jorf Lasfar,T005,OCP Maritime,Maritime,90,75.0,2024-04-06 15:44,2024-04-06 17:20,13.3,En transit,54.0,106.42,DAP,0
+LIV-0336,CMD-0425,Benguerir,Youssoufia,T005,OCP Maritime,Maritime,370,148.5,2024-08-26 18:17,2024-08-26 23:05,0.0,Retardé,439.56,788.05,DAP,0
+LIV-0337,CMD-0198,Khouribga,Youssoufia,T002,ONCF Fret,Rail,889,199.7,2024-09-03 14:05,2024-09-04 06:11,0.0,Incident,3905.73,2748.27,Urée,0
+LIV-0338,CMD-0130,Laayoune,Khouribga,T005,OCP Maritime,Maritime,519,81.9,2024-05-14 22:19,2024-05-15 07:13,0.0,En transit,340.05,602.79,MAP,0
+LIV-0339,CMD-0157,Casablanca Port,Jorf Lasfar,T004,Sahara Trans,Route,95,385.8,2025-03-05 10:54,2025-03-05 12:54,0.0,Livré,3811.7,593.75,DAP,1
+LIV-0340,CMD-0228,Jorf Lasfar,Laayoune,T005,OCP Maritime,Maritime,820,294.5,2024-04-11 09:35,2024-04-11 19:17,0.0,En transit,1931.92,2362.28,Acide phosphorique,0
+LIV-0341,CMD-0594,Youssoufia,Casablanca Port,T002,ONCF Fret,Rail,823,394.4,2024-07-21 07:41,2024-07-21 19:29,0.0,En transit,7141.01,4953.11,MAP,0
+LIV-0342,CMD-0503,Khouribga,Jorf Lasfar,T005,OCP Maritime,Maritime,180,71.4,2024-05-20 07:08,2024-05-20 11:14,2.2,Livré,102.82,149.52,DAP,0
+LIV-0343,CMD-0183,Safi,Khouribga,T004,Sahara Trans,Route,155,56.6,2024-10-18 11:14,2024-10-18 13:08,0.0,Livré,912.39,127.64,DAP,1
+LIV-0344,CMD-0024,Khouribga,Safi,T003,Atlas Trucks,Route,155,497.6,2024-01-04 21:28,2024-01-05 00:46,0.0,Livré,7404.29,1073.62,TSP,1
+LIV-0345,CMD-0357,Youssoufia,Safi,T001,OCP Rail,Rail,60,34.2,2024-03-05 19:29,2024-03-05 20:17,0.0,Retardé,51.3,21.75,Acide phosphorique,0
+LIV-0346,CMD-0106,Safi,Laayoune,T004,Sahara Trans,Route,526,266.1,2024-05-29 22:47,2024-05-30 09:05,1.2,Retardé,14556.73,1746.75,Acide phosphorique,0
+LIV-0347,CMD-0383,Youssoufia,Benguerir,T006,Marsa Maroc,Maritime,579,228.1,2024-07-30 00:22,2024-07-30 07:52,0.0,En transit,924.49,1692.12,MAP,0
+LIV-0348,CMD-0367,Safi,Youssoufia,T001,OCP Rail,Rail,60,141.5,2025-02-16 01:12,2025-02-16 02:18,0.0,Planifié,212.25,106.55,Phosphate brut,0
+LIV-0349,CMD-0330,Khouribga,Benguerir,T006,Marsa Maroc,Maritime,80,198.5,2024-04-04 23:54,2024-04-05 01:54,0.0,En transit,111.16,241.57,Phosphate brut,0
+LIV-0350,CMD-0588,Jorf Lasfar,Khouribga,T004,Sahara Trans,Route,180,308.9,2024-03-20 22:34,2024-03-21 01:22,3.0,En transit,5782.61,744.86,Urée,0
+LIV-0351,CMD-0335,Casablanca Port,Safi,T003,Atlas Trucks,Route,912,173.7,2025-01-18 15:36,2025-01-19 06:12,0.0,Livré,15207.78,1745.61,Urée,1
+LIV-0352,CMD-0547,Youssoufia,Casablanca Port,T001,OCP Rail,Rail,371,28.6,2025-03-23 04:55,2025-03-23 09:19,3.7,Livré,265.27,161.7,DAP,0
+LIV-0353,CMD-0321,Benguerir,Laayoune,T001,OCP Rail,Rail,151,245.5,2024-11-18 09:37,2024-11-18 11:43,0.0,En transit,926.76,577.37,NPS,0
+LIV-0354,CMD-0143,Jorf Lasfar,Khouribga,T004,Sahara Trans,Route,180,354.3,2024-04-04 07:18,2024-04-04 09:36,0.0,Planifié,6632.5,820.96,MAP,0
+LIV-0355,CMD-0045,Benguerir,Laayoune,T006,Marsa Maroc,Maritime,526,128.6,2024-10-13 12:24,2024-10-13 19:18,2.4,Livré,473.51,692.25,MAP,0
+LIV-0356,CMD-0152,Khouribga,Safi,T001,OCP Rail,Rail,155,178.1,2024-10-21 19:26,2024-10-21 22:26,0.0,Livré,690.14,386.8,Urée,1
+LIV-0357,CMD-0271,Casablanca Port,Safi,T006,Marsa Maroc,Maritime,205,270.4,2025-01-06 05:12,2025-01-06 08:06,3.9,Livré,388.02,628.14,Acide phosphorique,0
+LIV-0358,CMD-0480,Casablanca Port,Khouribga,T003,Atlas Trucks,Route,120,421.1,2024-06-08 22:05,2024-06-08 23:47,0.0,En transit,4851.07,573.29,Urée,0
+LIV-0359,CMD-0517,Youssoufia,Jorf Lasfar,T001,OCP Rail,Rail,90,120.2,2025-02-13 20:00,2025-02-13 21:24,1.6,En transit,270.45,149.85,MAP,0
+LIV-0360,CMD-0592,Youssoufia,Benguerir,T003,Atlas Trucks,Route,474,488.0,2025-02-02 19:39,2025-02-03 05:15,0.0,En transit,22205.95,3665.97,MAP,0
+LIV-0361,CMD-0564,Youssoufia,Jorf Lasfar,T001,OCP Rail,Rail,90,72.9,2024-12-23 22:48,2024-12-24 00:42,0.0,Livré,164.03,63.77,MAP,1
+LIV-0362,CMD-0433,Benguerir,Jorf Lasfar,T002,ONCF Fret,Rail,110,210.5,2024-09-16 05:21,2024-09-16 07:57,0.0,En transit,509.41,294.12,Phosphate brut,0
+LIV-0363,CMD-0118,Benguerir,Youssoufia,T004,Sahara Trans,Route,260,305.1,2025-01-18 09:40,2025-01-18 13:46,0.0,Livré,8249.9,1063.99,DAP,1
+LIV-0364,CMD-0275,Khouribga,Casablanca Port,T003,Atlas Trucks,Route,120,51.6,2024-06-24 21:36,2024-06-24 23:06,0.0,Livré,594.43,63.95,NPS,1
+LIV-0365,CMD-0313,Youssoufia,Benguerir,T002,ONCF Fret,Rail,435,325.7,2024-08-11 16:18,2024-08-11 22:18,0.8,Livré,3116.95,2080.16,Phosphate brut,0
+LIV-0366,CMD-0271,Youssoufia,Safi,T006,Marsa Maroc,Maritime,60,100.0,2024-12-19 13:50,2024-12-19 15:08,0.0,Livré,42.0,71.95,MAP,1
+LIV-0367,CMD-0298,Youssoufia,Laayoune,T001,OCP Rail,Rail,688,189.0,2024-01-01 18:45,2024-01-02 05:51,1.4,En transit,3250.8,1691.92,Phosphate brut,0
+LIV-0368,CMD-0499,Jorf Lasfar,Casablanca Port,T002,ONCF Fret,Rail,95,90.4,2024-08-24 14:11,2024-08-24 15:23,0.0,Livré,188.94,88.25,Acide phosphorique,1
+LIV-0369,CMD-0532,Benguerir,Jorf Lasfar,T001,OCP Rail,Rail,110,189.3,2025-02-06 05:04,2025-02-06 06:34,0.0,Livré,520.58,306.37,DAP,1
+LIV-0370,CMD-0199,Youssoufia,Jorf Lasfar,T002,ONCF Fret,Rail,90,497.2,2024-01-25 00:06,2024-01-25 01:54,0.0,En transit,984.46,544.66,Urée,0
+LIV-0371,CMD-0340,Casablanca Port,Khouribga,T003,Atlas Trucks,Route,120,345.8,2024-12-14 22:59,2024-12-15 00:23,7.5,Livré,3983.62,667.02,Urée,0
+LIV-0372,CMD-0356,Jorf Lasfar,Safi,T003,Atlas Trucks,Route,75,111.5,2024-09-23 15:05,2024-09-23 16:05,0.0,Planifié,802.8,115.17,Acide phosphorique,0
+LIV-0373,CMD-0302,Khouribga,Youssoufia,T004,Sahara Trans,Route,781,90.6,2025-02-10 08:53,2025-02-10 18:17,0.0,Livré,7358.89,1026.19,DAP,1
+LIV-0374,CMD-0359,Safi,Khouribga,T002,ONCF Fret,Rail,155,416.2,2025-01-14 07:48,2025-01-14 10:42,0.0,Livré,1419.24,676.64,Acide phosphorique,1
+LIV-0375,CMD-0033,Laayoune,Jorf Lasfar,T006,Marsa Maroc,Maritime,820,289.2,2024-07-29 05:38,2024-07-29 23:20,12.6,Livré,1660.01,3904.94,NPS,0
+LIV-0376,CMD-0331,Benguerir,Youssoufia,T006,Marsa Maroc,Maritime,732,205.4,2024-03-17 05:26,2024-03-17 14:32,0.0,Livré,1052.47,1875.44,TSP,1
+LIV-0377,CMD-0448,Casablanca Port,Youssoufia,T003,Atlas Trucks,Route,218,219.8,2024-08-24 21:32,2024-08-25 02:32,0.0,Livré,4599.97,528.83,MAP,1
+LIV-0378,CMD-0573,Youssoufia,Casablanca Port,T004,Sahara Trans,Route,790,170.4,2024-10-04 17:22,2024-10-05 06:16,0.0,Livré,14000.06,2198.43,DAP,1
+LIV-0379,CMD-0055,Laayoune,Safi,T001,OCP Rail,Rail,853,87.5,2024-07-07 11:14,2024-07-08 00:08,1.8,Retardé,1865.94,1203.85,Urée,0
+LIV-0380,CMD-0342,Youssoufia,Jorf Lasfar,T006,Marsa Maroc,Maritime,90,242.1,2025-02-06 08:22,2025-02-06 09:52,0.7,En transit,152.52,328.87,MAP,0
+LIV-0381,CMD-0148,Laayoune,Benguerir,T005,OCP Maritime,Maritime,573,351.5,2024-04-04 07:51,2024-04-04 15:39,0.0,Livré,1611.28,3186.91,NPS,1
+LIV-0382,CMD-0069,Youssoufia,Benguerir,T006,Marsa Maroc,Maritime,735,429.1,2024-08-29 11:25,2024-08-29 21:37,0.0,Livré,2207.72,3710.99,DAP,1
+LIV-0383,CMD-0496,Youssoufia,Casablanca Port,T001,OCP Rail,Rail,612,66.5,2025-01-02 23:11,2025-01-03 14:05,11.8,Livré,1017.45,450.56,TSP,0
+LIV-0384,CMD-0175,Laayoune,Youssoufia,T005,OCP Maritime,Maritime,346,414.4,2024-04-05 16:32,2024-04-05 22:20,2.7,En transit,1147.06,2079.83,Phosphate brut,0
+LIV-0385,CMD-0436,Safi,Jorf Lasfar,T003,Atlas Trucks,Route,75,340.4,2025-01-17 21:31,2025-01-17 22:49,1.5,Livré,2450.88,421.38,TSP,0
+LIV-0386,CMD-0364,Khouribga,Safi,T004,Sahara Trans,Route,155,290.8,2024-08-23 03:53,2024-08-23 07:35,0.0,Retardé,4687.7,436.29,TSP,0
+LIV-0387,CMD-0065,Safi,Laayoune,T004,Sahara Trans,Route,363,24.4,2025-01-23 20:34,2025-01-24 01:10,2.3,Livré,921.15,95.13,TSP,0
+LIV-0388,CMD-0496,Casablanca Port,Youssoufia,T003,Atlas Trucks,Route,751,365.2,2024-04-18 18:31,2024-04-19 08:49,0.0,Retardé,26329.46,3302.95,Urée,0
+LIV-0389,CMD-0414,Safi,Casablanca Port,T006,Marsa Maroc,Maritime,264,296.5,2025-02-12 02:47,2025-02-12 07:53,0.0,En transit,547.93,1274.13,MAP,0
+LIV-0390,CMD-0243,Khouribga,Youssoufia,T006,Marsa Maroc,Maritime,242,131.2,2025-01-22 22:07,2025-01-23 01:01,19.2,Planifié,222.25,456.88,MAP,0
+LIV-0391,CMD-0031,Youssoufia,Laayoune,T004,Sahara Trans,Route,853,487.2,2024-02-18 02:23,2024-02-18 14:59,0.0,Planifié,43220.49,6749.5,TSP,0
+LIV-0392,CMD-0166,Benguerir,Khouribga,T006,Marsa Maroc,Maritime,80,201.3,2025-03-21 16:01,2025-03-21 17:13,1.2,Livré,112.73,269.26,Urée,0
+LIV-0393,CMD-0560,Laayoune,Jorf Lasfar,T002,ONCF Fret,Rail,820,299.4,2024-03-15 17:24,2024-03-16 10:06,0.0,Livré,5401.18,3468.94,MAP,1
+LIV-0394,CMD-0573,Benguerir,Youssoufia,T006,Marsa Maroc,Maritime,827,479.7,2025-02-14 05:30,2025-02-14 18:48,0.0,Livré,2776.98,5888.65,TSP,1
+LIV-0395,CMD-0554,Laayoune,Khouribga,T004,Sahara Trans,Route,517,320.2,2025-03-18 01:46,2025-03-18 13:40,0.0,Livré,17216.51,2630.92,Sulfate d'ammonium,1
+LIV-0396,CMD-0531,Khouribga,Benguerir,T003,Atlas Trucks,Route,80,140.7,2024-02-22 18:43,2024-02-22 19:43,0.0,Livré,1080.58,165.05,Acide phosphorique,1
+LIV-0397,CMD-0206,Safi,Casablanca Port,T001,OCP Rail,Rail,639,354.8,2024-12-31 19:40,2025-01-01 03:28,0.0,Livré,5667.93,2357.47,Sulfate d'ammonium,1
+LIV-0398,CMD-0037,Laayoune,Khouribga,T002,ONCF Fret,Rail,289,282.6,2024-02-18 09:53,2024-02-18 15:35,23.0,En transit,1796.77,1215.59,Sulfate d'ammonium,0
+LIV-0399,CMD-0231,Khouribga,Jorf Lasfar,T005,OCP Maritime,Maritime,180,314.0,2025-03-04 07:18,2025-03-04 10:12,0.0,Livré,452.16,575.39,Sulfate d'ammonium,1
+LIV-0400,CMD-0389,Safi,Jorf Lasfar,T003,Atlas Trucks,Route,75,427.9,2024-01-17 15:43,2024-01-17 16:37,0.0,En transit,3080.88,532.56,DAP,0
+LIV-0401,CMD-0377,Jorf Lasfar,Safi,T001,OCP Rail,Rail,75,387.5,2024-11-29 18:32,2024-11-29 19:32,0.0,En transit,726.56,424.52,Sulfate d'ammonium,0
+LIV-0402,CMD-0016,Youssoufia,Safi,T004,Sahara Trans,Route,60,134.3,2024-01-08 19:20,2024-01-08 20:32,3.1,En transit,838.03,82.69,Phosphate brut,0
+LIV-0403,CMD-0408,Laayoune,Khouribga,T001,OCP Rail,Rail,138,80.8,2024-02-03 22:59,2024-02-04 01:29,21.8,Livré,278.76,121.54,NPS,0
+LIV-0404,CMD-0310,Casablanca Port,Khouribga,T006,Marsa Maroc,Maritime,120,56.7,2024-06-08 21:31,2024-06-08 23:25,11.1,Livré,47.63,111.29,Sulfate d'ammonium,0
+LIV-0405,CMD-0498,Laayoune,Jorf Lasfar,T003,Atlas Trucks,Route,820,137.2,2024-09-04 15:57,2024-09-05 03:27,5.1,En transit,10800.38,1803.38,Acide phosphorique,0
+LIV-0406,CMD-0451,Khouribga,Benguerir,T002,ONCF Fret,Rail,80,488.5,2025-03-05 12:01,2025-03-05 13:37,0.0,Incident,859.76,440.04,NPS,0
+LIV-0407,CMD-0020,Khouribga,Youssoufia,T004,Sahara Trans,Route,936,36.2,2024-10-25 09:34,2024-10-26 03:04,3.9,Livré,3523.85,393.09,Urée,0
+LIV-0408,CMD-0345,Safi,Jorf Lasfar,T001,OCP Rail,Rail,75,118.8,2024-11-30 20:00,2024-11-30 21:12,2.8,Retardé,222.75,97.37,Acide phosphorique,0
+LIV-0409,CMD-0567,Laayoune,Jorf Lasfar,T002,ONCF Fret,Rail,820,33.1,2024-12-03 03:45,2024-12-03 14:09,3.2,Planifié,597.12,402.4,Urée,0
+LIV-0410,CMD-0244,Casablanca Port,Laayoune,T003,Atlas Trucks,Route,900,242.5,2025-03-17 09:56,2025-03-17 22:02,0.0,Incident,20952.0,2994.99,TSP,0
+LIV-0411,CMD-0257,Khouribga,Safi,T006,Marsa Maroc,Maritime,155,61.1,2025-02-25 14:36,2025-02-25 17:30,0.0,Livré,66.29,107.96,DAP,1
+LIV-0412,CMD-0570,Khouribga,Safi,T005,OCP Maritime,Maritime,155,174.1,2024-05-18 20:46,2024-05-18 23:22,0.0,Livré,215.88,310.46,Phosphate brut,1
+LIV-0413,CMD-0507,Safi,Khouribga,T005,OCP Maritime,Maritime,155,152.7,2024-08-31 21:52,2024-08-31 23:46,2.0,Livré,189.35,331.23,TSP,0
+LIV-0414,CMD-0043,Youssoufia,Laayoune,T002,ONCF Fret,Rail,230,438.2,2024-06-29 17:19,2024-06-29 22:25,0.6,En transit,2217.29,1443.56,Phosphate brut,0
+LIV-0415,CMD-0116,Khouribga,Laayoune,T003,Atlas Trucks,Route,343,27.7,2024-10-01 10:38,2024-10-01 15:56,0.0,Livré,912.11,149.01,MAP,1
+LIV-0416,CMD-0369,Youssoufia,Benguerir,T003,Atlas Trucks,Route,664,198.3,2024-11-19 02:14,2024-11-19 17:38,0.0,En transit,12640.44,2043.98,Sulfate d'ammonium,0
+LIV-0417,CMD-0217,Safi,Laayoune,T003,Atlas Trucks,Route,561,472.4,2024-01-25 04:48,2024-01-25 16:42,22.6,Livré,25441.57,3105.26,Sulfate d'ammonium,0
+LIV-0418,CMD-0081,Jorf Lasfar,Laayoune,T006,Marsa Maroc,Maritime,820,396.1,2024-06-15 21:26,2024-06-16 11:50,0.0,Planifié,2273.61,4785.13,MAP,0
+LIV-0419,CMD-0538,Youssoufia,Casablanca Port,T005,OCP Maritime,Maritime,668,322.6,2025-02-22 15:04,2025-02-23 00:16,0.0,Livré,1723.97,3207.55,NPS,1
+LIV-0420,CMD-0119,Benguerir,Safi,T002,ONCF Fret,Rail,95,296.1,2024-09-12 07:07,2024-09-12 09:01,0.0,En transit,618.85,454.56,Phosphate brut,0
+LIV-0421,CMD-0584,Safi,Laayoune,T004,Sahara Trans,Route,450,58.3,2024-02-29 09:00,2024-02-29 14:30,0.0,Livré,2728.44,357.72,TSP,1
+LIV-0422,CMD-0152,Jorf Lasfar,Youssoufia,T004,Sahara Trans,Route,90,300.7,2024-07-21 03:57,2024-07-21 05:09,0.0,Livré,2814.55,286.72,NPS,1
+LIV-0423,CMD-0442,Casablanca Port,Youssoufia,T002,ONCF Fret,Rail,544,27.4,2024-07-23 13:41,2024-07-23 20:59,0.0,Planifié,327.92,156.06,DAP,0
+LIV-0424,CMD-0122,Casablanca Port,Youssoufia,T001,OCP Rail,Rail,215,267.2,2024-10-28 10:58,2024-10-28 13:40,0.0,En transit,1436.2,770.44,Sulfate d'ammonium,0
+LIV-0425,CMD-0447,Laayoune,Benguerir,T005,OCP Maritime,Maritime,703,316.0,2024-02-05 03:17,2024-02-05 19:29,23.0,En transit,1777.18,3722.7,Acide phosphorique,0
+LIV-0426,CMD-0389,Laayoune,Safi,T006,Marsa Maroc,Maritime,217,372.1,2025-01-30 15:25,2025-01-30 20:25,0.0,En transit,565.22,1195.9,Sulfate d'ammonium,0
+LIV-0427,CMD-0521,Safi,Youssoufia,T005,OCP Maritime,Maritime,60,302.3,2024-03-16 06:19,2024-03-16 07:31,0.0,Livré,145.1,297.51,Urée,1
+LIV-0428,CMD-0589,Benguerir,Safi,T004,Sahara Trans,Route,95,383.5,2024-02-02 13:42,2024-02-02 14:54,0.0,Livré,3788.98,599.87,Sulfate d'ammonium,1
+LIV-0429,CMD-0109,Khouribga,Safi,T003,Atlas Trucks,Route,155,76.9,2024-12-06 22:00,2024-12-07 01:06,0.0,En transit,1144.27,137.93,Phosphate brut,0
+LIV-0430,CMD-0007,Casablanca Port,Benguerir,T002,ONCF Fret,Rail,178,119.3,2024-05-11 03:38,2024-05-11 07:56,0.0,Planifié,467.18,332.11,NPS,0
+LIV-0431,CMD-0123,Laayoune,Khouribga,T003,Atlas Trucks,Route,288,155.3,2024-11-27 06:35,2024-11-27 10:29,0.0,Livré,4293.73,734.62,NPS,1
+LIV-0432,CMD-0161,Safi,Jorf Lasfar,T003,Atlas Trucks,Route,75,435.0,2024-03-31 11:01,2024-03-31 11:55,0.0,Livré,3132.0,546.47,Sulfate d'ammonium,1
+LIV-0433,CMD-0195,Benguerir,Jorf Lasfar,T006,Marsa Maroc,Maritime,110,266.2,2024-09-01 12:28,2024-09-01 13:52,0.6,Livré,204.97,444.93,DAP,0
+LIV-0434,CMD-0290,Casablanca Port,Laayoune,T001,OCP Rail,Rail,900,85.7,2024-06-20 01:00,2024-06-20 13:48,1.4,En transit,1928.25,949.37,TSP,0
+LIV-0435,CMD-0270,Youssoufia,Laayoune,T001,OCP Rail,Rail,608,431.4,2024-01-03 11:36,2024-01-03 21:48,2.2,Livré,6557.28,3933.32,Urée,0
+LIV-0436,CMD-0402,Casablanca Port,Jorf Lasfar,T002,ONCF Fret,Rail,95,187.4,2024-05-19 20:38,2024-05-19 21:50,3.4,Livré,391.67,238.9,Sulfate d'ammonium,0
+LIV-0437,CMD-0327,Jorf Lasfar,Safi,T003,Atlas Trucks,Route,75,125.1,2024-08-11 03:07,2024-08-11 04:25,0.0,Livré,900.72,155.12,MAP,1
+LIV-0438,CMD-0419,Benguerir,Laayoune,T004,Sahara Trans,Route,801,81.5,2025-01-14 22:52,2025-01-15 10:46,0.0,Livré,6789.28,1041.35,DAP,1
+LIV-0439,CMD-0047,Jorf Lasfar,Benguerir,T003,Atlas Trucks,Route,110,172.5,2024-12-09 06:34,2024-12-09 08:28,0.0,Livré,1821.6,235.63,Acide phosphorique,1
+LIV-0440,CMD-0022,Safi,Jorf Lasfar,T002,ONCF Fret,Rail,75,440.3,2024-03-26 16:25,2024-03-26 17:19,0.0,Livré,726.5,444.46,Urée,1
+LIV-0441,CMD-0235,Khouribga,Laayoune,T003,Atlas Trucks,Route,441,388.1,2024-02-08 05:26,2024-02-08 12:26,0.0,Livré,16430.6,2324.39,Acide phosphorique,1
+LIV-0442,CMD-0408,Laayoune,Youssoufia,T003,Atlas Trucks,Route,419,218.4,2024-07-12 04:10,2024-07-12 09:16,4.4,Livré,8784.92,1242.81,NPS,0
+LIV-0443,CMD-0277,Khouribga,Benguerir,T003,Atlas Trucks,Route,80,31.6,2024-07-11 02:10,2024-07-11 04:04,0.0,Livré,242.69,35.76,MAP,1
+LIV-0444,CMD-0401,Khouribga,Youssoufia,T005,OCP Maritime,Maritime,819,357.7,2024-01-16 15:42,2024-01-17 11:48,0.0,En transit,2343.65,4357.72,Phosphate brut,0
+LIV-0445,CMD-0386,Laayoune,Jorf Lasfar,T003,Atlas Trucks,Route,820,175.4,2024-01-19 04:48,2024-01-19 20:06,6.0,En transit,13807.49,1911.32,Acide phosphorique,0
+LIV-0446,CMD-0560,Safi,Khouribga,T002,ONCF Fret,Rail,155,289.3,2025-02-18 03:38,2025-02-18 06:08,1.8,Retardé,986.51,586.53,MAP,0
+LIV-0447,CMD-0086,Safi,Youssoufia,T005,OCP Maritime,Maritime,60,210.7,2024-10-14 05:58,2024-10-14 06:58,0.0,En transit,101.14,142.49,MAP,0
+LIV-0448,CMD-0506,Jorf Lasfar,Youssoufia,T002,ONCF Fret,Rail,90,304.8,2024-11-09 04:06,2024-11-09 05:24,0.0,Livré,603.5,279.92,Acide phosphorique,1
+LIV-0449,CMD-0501,Safi,Benguerir,T006,Marsa Maroc,Maritime,95,420.5,2025-03-15 02:11,2025-03-15 03:35,0.0,En transit,279.63,394.0,NPS,0
+LIV-0450,CMD-0385,Benguerir,Laayoune,T002,ONCF Fret,Rail,409,241.5,2025-03-06 22:21,2025-03-07 03:33,0.0,En transit,2173.02,1291.72,TSP,0

@@ -1,0 +1,601 @@
+commande_id,date_commande,produit,categorie,quantite_t,prix_unitaire_usd,montant_total_usd,client_id,client_nom,pays_client,priorite_client,site_origine,date_livraison_prevue,statut,retard_jours,fournisseur_id
+CMD-0001,2024-03-20 14:38,MAP,Engrais,1411.4,563.87,795847.66,C001,OCP Export EU,France,A,Casablanca Port,2024-04-09,Livrée,0,F004
+CMD-0002,2024-01-21 14:39,DAP,Engrais,1132.3,620.53,702627.53,C001,OCP Export EU,France,A,Khouribga,2024-02-03,En cours,0,F005
+CMD-0003,2024-01-06 01:08,Urée,Engrais,2966.9,398.81,1183239.39,C004,Bunge Brasil,Brésil,B,Safi,2024-01-21,En cours,0,F003
+CMD-0004,2024-03-13 00:54,Acide phosphorique,Chimique,4788.2,827.78,3963561.15,C003,Fertil India Ltd,Inde,B,Youssoufia,2024-03-24,Livrée,0,F003
+CMD-0005,2024-10-21 00:23,Acide phosphorique,Chimique,2324.2,798.98,1856980.85,C001,OCP Export EU,France,A,Casablanca Port,2024-11-03,Livrée,0,F005
+CMD-0006,2024-08-12 18:34,Sulfate d'ammonium,Engrais,394.3,215.42,84939.49,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-08-17,En attente,0,F004
+CMD-0007,2024-10-02 22:43,Acide phosphorique,Chimique,4178.8,804.12,3360260.66,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-10-19,Livrée,0,F001
+CMD-0008,2025-03-08 14:17,TSP,Engrais,2338.2,462.33,1081024.67,C004,Bunge Brasil,Brésil,B,Youssoufia,2025-03-22,Livrée,0,F001
+CMD-0009,2024-06-12 21:00,Phosphate brut,Minerai,1611.5,115.54,186193.72,C001,OCP Export EU,France,A,Laayoune,2024-07-05,Retardée,7,F003
+CMD-0010,2024-04-20 23:19,Phosphate brut,Minerai,4429.2,122.74,543652.21,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-04-26,Livrée,0,F005
+CMD-0011,2024-04-17 10:41,Acide phosphorique,Chimique,2027.0,811.83,1645574.59,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2024-05-06,Livrée,0,F001
+CMD-0012,2024-02-19 08:14,MAP,Engrais,841.9,607.04,511064.81,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-03-04,En cours,0,F004
+CMD-0013,2025-02-21 01:51,Acide phosphorique,Chimique,3617.6,874.71,3164360.34,C001,OCP Export EU,France,A,Casablanca Port,2025-03-13,En attente,0,F003
+CMD-0014,2024-07-23 13:55,MAP,Engrais,832.9,543.11,452353.29,C005,Amajour Agri,Maroc,A,Safi,2024-08-04,Livrée,0,F001
+CMD-0015,2025-02-15 22:30,Acide phosphorique,Chimique,1900.9,803.97,1528267.84,C004,Bunge Brasil,Brésil,B,Youssoufia,2025-03-05,En cours,0,F004
+CMD-0016,2024-08-26 20:28,DAP,Engrais,4399.7,652.9,2872569.5,C002,AgriMaroc Sud,Maroc,A,Benguerir,2024-08-31,Livrée,0,F005
+CMD-0017,2025-02-17 18:21,MAP,Engrais,2455.7,549.33,1348998.67,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2025-03-05,Livrée,0,F004
+CMD-0018,2024-06-13 12:12,TSP,Engrais,4368.5,474.1,2071092.72,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2024-07-06,En attente,0,F002
+CMD-0019,2025-02-06 00:18,Acide phosphorique,Chimique,3266.9,841.58,2749362.97,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-02-18,Livrée,0,F001
+CMD-0020,2024-01-06 14:02,Sulfate d'ammonium,Engrais,2791.9,212.97,594595.38,C001,OCP Export EU,France,A,Jorf Lasfar,2024-01-18,Livrée,0,F001
+CMD-0021,2025-01-12 00:46,DAP,Engrais,2595.1,598.02,1551934.53,C006,Yara West Africa,Sénégal,B,Khouribga,2025-01-25,Livrée,0,F005
+CMD-0022,2024-03-14 06:21,NPS,Engrais,2391.2,502.42,1201377.36,C004,Bunge Brasil,Brésil,B,Laayoune,2024-03-27,Livrée,0,F004
+CMD-0023,2024-03-17 10:38,Urée,Engrais,3658.9,390.54,1428948.87,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-03-24,En cours,0,F001
+CMD-0024,2024-05-22 12:27,Phosphate brut,Minerai,2704.6,113.09,305867.27,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-06-02,Livrée,0,F001
+CMD-0025,2024-01-12 11:06,NPS,Engrais,3278.1,513.31,1682687.99,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-01-18,Livrée,0,F004
+CMD-0026,2024-10-21 08:34,NPS,Engrais,2035.1,473.98,964606.16,C004,Bunge Brasil,Brésil,B,Laayoune,2024-10-29,Livrée,0,F004
+CMD-0027,2025-03-07 16:16,Acide phosphorique,Chimique,4788.7,917.38,4393045.57,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-03-28,Livrée,0,F003
+CMD-0028,2024-08-31 14:01,Phosphate brut,Minerai,3691.9,111.57,411906.71,C001,OCP Export EU,France,A,Jorf Lasfar,2024-08-31,En cours,0,F005
+CMD-0029,2024-02-22 18:52,TSP,Engrais,446.6,455.87,203592.15,C001,OCP Export EU,France,A,Jorf Lasfar,2024-03-07,Livrée,0,F005
+CMD-0030,2025-03-15 00:35,Phosphate brut,Minerai,455.8,123.02,56073.23,C001,OCP Export EU,France,A,Jorf Lasfar,2025-03-28,Retardée,3,F002
+CMD-0031,2024-08-21 00:21,Sulfate d'ammonium,Engrais,2009.1,215.77,433501.08,C004,Bunge Brasil,Brésil,B,Benguerir,2024-09-03,Retardée,3,F001
+CMD-0032,2024-02-26 21:40,DAP,Engrais,4992.3,669.21,3340910.9,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-03-10,Livrée,0,F002
+CMD-0033,2025-02-25 22:19,Sulfate d'ammonium,Engrais,1879.2,198.5,373021.75,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2025-03-13,En cours,0,F005
+CMD-0034,2024-07-24 10:00,DAP,Engrais,562.8,657.51,370046.74,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-07-28,En cours,0,F002
+CMD-0035,2024-07-24 01:00,Acide phosphorique,Chimique,1092.6,828.63,905363.02,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2024-08-12,Livrée,0,F001
+CMD-0036,2024-04-11 14:39,MAP,Engrais,1419.6,543.13,771034.04,C007,OCP Kenya,Kenya,A,Laayoune,2024-04-27,Livrée,0,F004
+CMD-0037,2024-04-25 18:34,Urée,Engrais,422.5,403.29,170391.24,C001,OCP Export EU,France,A,Khouribga,2024-05-04,En attente,0,F005
+CMD-0038,2024-01-31 23:41,TSP,Engrais,257.1,469.61,120735.51,C007,OCP Kenya,Kenya,A,Youssoufia,2024-02-20,Livrée,0,F002
+CMD-0039,2024-04-30 01:04,MAP,Engrais,2821.4,625.37,1764427.05,C006,Yara West Africa,Sénégal,B,Laayoune,2024-05-19,En attente,0,F002
+CMD-0040,2024-11-15 18:53,Urée,Engrais,3696.0,369.8,1366769.26,C001,OCP Export EU,France,A,Youssoufia,2024-12-08,En attente,0,F002
+CMD-0041,2024-01-31 01:52,Acide phosphorique,Chimique,3521.3,834.03,2936854.61,C003,Fertil India Ltd,Inde,B,Laayoune,2024-02-24,Livrée,0,F004
+CMD-0042,2024-01-19 09:08,Sulfate d'ammonium,Engrais,3987.0,200.85,800777.82,C005,Amajour Agri,Maroc,A,Laayoune,2024-02-02,Livrée,0,F003
+CMD-0043,2025-02-20 11:47,MAP,Engrais,3225.3,580.53,1872382.25,C005,Amajour Agri,Maroc,A,Benguerir,2025-02-27,Livrée,0,F003
+CMD-0044,2024-08-31 15:22,TSP,Engrais,586.6,474.97,278620.04,C005,Amajour Agri,Maroc,A,Khouribga,2024-09-16,Annulée,0,F001
+CMD-0045,2025-02-07 20:01,Urée,Engrais,269.7,376.11,101437.49,C004,Bunge Brasil,Brésil,B,Benguerir,2025-03-02,En cours,0,F002
+CMD-0046,2024-08-31 19:48,Sulfate d'ammonium,Engrais,4746.9,224.14,1063960.2,C007,OCP Kenya,Kenya,A,Khouribga,2024-09-12,En cours,0,F003
+CMD-0047,2024-04-08 20:48,Acide phosphorique,Chimique,2041.9,822.21,1678868.78,C007,OCP Kenya,Kenya,A,Benguerir,2024-04-21,En cours,0,F004
+CMD-0048,2024-08-10 20:27,TSP,Engrais,2762.3,441.63,1219917.8,C005,Amajour Agri,Maroc,A,Safi,2024-08-20,En attente,0,F005
+CMD-0049,2025-01-02 12:49,Sulfate d'ammonium,Engrais,2238.7,200.38,448591.53,C008,Pakistan Fertilizer,Pakistan,C,Safi,2025-01-17,En cours,0,F003
+CMD-0050,2024-08-29 02:38,Sulfate d'ammonium,Engrais,4762.4,201.09,957678.56,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-09-05,Livrée,0,F001
+CMD-0051,2024-11-17 21:44,Phosphate brut,Minerai,4256.2,111.8,475835.93,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-12-11,En cours,0,F004
+CMD-0052,2024-03-23 18:55,NPS,Engrais,780.5,525.31,410004.45,C007,OCP Kenya,Kenya,A,Youssoufia,2024-04-12,Livrée,0,F005
+CMD-0053,2024-12-20 13:03,NPS,Engrais,1283.5,538.42,691067.52,C001,OCP Export EU,France,A,Jorf Lasfar,2024-12-31,En cours,0,F005
+CMD-0054,2024-11-27 11:01,Sulfate d'ammonium,Engrais,4084.3,223.17,911500.92,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-12-19,Livrée,0,F002
+CMD-0055,2024-08-03 09:27,NPS,Engrais,3771.3,537.73,2027951.75,C008,Pakistan Fertilizer,Pakistan,C,Benguerir,2024-08-25,Livrée,0,F002
+CMD-0056,2024-09-17 20:39,Acide phosphorique,Chimique,3582.0,813.89,2915358.02,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-10-04,Livrée,0,F002
+CMD-0057,2024-11-18 05:41,Phosphate brut,Minerai,806.4,114.51,92339.17,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-11-29,Livrée,0,F004
+CMD-0058,2025-03-29 16:01,DAP,Engrais,2129.7,660.16,1405942.7,C004,Bunge Brasil,Brésil,B,Laayoune,2025-04-11,En attente,0,F005
+CMD-0059,2024-10-29 21:52,Urée,Engrais,4716.6,367.76,1734556.3,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-11-18,Livrée,0,F005
+CMD-0060,2024-10-29 00:49,Phosphate brut,Minerai,1401.0,119.72,167733.78,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-11-13,En cours,0,F004
+CMD-0061,2024-11-02 01:04,TSP,Engrais,4904.6,482.62,2367061.46,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-11-21,En cours,0,F001
+CMD-0062,2024-10-21 11:00,Urée,Engrais,2335.4,352.66,823595.87,C003,Fertil India Ltd,Inde,B,Laayoune,2024-10-30,Livrée,0,F003
+CMD-0063,2024-03-04 14:50,Urée,Engrais,4758.5,375.23,1785537.39,C005,Amajour Agri,Maroc,A,Laayoune,2024-03-12,En cours,0,F001
+CMD-0064,2024-02-01 06:27,Sulfate d'ammonium,Engrais,389.7,225.36,87824.66,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-02-14,Retardée,0,F002
+CMD-0065,2025-03-14 01:09,DAP,Engrais,674.8,636.81,429719.6,C003,Fertil India Ltd,Inde,B,Youssoufia,2025-03-26,En cours,0,F003
+CMD-0066,2024-03-24 23:06,TSP,Engrais,4105.5,515.69,2117167.58,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-04-03,Retardée,0,F005
+CMD-0067,2024-07-07 15:02,Urée,Engrais,1031.7,385.6,397823.06,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-07-13,En attente,0,F005
+CMD-0068,2024-02-23 13:26,MAP,Engrais,2687.1,605.25,1626360.87,C001,OCP Export EU,France,A,Benguerir,2024-03-14,Livrée,0,F004
+CMD-0069,2024-12-23 02:09,NPS,Engrais,4805.9,521.06,2504180.25,C002,AgriMaroc Sud,Maroc,A,Safi,2025-01-07,Livrée,0,F005
+CMD-0070,2024-07-27 11:15,Acide phosphorique,Chimique,2206.1,881.42,1944499.7,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-08-08,En attente,0,F001
+CMD-0071,2024-10-21 08:52,Acide phosphorique,Chimique,3764.9,859.5,3235929.86,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-10-30,Livrée,0,F003
+CMD-0072,2024-08-05 05:12,TSP,Engrais,1806.4,461.44,833547.86,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-08-29,En cours,0,F003
+CMD-0073,2025-03-07 05:14,DAP,Engrais,1244.7,610.72,760160.28,C004,Bunge Brasil,Brésil,B,Khouribga,2025-03-24,En cours,0,F004
+CMD-0074,2024-07-07 23:32,NPS,Engrais,1506.5,502.2,756562.99,C001,OCP Export EU,France,A,Khouribga,2024-07-23,En cours,0,F004
+CMD-0075,2024-12-18 10:25,Sulfate d'ammonium,Engrais,2774.4,205.02,568809.8,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-12-27,Livrée,0,F001
+CMD-0076,2024-05-23 19:26,Phosphate brut,Minerai,3727.3,128.66,479542.67,C006,Yara West Africa,Sénégal,B,Khouribga,2024-05-29,En cours,0,F003
+CMD-0077,2024-05-19 09:01,Acide phosphorique,Chimique,1010.9,812.94,821798.73,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-05-27,En cours,0,F002
+CMD-0078,2024-04-08 02:01,Acide phosphorique,Chimique,2789.1,876.85,2445618.89,C001,OCP Export EU,France,A,Khouribga,2024-04-29,Livrée,0,F001
+CMD-0079,2024-02-09 21:43,Acide phosphorique,Chimique,2230.3,807.07,1800015.94,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-02-24,Livrée,0,F001
+CMD-0080,2024-04-27 20:23,Urée,Engrais,2906.3,391.34,1137340.46,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-05-09,Retardée,7,F001
+CMD-0081,2024-06-24 07:06,Phosphate brut,Minerai,3834.0,122.04,467906.34,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2024-07-14,Livrée,0,F004
+CMD-0082,2024-03-18 01:50,Acide phosphorique,Chimique,2864.7,790.19,2263661.08,C007,OCP Kenya,Kenya,A,Benguerir,2024-04-06,En cours,0,F003
+CMD-0083,2024-01-03 01:52,MAP,Engrais,910.4,549.89,500616.33,C003,Fertil India Ltd,Inde,B,Youssoufia,2024-01-18,En cours,0,F004
+CMD-0084,2024-12-18 15:45,Acide phosphorique,Chimique,1476.1,820.45,1211065.8,C001,OCP Export EU,France,A,Youssoufia,2025-01-02,Livrée,0,F003
+CMD-0085,2024-07-25 07:44,Phosphate brut,Minerai,2745.6,122.83,337254.64,C007,OCP Kenya,Kenya,A,Khouribga,2024-08-09,Livrée,0,F002
+CMD-0086,2024-11-08 15:18,Acide phosphorique,Chimique,665.6,875.66,582839.43,C005,Amajour Agri,Maroc,A,Safi,2024-11-24,Livrée,0,F004
+CMD-0087,2024-01-21 02:09,MAP,Engrais,3685.9,599.79,2210768.05,C001,OCP Export EU,France,A,Safi,2024-01-27,Retardée,1,F005
+CMD-0088,2024-12-31 10:46,DAP,Engrais,249.1,645.42,160774.59,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2025-01-20,Livrée,0,F003
+CMD-0089,2024-12-31 01:37,TSP,Engrais,4080.5,516.02,2105633.66,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-01-12,Livrée,0,F001
+CMD-0090,2024-11-07 00:58,TSP,Engrais,3483.7,463.74,1615514.06,C006,Yara West Africa,Sénégal,B,Safi,2024-11-29,Livrée,0,F001
+CMD-0091,2025-02-03 16:46,Sulfate d'ammonium,Engrais,623.8,219.16,136710.52,C005,Amajour Agri,Maroc,A,Benguerir,2025-02-17,En cours,0,F005
+CMD-0092,2025-01-22 04:35,NPS,Engrais,978.5,498.72,487998.69,C007,OCP Kenya,Kenya,A,Khouribga,2025-02-10,En attente,0,F002
+CMD-0093,2024-04-04 07:32,Acide phosphorique,Chimique,2218.7,876.96,1945715.6,C003,Fertil India Ltd,Inde,B,Benguerir,2024-04-18,En cours,0,F002
+CMD-0094,2024-06-23 12:43,TSP,Engrais,117.7,472.93,55664.29,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2024-07-08,Livrée,0,F001
+CMD-0095,2024-11-18 17:18,TSP,Engrais,1494.7,495.78,741035.81,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-12-09,Annulée,0,F002
+CMD-0096,2024-04-16 00:41,NPS,Engrais,993.5,518.11,514741.5,C003,Fertil India Ltd,Inde,B,Safi,2024-05-02,Livrée,0,F004
+CMD-0097,2025-03-26 10:33,Sulfate d'ammonium,Engrais,62.7,217.6,13643.23,C005,Amajour Agri,Maroc,A,Laayoune,2025-04-13,En attente,0,F004
+CMD-0098,2024-12-19 16:14,NPS,Engrais,2782.0,513.54,1428679.11,C006,Yara West Africa,Sénégal,B,Benguerir,2025-01-09,En attente,0,F002
+CMD-0099,2025-01-02 08:54,Urée,Engrais,3888.9,352.25,1369879.63,C004,Bunge Brasil,Brésil,B,Laayoune,2025-01-20,Livrée,0,F002
+CMD-0100,2024-03-18 22:55,NPS,Engrais,2536.3,517.36,1312176.93,C001,OCP Export EU,France,A,Youssoufia,2024-04-09,Livrée,0,F004
+CMD-0101,2024-02-28 02:53,DAP,Engrais,4361.1,666.62,2907195.23,C003,Fertil India Ltd,Inde,B,Safi,2024-03-12,Livrée,0,F004
+CMD-0102,2024-09-02 22:59,MAP,Engrais,3388.1,593.17,2009732.65,C006,Yara West Africa,Sénégal,B,Laayoune,2024-09-21,Retardée,5,F001
+CMD-0103,2024-06-25 16:39,MAP,Engrais,3437.8,569.93,1959300.47,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-07-09,Livrée,0,F001
+CMD-0104,2024-02-05 17:20,MAP,Engrais,3485.3,628.08,2189058.49,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-02-12,Livrée,0,F003
+CMD-0105,2024-05-19 20:30,Urée,Engrais,2679.3,384.01,1028873.78,C003,Fertil India Ltd,Inde,B,Youssoufia,2024-05-24,Livrée,0,F004
+CMD-0106,2024-07-16 06:28,Phosphate brut,Minerai,758.4,119.25,90442.29,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-07-27,En cours,0,F004
+CMD-0107,2024-08-20 08:38,Acide phosphorique,Chimique,2236.6,829.0,1854134.52,C003,Fertil India Ltd,Inde,B,Khouribga,2024-09-09,En cours,0,F004
+CMD-0108,2024-10-23 05:08,Acide phosphorique,Chimique,4274.0,796.5,3404261.7,C004,Bunge Brasil,Brésil,B,Safi,2024-11-10,En cours,0,F003
+CMD-0109,2024-02-08 02:15,DAP,Engrais,90.1,656.21,59124.94,C007,OCP Kenya,Kenya,A,Benguerir,2024-03-04,En cours,0,F003
+CMD-0110,2024-04-16 05:44,Phosphate brut,Minerai,3201.3,122.32,391586.57,C006,Yara West Africa,Sénégal,B,Youssoufia,2024-04-27,Retardée,0,F001
+CMD-0111,2024-03-11 00:12,Acide phosphorique,Chimique,2918.9,881.6,2573304.95,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-04-02,Livrée,0,F004
+CMD-0112,2024-10-11 04:04,TSP,Engrais,3943.2,508.91,2006742.48,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-10-28,Retardée,6,F002
+CMD-0113,2024-03-30 10:55,Acide phosphorique,Chimique,1511.0,900.37,1360465.09,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-04-11,Livrée,0,F002
+CMD-0114,2025-02-20 18:25,Urée,Engrais,3963.9,350.45,1389133.91,C006,Yara West Africa,Sénégal,B,Khouribga,2025-03-01,Livrée,0,F003
+CMD-0115,2025-03-12 01:23,Urée,Engrais,3390.4,378.27,1282472.35,C006,Yara West Africa,Sénégal,B,Khouribga,2025-03-27,Livrée,0,F001
+CMD-0116,2024-01-29 21:41,NPS,Engrais,2071.1,480.61,995382.68,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-02-11,Livrée,0,F002
+CMD-0117,2025-02-23 13:55,TSP,Engrais,1886.5,514.51,970627.72,C007,OCP Kenya,Kenya,A,Safi,2025-03-11,En cours,0,F002
+CMD-0118,2024-08-05 06:44,Urée,Engrais,2472.3,374.41,925662.36,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-08-11,Livrée,0,F004
+CMD-0119,2024-10-05 14:09,Phosphate brut,Minerai,4905.6,117.45,576176.61,C006,Yara West Africa,Sénégal,B,Khouribga,2024-10-11,Livrée,0,F001
+CMD-0120,2024-01-17 14:07,NPS,Engrais,1099.9,521.38,573468.75,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-01-24,Livrée,0,F002
+CMD-0121,2024-06-16 17:37,Phosphate brut,Minerai,3837.5,114.38,438923.36,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-07-02,Livrée,0,F002
+CMD-0122,2025-02-23 14:20,DAP,Engrais,4920.9,668.36,3288946.05,C005,Amajour Agri,Maroc,A,Laayoune,2025-03-03,Livrée,0,F001
+CMD-0123,2024-09-08 11:32,TSP,Engrais,3960.4,459.87,1821281.61,C001,OCP Export EU,France,A,Benguerir,2024-09-11,Livrée,0,F002
+CMD-0124,2024-10-08 04:53,Urée,Engrais,364.6,376.86,137401.38,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-10-26,Livrée,0,F005
+CMD-0125,2025-02-09 00:33,Phosphate brut,Minerai,3927.0,127.05,498909.77,C001,OCP Export EU,France,A,Casablanca Port,2025-02-20,En cours,0,F001
+CMD-0126,2025-01-15 19:16,DAP,Engrais,2038.0,638.46,1301183.26,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2025-02-04,Livrée,0,F001
+CMD-0127,2025-03-30 15:59,Sulfate d'ammonium,Engrais,674.6,214.18,144483.85,C003,Fertil India Ltd,Inde,B,Khouribga,2025-04-13,Livrée,0,F005
+CMD-0128,2024-03-29 20:49,Acide phosphorique,Chimique,3046.9,795.49,2423773.21,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-04-25,En cours,0,F005
+CMD-0129,2024-12-18 05:49,Phosphate brut,Minerai,4446.1,118.35,526174.69,C007,OCP Kenya,Kenya,A,Safi,2024-12-30,En cours,0,F003
+CMD-0130,2025-01-03 08:59,Urée,Engrais,1311.7,407.58,534620.62,C006,Yara West Africa,Sénégal,B,Casablanca Port,2025-01-06,En attente,0,F001
+CMD-0131,2025-03-08 03:30,Urée,Engrais,3707.0,398.96,1478928.31,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2025-03-18,Retardée,7,F005
+CMD-0132,2024-11-24 12:06,Sulfate d'ammonium,Engrais,1800.3,215.56,388064.46,C002,AgriMaroc Sud,Maroc,A,Safi,2024-12-08,Retardée,0,F005
+CMD-0133,2025-01-09 12:39,Acide phosphorique,Chimique,2910.7,810.93,2360381.16,C006,Yara West Africa,Sénégal,B,Khouribga,2025-01-17,Livrée,0,F005
+CMD-0134,2024-11-29 07:14,Sulfate d'ammonium,Engrais,1428.9,200.8,286921.61,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-12-21,Annulée,0,F005
+CMD-0135,2024-08-27 23:53,DAP,Engrais,943.1,640.11,603685.59,C005,Amajour Agri,Maroc,A,Khouribga,2024-09-17,Livrée,0,F002
+CMD-0136,2024-01-24 19:29,TSP,Engrais,752.3,490.23,368798.23,C007,OCP Kenya,Kenya,A,Khouribga,2024-02-03,Livrée,0,F004
+CMD-0137,2025-03-16 20:42,NPS,Engrais,1881.8,528.08,993745.14,C006,Yara West Africa,Sénégal,B,Youssoufia,2025-03-28,Retardée,0,F002
+CMD-0138,2024-11-25 08:12,TSP,Engrais,453.8,475.63,215841.38,C001,OCP Export EU,France,A,Casablanca Port,2024-12-12,Livrée,0,F003
+CMD-0139,2025-01-12 23:29,Phosphate brut,Minerai,2178.1,115.84,252307.47,C002,AgriMaroc Sud,Maroc,A,Benguerir,2025-01-30,Livrée,0,F002
+CMD-0140,2024-04-16 14:14,Urée,Engrais,1061.9,407.08,432273.69,C001,OCP Export EU,France,A,Khouribga,2024-05-03,Livrée,0,F001
+CMD-0141,2025-02-17 16:03,DAP,Engrais,2181.7,583.22,1272400.65,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2025-03-05,Livrée,0,F003
+CMD-0142,2024-12-23 02:26,MAP,Engrais,3723.1,583.98,2174212.7,C007,OCP Kenya,Kenya,A,Laayoune,2025-01-09,En attente,0,F005
+CMD-0143,2024-11-10 14:20,Urée,Engrais,3218.7,367.2,1181914.77,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-11-16,Livrée,0,F005
+CMD-0144,2024-12-04 09:35,NPS,Engrais,2211.7,477.84,1056835.26,C006,Yara West Africa,Sénégal,B,Khouribga,2024-12-21,Livrée,0,F004
+CMD-0145,2025-01-31 12:05,Acide phosphorique,Chimique,1698.7,804.87,1367225.96,C006,Yara West Africa,Sénégal,B,Youssoufia,2025-02-15,Livrée,0,F002
+CMD-0146,2024-04-24 17:08,Sulfate d'ammonium,Engrais,4793.2,214.89,1029995.81,C006,Yara West Africa,Sénégal,B,Casablanca Port,2024-04-29,Livrée,0,F002
+CMD-0147,2025-01-18 19:00,TSP,Engrais,3807.8,447.39,1703560.72,C003,Fertil India Ltd,Inde,B,Laayoune,2025-02-04,En attente,0,F004
+CMD-0148,2024-08-23 04:58,Sulfate d'ammonium,Engrais,2226.8,208.96,465302.66,C006,Yara West Africa,Sénégal,B,Youssoufia,2024-09-09,En cours,0,F003
+CMD-0149,2024-08-10 23:30,MAP,Engrais,2287.0,548.17,1253665.75,C005,Amajour Agri,Maroc,A,Safi,2024-08-23,En attente,0,F001
+CMD-0150,2024-02-01 20:43,Urée,Engrais,2793.9,397.74,1111252.83,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-02-18,En cours,0,F003
+CMD-0151,2024-09-23 18:08,NPS,Engrais,2280.1,535.37,1220708.29,C003,Fertil India Ltd,Inde,B,Khouribga,2024-10-07,Livrée,0,F002
+CMD-0152,2025-02-10 00:43,DAP,Engrais,2216.9,613.99,1361155.85,C004,Bunge Brasil,Brésil,B,Casablanca Port,2025-02-23,Livrée,0,F003
+CMD-0153,2024-09-16 22:18,Urée,Engrais,1724.9,385.95,665727.67,C007,OCP Kenya,Kenya,A,Laayoune,2024-09-23,Livrée,0,F004
+CMD-0154,2024-04-26 19:09,Acide phosphorique,Chimique,4265.3,913.16,3894900.34,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-05-06,En cours,0,F002
+CMD-0155,2024-03-06 19:16,Sulfate d'ammonium,Engrais,3507.5,206.37,723842.03,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-03-19,Livrée,0,F003
+CMD-0156,2024-01-15 03:50,TSP,Engrais,3368.8,480.65,1619220.17,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-01-25,Livrée,0,F002
+CMD-0157,2024-02-29 22:27,Sulfate d'ammonium,Engrais,1171.4,197.82,231728.92,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-03-06,Livrée,0,F005
+CMD-0158,2024-04-29 19:28,DAP,Engrais,3109.3,629.65,1957760.94,C006,Yara West Africa,Sénégal,B,Laayoune,2024-05-05,En attente,0,F005
+CMD-0159,2024-07-03 11:53,TSP,Engrais,2083.8,493.54,1028448.39,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-07-20,Livrée,0,F004
+CMD-0160,2024-05-30 16:43,Phosphate brut,Minerai,4829.7,125.46,605933.72,C004,Bunge Brasil,Brésil,B,Benguerir,2024-06-14,Retardée,8,F004
+CMD-0161,2024-05-05 20:58,NPS,Engrais,1940.3,512.24,993900.67,C005,Amajour Agri,Maroc,A,Laayoune,2024-05-23,En attente,0,F002
+CMD-0162,2024-03-20 16:24,Acide phosphorique,Chimique,2428.9,832.48,2022022.44,C001,OCP Export EU,France,A,Casablanca Port,2024-04-12,En attente,0,F003
+CMD-0163,2024-12-05 19:04,MAP,Engrais,2274.1,591.26,1344585.5,C003,Fertil India Ltd,Inde,B,Benguerir,2024-12-11,En attente,0,F003
+CMD-0164,2024-10-26 22:39,DAP,Engrais,2012.4,607.5,1222526.92,C007,OCP Kenya,Kenya,A,Khouribga,2024-11-03,Livrée,0,F003
+CMD-0165,2025-01-01 23:11,MAP,Engrais,772.9,546.42,422324.79,C006,Yara West Africa,Sénégal,B,Laayoune,2025-01-16,En attente,0,F004
+CMD-0166,2024-04-26 03:14,NPS,Engrais,144.1,486.8,70147.51,C001,OCP Export EU,France,A,Khouribga,2024-05-15,Livrée,0,F001
+CMD-0167,2024-12-21 01:12,Acide phosphorique,Chimique,653.1,814.43,531902.78,C004,Bunge Brasil,Brésil,B,Benguerir,2024-12-27,En attente,0,F004
+CMD-0168,2024-10-01 00:58,DAP,Engrais,760.7,612.98,466294.26,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-10-15,Livrée,0,F001
+CMD-0169,2025-01-29 06:46,Sulfate d'ammonium,Engrais,2743.2,219.62,602471.06,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2025-02-07,Livrée,0,F004
+CMD-0170,2024-02-22 11:24,DAP,Engrais,1305.6,572.01,746817.86,C007,OCP Kenya,Kenya,A,Benguerir,2024-03-03,En cours,0,F001
+CMD-0171,2024-05-15 23:53,Sulfate d'ammonium,Engrais,1793.9,204.58,366987.43,C003,Fertil India Ltd,Inde,B,Khouribga,2024-06-08,Livrée,0,F004
+CMD-0172,2024-01-29 17:25,TSP,Engrais,3594.4,514.07,1847769.17,C003,Fertil India Ltd,Inde,B,Khouribga,2024-02-06,Livrée,0,F002
+CMD-0173,2025-02-25 18:49,DAP,Engrais,2601.1,668.52,1738889.9,C006,Yara West Africa,Sénégal,B,Benguerir,2025-03-10,Livrée,0,F002
+CMD-0174,2024-09-14 19:31,Acide phosphorique,Chimique,3915.2,899.75,3522695.58,C006,Yara West Africa,Sénégal,B,Laayoune,2024-09-23,En attente,0,F004
+CMD-0175,2025-01-21 10:30,Urée,Engrais,1728.2,360.96,623808.46,C008,Pakistan Fertilizer,Pakistan,C,Safi,2025-02-04,Livrée,0,F001
+CMD-0176,2025-02-27 16:22,Urée,Engrais,3032.1,399.6,1211622.16,C002,AgriMaroc Sud,Maroc,A,Safi,2025-03-09,Livrée,0,F003
+CMD-0177,2024-12-10 19:03,Acide phosphorique,Chimique,3033.0,839.95,2547573.77,C005,Amajour Agri,Maroc,A,Safi,2024-12-26,Livrée,0,F003
+CMD-0178,2024-02-28 06:52,Urée,Engrais,4901.1,407.23,1995887.63,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-03-20,Livrée,0,F005
+CMD-0179,2024-12-06 08:08,TSP,Engrais,4250.9,493.68,2098572.52,C001,OCP Export EU,France,A,Youssoufia,2024-12-09,Livrée,0,F003
+CMD-0180,2024-12-15 11:09,Sulfate d'ammonium,Engrais,210.3,198.36,41714.17,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2024-12-26,Livrée,0,F001
+CMD-0181,2024-03-29 02:50,TSP,Engrais,1606.2,463.0,743676.02,C006,Yara West Africa,Sénégal,B,Safi,2024-04-01,Livrée,0,F004
+CMD-0182,2024-08-09 19:32,MAP,Engrais,1338.4,584.93,782867.88,C005,Amajour Agri,Maroc,A,Laayoune,2024-08-29,Livrée,0,F002
+CMD-0183,2024-03-09 04:32,MAP,Engrais,4498.5,584.82,2630806.01,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-04-02,Retardée,8,F003
+CMD-0184,2024-05-02 08:06,Sulfate d'ammonium,Engrais,2733.7,223.15,610021.72,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2024-05-24,Livrée,0,F003
+CMD-0185,2025-01-18 17:14,Phosphate brut,Minerai,3970.7,114.95,456413.44,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2025-01-23,En cours,0,F003
+CMD-0186,2024-11-05 06:14,NPS,Engrais,4427.0,474.57,2100899.46,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-11-25,Livrée,0,F004
+CMD-0187,2025-02-05 20:17,MAP,Engrais,3229.6,585.28,1890212.51,C003,Fertil India Ltd,Inde,B,Benguerir,2025-02-14,Retardée,0,F005
+CMD-0188,2024-04-06 10:31,TSP,Engrais,2539.2,508.28,1290621.16,C003,Fertil India Ltd,Inde,B,Safi,2024-04-17,Livrée,0,F002
+CMD-0189,2024-08-08 15:02,Sulfate d'ammonium,Engrais,4740.0,210.63,998409.74,C004,Bunge Brasil,Brésil,B,Benguerir,2024-08-23,Livrée,0,F005
+CMD-0190,2025-01-25 08:38,Acide phosphorique,Chimique,1549.0,854.55,1323702.62,C003,Fertil India Ltd,Inde,B,Casablanca Port,2025-02-10,En cours,0,F005
+CMD-0191,2024-09-19 05:41,TSP,Engrais,3141.2,510.87,1604756.37,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-10-12,Livrée,0,F001
+CMD-0192,2024-06-12 17:45,MAP,Engrais,3866.6,567.78,2195391.75,C001,OCP Export EU,France,A,Casablanca Port,2024-07-05,Livrée,0,F001
+CMD-0193,2024-11-11 10:06,NPS,Engrais,4785.4,508.61,2433894.15,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-11-24,Livrée,0,F001
+CMD-0194,2024-04-21 14:10,TSP,Engrais,2447.0,457.27,1118937.16,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-05-02,En cours,0,F003
+CMD-0195,2024-09-04 20:45,Urée,Engrais,1884.2,383.75,723058.72,C003,Fertil India Ltd,Inde,B,Laayoune,2024-09-15,Livrée,0,F004
+CMD-0196,2024-11-20 18:35,Phosphate brut,Minerai,300.5,128.55,38629.69,C003,Fertil India Ltd,Inde,B,Khouribga,2024-11-25,En attente,0,F005
+CMD-0197,2024-12-28 14:03,Sulfate d'ammonium,Engrais,838.7,226.66,190103.58,C004,Bunge Brasil,Brésil,B,Laayoune,2025-01-09,Livrée,0,F001
+CMD-0198,2024-02-09 06:08,Urée,Engrais,1115.0,371.06,413727.46,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-02-21,En cours,0,F004
+CMD-0199,2024-07-24 10:07,Acide phosphorique,Chimique,582.1,800.22,465805.24,C001,OCP Export EU,France,A,Laayoune,2024-08-13,En attente,0,F003
+CMD-0200,2025-03-05 16:49,DAP,Engrais,2872.9,589.71,1694177.3,C007,OCP Kenya,Kenya,A,Khouribga,2025-03-12,Livrée,0,F004
+CMD-0201,2024-09-20 09:00,Acide phosphorique,Chimique,4876.7,835.57,4074828.63,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2024-10-07,En attente,0,F002
+CMD-0202,2025-01-02 23:13,Urée,Engrais,242.6,392.99,95338.5,C001,OCP Export EU,France,A,Khouribga,2025-01-18,Livrée,0,F005
+CMD-0203,2024-08-20 10:07,TSP,Engrais,1626.7,471.78,767442.76,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2024-09-04,Livrée,0,F005
+CMD-0204,2024-03-26 03:10,NPS,Engrais,4088.0,499.26,2040966.69,C005,Amajour Agri,Maroc,A,Safi,2024-04-12,Livrée,0,F001
+CMD-0205,2025-03-24 15:53,NPS,Engrais,3925.4,532.53,2090412.19,C005,Amajour Agri,Maroc,A,Casablanca Port,2025-03-29,En cours,0,F002
+CMD-0206,2024-03-26 08:36,Urée,Engrais,3419.6,351.52,1202056.04,C003,Fertil India Ltd,Inde,B,Laayoune,2024-03-30,Livrée,0,F004
+CMD-0207,2025-01-01 07:21,TSP,Engrais,1059.3,480.14,508612.02,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-01-15,En cours,0,F005
+CMD-0208,2024-05-14 12:21,Phosphate brut,Minerai,2417.9,117.64,284429.75,C006,Yara West Africa,Sénégal,B,Casablanca Port,2024-05-29,Livrée,0,F003
+CMD-0209,2024-08-19 20:25,Acide phosphorique,Chimique,4788.8,819.94,3926551.99,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-08-30,En attente,0,F002
+CMD-0210,2024-07-31 09:37,NPS,Engrais,1776.6,545.39,968939.79,C006,Yara West Africa,Sénégal,B,Safi,2024-08-07,En cours,0,F005
+CMD-0211,2024-04-23 18:30,Urée,Engrais,1758.4,396.6,697385.5,C007,OCP Kenya,Kenya,A,Laayoune,2024-04-28,Livrée,0,F001
+CMD-0212,2024-06-05 22:49,Sulfate d'ammonium,Engrais,1319.4,209.3,276146.55,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-06-27,Livrée,0,F005
+CMD-0213,2024-07-07 07:44,Acide phosphorique,Chimique,3097.6,861.81,2669539.4,C003,Fertil India Ltd,Inde,B,Khouribga,2024-07-21,Retardée,8,F002
+CMD-0214,2024-03-19 02:17,Phosphate brut,Minerai,2095.8,124.17,260242.35,C001,OCP Export EU,France,A,Khouribga,2024-03-31,Livrée,0,F005
+CMD-0215,2025-01-05 20:17,TSP,Engrais,4678.4,509.06,2381591.41,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-01-19,En attente,0,F003
+CMD-0216,2025-03-21 22:37,Sulfate d'ammonium,Engrais,342.9,219.03,75105.1,C005,Amajour Agri,Maroc,A,Casablanca Port,2025-04-02,En cours,0,F001
+CMD-0217,2024-11-04 08:30,TSP,Engrais,920.2,512.23,471352.16,C007,OCP Kenya,Kenya,A,Laayoune,2024-11-24,Livrée,0,F003
+CMD-0218,2024-09-17 05:38,DAP,Engrais,2861.4,581.04,1662599.96,C001,OCP Export EU,France,A,Benguerir,2024-09-30,Annulée,0,F005
+CMD-0219,2024-03-28 11:53,NPS,Engrais,2545.9,491.46,1251216.94,C003,Fertil India Ltd,Inde,B,Laayoune,2024-04-06,En cours,0,F003
+CMD-0220,2024-05-30 00:47,TSP,Engrais,1718.7,464.26,797919.99,C001,OCP Export EU,France,A,Casablanca Port,2024-06-11,En attente,0,F004
+CMD-0221,2024-04-19 05:11,Urée,Engrais,2034.1,355.4,722917.95,C006,Yara West Africa,Sénégal,B,Khouribga,2024-05-02,Retardée,3,F001
+CMD-0222,2024-09-13 00:39,Acide phosphorique,Chimique,2261.3,818.31,1850447.18,C007,OCP Kenya,Kenya,A,Youssoufia,2024-09-30,En cours,0,F001
+CMD-0223,2024-12-27 11:35,Acide phosphorique,Chimique,1219.7,872.82,1064577.23,C006,Yara West Africa,Sénégal,B,Casablanca Port,2025-01-06,Livrée,0,F005
+CMD-0224,2024-06-20 12:55,Acide phosphorique,Chimique,4584.8,822.13,3769279.22,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-06-29,Livrée,0,F004
+CMD-0225,2025-02-21 12:03,Sulfate d'ammonium,Engrais,2768.7,209.02,578713.19,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-03-16,En attente,0,F002
+CMD-0226,2025-03-14 04:52,MAP,Engrais,3533.6,550.17,1944090.95,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2025-03-17,En attente,0,F005
+CMD-0227,2024-03-31 06:52,Phosphate brut,Minerai,1674.2,120.39,201557.87,C003,Fertil India Ltd,Inde,B,Youssoufia,2024-04-13,En cours,0,F004
+CMD-0228,2024-11-18 16:04,MAP,Engrais,325.4,555.26,180680.15,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-12-06,Livrée,0,F004
+CMD-0229,2024-06-18 05:58,Acide phosphorique,Chimique,1309.6,782.41,1024644.27,C001,OCP Export EU,France,A,Safi,2024-07-02,Livrée,0,F003
+CMD-0230,2024-08-10 23:45,MAP,Engrais,4931.4,587.36,2896524.47,C001,OCP Export EU,France,A,Khouribga,2024-08-20,En attente,0,F004
+CMD-0231,2024-10-18 18:32,Sulfate d'ammonium,Engrais,4354.6,223.67,973981.98,C007,OCP Kenya,Kenya,A,Safi,2024-10-30,Retardée,8,F005
+CMD-0232,2025-02-14 18:20,TSP,Engrais,933.4,482.86,450702.88,C006,Yara West Africa,Sénégal,B,Khouribga,2025-02-20,En attente,0,F001
+CMD-0233,2024-10-21 14:13,Acide phosphorique,Chimique,3609.5,839.68,3030830.06,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-11-10,Livrée,0,F003
+CMD-0234,2024-03-28 15:34,TSP,Engrais,4690.2,497.28,2332351.28,C005,Amajour Agri,Maroc,A,Youssoufia,2024-04-08,Livrée,0,F001
+CMD-0235,2024-02-07 19:23,Phosphate brut,Minerai,549.4,111.04,61007.94,C004,Bunge Brasil,Brésil,B,Khouribga,2024-02-10,Livrée,0,F002
+CMD-0236,2025-03-23 11:28,Phosphate brut,Minerai,2544.3,115.95,295021.4,C001,OCP Export EU,France,A,Youssoufia,2025-04-06,En cours,0,F003
+CMD-0237,2024-11-17 05:19,Phosphate brut,Minerai,4929.2,120.41,593515.21,C005,Amajour Agri,Maroc,A,Youssoufia,2024-11-25,Livrée,0,F005
+CMD-0238,2024-10-23 01:14,TSP,Engrais,2503.3,516.27,1292383.42,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2024-11-13,Livrée,0,F004
+CMD-0239,2025-01-02 19:01,Urée,Engrais,1913.5,395.47,756728.97,C003,Fertil India Ltd,Inde,B,Benguerir,2025-01-09,Livrée,0,F002
+CMD-0240,2025-02-15 15:45,NPS,Engrais,2092.8,503.19,1053069.84,C001,OCP Export EU,France,A,Jorf Lasfar,2025-02-25,Livrée,0,F002
+CMD-0241,2024-05-27 22:50,Sulfate d'ammonium,Engrais,4243.3,196.31,832988.6,C002,AgriMaroc Sud,Maroc,A,Safi,2024-06-01,Livrée,0,F005
+CMD-0242,2025-03-10 01:43,DAP,Engrais,4033.0,628.69,2535499.92,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2025-03-22,Livrée,0,F003
+CMD-0243,2024-04-01 02:55,Acide phosphorique,Chimique,4688.9,912.84,4280227.42,C001,OCP Export EU,France,A,Youssoufia,2024-04-23,Retardée,5,F005
+CMD-0244,2024-10-22 16:02,Phosphate brut,Minerai,2782.8,125.29,348656.64,C007,OCP Kenya,Kenya,A,Youssoufia,2024-11-06,En cours,0,F003
+CMD-0245,2024-12-30 15:56,Acide phosphorique,Chimique,4419.9,845.38,3736479.83,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2025-01-20,Retardée,3,F003
+CMD-0246,2024-04-23 08:11,Sulfate d'ammonium,Engrais,2834.5,200.63,568699.37,C007,OCP Kenya,Kenya,A,Khouribga,2024-04-28,En cours,0,F005
+CMD-0247,2025-03-18 13:38,Urée,Engrais,1021.1,363.59,371256.78,C005,Amajour Agri,Maroc,A,Youssoufia,2025-04-04,Livrée,0,F003
+CMD-0248,2024-05-10 16:06,Acide phosphorique,Chimique,3226.4,848.72,2738313.43,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-05-30,Livrée,0,F005
+CMD-0249,2025-02-10 23:01,NPS,Engrais,4952.1,547.31,2710336.48,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2025-02-13,Retardée,0,F001
+CMD-0250,2024-04-27 07:23,DAP,Engrais,4220.6,593.36,2504327.59,C007,OCP Kenya,Kenya,A,Youssoufia,2024-05-02,Livrée,0,F003
+CMD-0251,2025-03-04 11:22,DAP,Engrais,2464.9,571.06,1407595.8,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2025-03-12,Livrée,0,F003
+CMD-0252,2024-05-19 05:46,Acide phosphorique,Chimique,4075.1,873.67,3560286.43,C001,OCP Export EU,France,A,Jorf Lasfar,2024-05-25,Livrée,0,F002
+CMD-0253,2024-03-02 09:01,Phosphate brut,Minerai,1804.5,125.66,226758.48,C005,Amajour Agri,Maroc,A,Laayoune,2024-03-13,Livrée,0,F002
+CMD-0254,2024-01-25 14:38,Phosphate brut,Minerai,4148.9,111.95,464460.41,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-02-01,Livrée,0,F005
+CMD-0255,2025-01-23 06:02,NPS,Engrais,96.8,483.18,46772.3,C001,OCP Export EU,France,A,Casablanca Port,2025-02-13,En cours,0,F003
+CMD-0256,2025-03-16 05:37,MAP,Engrais,1096.5,624.75,685038.63,C001,OCP Export EU,France,A,Youssoufia,2025-03-29,Livrée,0,F001
+CMD-0257,2024-06-09 21:42,Acide phosphorique,Chimique,4647.4,824.77,3833035.72,C001,OCP Export EU,France,A,Youssoufia,2024-06-24,En attente,0,F004
+CMD-0258,2024-10-29 06:24,MAP,Engrais,2841.6,596.3,1694434.98,C005,Amajour Agri,Maroc,A,Youssoufia,2024-11-18,Livrée,0,F002
+CMD-0259,2024-02-29 01:04,MAP,Engrais,533.5,564.71,301275.13,C006,Yara West Africa,Sénégal,B,Khouribga,2024-03-16,En attente,0,F005
+CMD-0260,2024-12-15 22:51,Urée,Engrais,3188.9,397.24,1266757.76,C006,Yara West Africa,Sénégal,B,Khouribga,2024-12-26,Livrée,0,F004
+CMD-0261,2024-08-17 10:16,Urée,Engrais,2950.1,372.71,1099527.11,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-09-02,En cours,0,F001
+CMD-0262,2024-10-29 15:04,Acide phosphorique,Chimique,3572.8,868.21,3101942.55,C003,Fertil India Ltd,Inde,B,Safi,2024-11-12,Livrée,0,F001
+CMD-0263,2024-03-08 19:20,Acide phosphorique,Chimique,3818.7,795.9,3039316.59,C008,Pakistan Fertilizer,Pakistan,C,Benguerir,2024-03-20,Livrée,0,F005
+CMD-0264,2024-09-08 23:49,Urée,Engrais,493.6,383.3,189195.18,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-09-28,Livrée,0,F004
+CMD-0265,2024-07-07 13:02,Urée,Engrais,4510.6,404.64,1825153.94,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-07-25,Livrée,0,F004
+CMD-0266,2024-02-19 03:23,TSP,Engrais,1540.6,479.47,738674.44,C003,Fertil India Ltd,Inde,B,Benguerir,2024-02-28,Livrée,0,F003
+CMD-0267,2025-01-20 02:25,NPS,Engrais,1295.9,489.32,634112.06,C002,AgriMaroc Sud,Maroc,A,Benguerir,2025-02-09,Livrée,0,F001
+CMD-0268,2024-10-22 01:39,TSP,Engrais,4746.7,467.11,2217251.36,C005,Amajour Agri,Maroc,A,Khouribga,2024-11-09,Livrée,0,F004
+CMD-0269,2025-01-07 01:23,TSP,Engrais,3035.9,495.0,1502765.79,C005,Amajour Agri,Maroc,A,Benguerir,2025-01-15,Retardée,0,F003
+CMD-0270,2024-08-05 17:10,Acide phosphorique,Chimique,3920.8,826.32,3239837.53,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-08-28,Livrée,0,F005
+CMD-0271,2024-12-24 13:15,Phosphate brut,Minerai,3849.7,110.92,426996.36,C003,Fertil India Ltd,Inde,B,Casablanca Port,2025-01-07,Livrée,0,F003
+CMD-0272,2024-07-06 23:36,MAP,Engrais,2521.6,602.59,1519483.18,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-07-22,Livrée,0,F004
+CMD-0273,2024-11-07 07:32,Urée,Engrais,4954.0,378.74,1876265.43,C002,AgriMaroc Sud,Maroc,A,Safi,2024-11-24,Retardée,6,F004
+CMD-0274,2024-03-07 00:10,DAP,Engrais,4482.7,623.66,2795685.5,C006,Yara West Africa,Sénégal,B,Casablanca Port,2024-03-13,En cours,0,F003
+CMD-0275,2024-11-06 09:24,TSP,Engrais,4918.9,493.63,2428115.83,C001,OCP Export EU,France,A,Jorf Lasfar,2024-11-24,Retardée,3,F004
+CMD-0276,2025-02-06 23:05,MAP,Engrais,1330.8,591.01,786513.23,C001,OCP Export EU,France,A,Khouribga,2025-02-25,En cours,0,F002
+CMD-0277,2025-01-23 17:21,NPS,Engrais,2342.2,524.65,1228839.28,C006,Yara West Africa,Sénégal,B,Safi,2025-02-01,Annulée,0,F004
+CMD-0278,2024-04-20 01:01,MAP,Engrais,4606.7,550.9,2537852.65,C005,Amajour Agri,Maroc,A,Safi,2024-05-01,Livrée,0,F002
+CMD-0279,2024-12-17 10:13,NPS,Engrais,533.2,528.11,281590.76,C006,Yara West Africa,Sénégal,B,Safi,2024-12-25,Livrée,0,F001
+CMD-0280,2024-07-08 10:52,DAP,Engrais,591.3,649.76,384206.03,C006,Yara West Africa,Sénégal,B,Casablanca Port,2024-07-20,En cours,0,F003
+CMD-0281,2024-05-24 18:30,Urée,Engrais,3998.9,387.89,1551131.03,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-06-14,Livrée,0,F001
+CMD-0282,2024-06-15 20:05,Phosphate brut,Minerai,2176.3,110.49,240449.46,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-06-22,En attente,0,F001
+CMD-0283,2024-07-22 18:37,MAP,Engrais,1663.6,585.99,974857.56,C003,Fertil India Ltd,Inde,B,Benguerir,2024-08-10,Livrée,0,F003
+CMD-0284,2024-12-21 15:08,Urée,Engrais,615.4,371.0,228313.82,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2025-01-02,En attente,0,F003
+CMD-0285,2024-05-22 04:11,MAP,Engrais,633.4,571.63,362069.09,C003,Fertil India Ltd,Inde,B,Benguerir,2024-05-31,Livrée,0,F004
+CMD-0286,2024-05-14 13:19,TSP,Engrais,969.5,490.41,475449.13,C007,OCP Kenya,Kenya,A,Safi,2024-05-25,Livrée,0,F002
+CMD-0287,2024-10-05 20:58,TSP,Engrais,2282.5,445.72,1017349.84,C006,Yara West Africa,Sénégal,B,Laayoune,2024-10-13,Livrée,0,F004
+CMD-0288,2024-12-10 17:59,NPS,Engrais,2484.0,527.15,1309434.68,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-12-21,Livrée,0,F001
+CMD-0289,2024-05-10 15:38,Phosphate brut,Minerai,1410.5,120.72,170278.5,C005,Amajour Agri,Maroc,A,Khouribga,2024-05-29,En cours,0,F004
+CMD-0290,2024-10-11 22:47,MAP,Engrais,3886.8,620.52,2411828.96,C002,AgriMaroc Sud,Maroc,A,Benguerir,2024-10-21,En attente,0,F004
+CMD-0291,2024-07-11 06:19,Phosphate brut,Minerai,3693.1,122.95,454068.48,C007,OCP Kenya,Kenya,A,Khouribga,2024-07-15,Livrée,0,F003
+CMD-0292,2024-07-03 00:59,MAP,Engrais,4970.1,616.02,3061679.15,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-07-17,En cours,0,F005
+CMD-0293,2024-06-09 17:41,Urée,Engrais,739.2,362.16,267710.5,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-06-22,En cours,0,F005
+CMD-0294,2025-03-20 20:33,Acide phosphorique,Chimique,4896.1,821.8,4023606.75,C003,Fertil India Ltd,Inde,B,Benguerir,2025-04-05,Annulée,0,F001
+CMD-0295,2024-04-08 13:22,TSP,Engrais,4962.8,508.19,2522041.63,C007,OCP Kenya,Kenya,A,Khouribga,2024-04-22,Livrée,0,F003
+CMD-0296,2024-11-17 17:42,Phosphate brut,Minerai,753.7,122.54,92359.99,C007,OCP Kenya,Kenya,A,Safi,2024-11-30,Livrée,0,F001
+CMD-0297,2025-01-14 01:48,Urée,Engrais,4684.9,372.04,1742967.98,C005,Amajour Agri,Maroc,A,Casablanca Port,2025-01-29,Livrée,0,F001
+CMD-0298,2024-06-18 04:38,NPS,Engrais,363.5,512.81,186406.08,C006,Yara West Africa,Sénégal,B,Laayoune,2024-06-29,Livrée,0,F003
+CMD-0299,2025-01-11 23:21,Acide phosphorique,Chimique,2910.8,859.0,2500363.6,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2025-02-01,Retardée,3,F001
+CMD-0300,2024-04-06 11:56,DAP,Engrais,3930.3,615.99,2421027.5,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-04-24,Livrée,0,F001
+CMD-0301,2024-08-22 11:10,Urée,Engrais,4551.6,403.23,1835362.53,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-08-29,Livrée,0,F003
+CMD-0302,2024-02-10 05:23,Acide phosphorique,Chimique,3339.3,870.25,2906032.25,C002,AgriMaroc Sud,Maroc,A,Benguerir,2024-03-01,Livrée,0,F002
+CMD-0303,2024-03-01 12:52,Urée,Engrais,521.2,362.58,188974.62,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-03-13,Livrée,0,F004
+CMD-0304,2024-11-24 00:30,DAP,Engrais,1750.7,582.36,1019542.74,C001,OCP Export EU,France,A,Casablanca Port,2024-12-09,Livrée,0,F002
+CMD-0305,2024-10-12 11:50,Urée,Engrais,4039.5,355.87,1437555.66,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-10-31,Livrée,0,F002
+CMD-0306,2024-05-07 11:21,TSP,Engrais,2838.3,488.47,1386431.55,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2024-05-20,En cours,0,F002
+CMD-0307,2024-04-18 18:02,Urée,Engrais,1125.4,404.11,454788.6,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-05-02,En cours,0,F004
+CMD-0308,2024-03-06 10:30,Sulfate d'ammonium,Engrais,3965.8,201.53,799210.31,C007,OCP Kenya,Kenya,A,Benguerir,2024-03-18,En cours,0,F005
+CMD-0309,2024-06-08 13:47,Acide phosphorique,Chimique,4243.0,901.11,3823420.33,C001,OCP Export EU,France,A,Laayoune,2024-06-29,Livrée,0,F004
+CMD-0310,2025-01-19 09:22,Acide phosphorique,Chimique,4494.7,911.84,4098426.24,C001,OCP Export EU,France,A,Laayoune,2025-01-30,Livrée,0,F005
+CMD-0311,2025-03-17 11:22,MAP,Engrais,4672.9,555.26,2594670.64,C001,OCP Export EU,France,A,Benguerir,2025-03-30,Livrée,0,F002
+CMD-0312,2024-06-16 13:44,NPS,Engrais,2957.4,470.33,1390940.76,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-06-18,Retardée,0,F004
+CMD-0313,2025-02-20 18:17,Acide phosphorique,Chimique,3524.0,793.21,2795272.68,C007,OCP Kenya,Kenya,A,Safi,2025-03-13,Livrée,0,F001
+CMD-0314,2024-04-30 16:26,Acide phosphorique,Chimique,4608.6,914.51,4214595.21,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2024-05-17,Livrée,0,F001
+CMD-0315,2024-07-08 21:25,Acide phosphorique,Chimique,4769.5,814.45,3884541.62,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-07-19,Livrée,0,F005
+CMD-0316,2024-04-02 18:34,DAP,Engrais,3721.4,643.87,2396110.07,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-04-06,En cours,0,F002
+CMD-0317,2024-07-20 08:42,NPS,Engrais,2610.3,536.32,1399947.12,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2024-07-29,Livrée,0,F003
+CMD-0318,2024-02-19 14:39,MAP,Engrais,4045.2,568.47,2299594.94,C001,OCP Export EU,France,A,Benguerir,2024-03-05,En cours,0,F004
+CMD-0319,2024-10-12 14:11,NPS,Engrais,2523.1,515.46,1300551.85,C006,Yara West Africa,Sénégal,B,Khouribga,2024-10-20,En attente,0,F005
+CMD-0320,2024-01-10 13:03,MAP,Engrais,2568.7,546.96,1404968.9,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-01-15,Livrée,0,F004
+CMD-0321,2024-11-21 17:36,TSP,Engrais,225.0,503.28,113237.84,C003,Fertil India Ltd,Inde,B,Laayoune,2024-11-30,Livrée,0,F003
+CMD-0322,2024-02-10 21:52,Acide phosphorique,Chimique,1895.4,850.28,1611616.1,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2024-02-19,En attente,0,F001
+CMD-0323,2024-08-29 07:49,Urée,Engrais,4336.9,396.63,1720146.69,C002,AgriMaroc Sud,Maroc,A,Safi,2024-09-05,En cours,0,F001
+CMD-0324,2024-07-07 10:05,Sulfate d'ammonium,Engrais,2840.8,203.41,577850.97,C004,Bunge Brasil,Brésil,B,Benguerir,2024-07-20,En cours,0,F004
+CMD-0325,2024-06-29 23:23,Phosphate brut,Minerai,81.6,118.27,9651.05,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-07-12,En cours,0,F001
+CMD-0326,2024-08-26 20:24,Sulfate d'ammonium,Engrais,3303.7,221.73,732518.17,C001,OCP Export EU,France,A,Laayoune,2024-08-31,Livrée,0,F002
+CMD-0327,2024-08-05 08:19,Urée,Engrais,4864.2,358.26,1742630.33,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-08-07,Retardée,0,F005
+CMD-0328,2024-03-15 05:41,Urée,Engrais,4874.0,354.76,1729110.31,C006,Yara West Africa,Sénégal,B,Safi,2024-03-26,En cours,0,F004
+CMD-0329,2024-08-14 13:14,MAP,Engrais,3329.1,555.14,1848112.79,C001,OCP Export EU,France,A,Safi,2024-08-25,Retardée,3,F004
+CMD-0330,2024-06-06 10:50,Sulfate d'ammonium,Engrais,1396.2,195.71,273249.6,C006,Yara West Africa,Sénégal,B,Safi,2024-06-18,Livrée,0,F001
+CMD-0331,2024-10-05 06:57,TSP,Engrais,1604.5,450.87,723425.06,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-10-21,Livrée,0,F004
+CMD-0332,2024-02-01 07:48,Acide phosphorique,Chimique,830.2,875.3,726676.93,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-02-13,Livrée,0,F002
+CMD-0333,2024-05-15 01:07,Sulfate d'ammonium,Engrais,292.3,203.24,59407.36,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2024-05-22,En attente,0,F005
+CMD-0334,2024-04-04 08:03,Phosphate brut,Minerai,554.4,125.64,69655.45,C002,AgriMaroc Sud,Maroc,A,Safi,2024-04-04,En attente,0,F002
+CMD-0335,2024-03-06 06:36,TSP,Engrais,2032.9,494.31,1004876.11,C004,Bunge Brasil,Brésil,B,Laayoune,2024-03-25,Livrée,0,F001
+CMD-0336,2024-04-10 00:50,DAP,Engrais,4517.4,614.39,2775438.1,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2024-04-18,Livrée,0,F004
+CMD-0337,2025-01-20 08:27,DAP,Engrais,2194.1,642.26,1409190.43,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2025-01-28,En cours,0,F002
+CMD-0338,2024-04-25 10:41,Sulfate d'ammonium,Engrais,1411.2,208.19,293792.06,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-05-05,En cours,0,F002
+CMD-0339,2024-03-09 03:14,Acide phosphorique,Chimique,4419.8,847.15,3744225.64,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-03-23,Livrée,0,F002
+CMD-0340,2025-02-26 22:32,Phosphate brut,Minerai,3920.5,117.29,459854.86,C001,OCP Export EU,France,A,Safi,2025-03-17,Livrée,0,F005
+CMD-0341,2024-06-19 02:49,Sulfate d'ammonium,Engrais,940.1,203.91,191699.82,C007,OCP Kenya,Kenya,A,Benguerir,2024-06-24,Livrée,0,F004
+CMD-0342,2024-07-26 00:25,Sulfate d'ammonium,Engrais,545.7,215.27,117473.19,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-08-04,En attente,0,F002
+CMD-0343,2024-07-02 17:37,Urée,Engrais,4958.1,360.16,1785717.68,C006,Yara West Africa,Sénégal,B,Laayoune,2024-07-17,En attente,0,F003
+CMD-0344,2024-05-26 04:55,DAP,Engrais,2839.9,626.26,1778516.92,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2024-06-17,Livrée,0,F002
+CMD-0345,2024-01-16 11:29,NPS,Engrais,328.0,518.3,170000.98,C001,OCP Export EU,France,A,Khouribga,2024-02-02,Livrée,0,F005
+CMD-0346,2024-09-08 08:07,Phosphate brut,Minerai,3598.8,128.04,460792.48,C003,Fertil India Ltd,Inde,B,Benguerir,2024-09-08,Livrée,0,F002
+CMD-0347,2024-11-03 06:26,MAP,Engrais,1899.3,631.72,1199821.15,C006,Yara West Africa,Sénégal,B,Khouribga,2024-11-15,Livrée,0,F003
+CMD-0348,2025-01-13 10:03,TSP,Engrais,4746.0,502.41,2384454.5,C003,Fertil India Ltd,Inde,B,Casablanca Port,2025-01-29,Livrée,0,F005
+CMD-0349,2024-08-26 07:35,Sulfate d'ammonium,Engrais,2965.3,199.09,590366.96,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-09-11,Livrée,0,F001
+CMD-0350,2024-06-20 13:47,Urée,Engrais,3031.8,405.6,1229695.42,C001,OCP Export EU,France,A,Youssoufia,2024-07-10,Livrée,0,F004
+CMD-0351,2024-09-05 04:15,TSP,Engrais,435.1,468.24,203729.06,C006,Yara West Africa,Sénégal,B,Casablanca Port,2024-09-18,Retardée,8,F001
+CMD-0352,2024-02-22 15:47,Sulfate d'ammonium,Engrais,1362.8,201.58,274719.46,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-03-03,En attente,0,F001
+CMD-0353,2024-11-17 13:52,DAP,Engrais,3676.3,666.53,2450382.26,C007,OCP Kenya,Kenya,A,Safi,2024-12-02,Livrée,0,F004
+CMD-0354,2024-06-24 05:10,MAP,Engrais,4327.1,604.25,2614656.78,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-07-05,Livrée,0,F001
+CMD-0355,2024-09-22 11:46,Acide phosphorique,Chimique,1342.6,796.24,1069035.32,C001,OCP Export EU,France,A,Benguerir,2024-10-04,Livrée,0,F001
+CMD-0356,2024-01-25 01:45,MAP,Engrais,4927.1,627.12,3089885.67,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2024-02-12,Livrée,0,F004
+CMD-0357,2024-11-13 21:31,TSP,Engrais,1688.9,516.43,872205.04,C001,OCP Export EU,France,A,Khouribga,2024-12-03,En cours,0,F005
+CMD-0358,2025-03-20 02:33,Acide phosphorique,Chimique,1225.9,788.75,966929.14,C005,Amajour Agri,Maroc,A,Benguerir,2025-04-08,Livrée,0,F003
+CMD-0359,2025-01-08 01:58,DAP,Engrais,1508.0,636.07,959197.19,C007,OCP Kenya,Kenya,A,Khouribga,2025-01-14,Livrée,0,F002
+CMD-0360,2024-11-04 17:19,Acide phosphorique,Chimique,4226.7,823.94,3482530.56,C002,AgriMaroc Sud,Maroc,A,Safi,2024-11-22,Retardée,5,F003
+CMD-0361,2024-05-24 22:09,MAP,Engrais,1886.6,578.81,1091979.98,C007,OCP Kenya,Kenya,A,Youssoufia,2024-06-02,Livrée,0,F004
+CMD-0362,2024-03-16 02:40,Acide phosphorique,Chimique,1379.4,790.38,1090254.25,C004,Bunge Brasil,Brésil,B,Laayoune,2024-03-31,Livrée,0,F005
+CMD-0363,2025-02-09 21:38,Urée,Engrais,351.9,373.14,131306.58,C004,Bunge Brasil,Brésil,B,Jorf Lasfar,2025-02-24,En cours,0,F004
+CMD-0364,2024-01-27 23:23,Phosphate brut,Minerai,440.8,127.73,56304.85,C008,Pakistan Fertilizer,Pakistan,C,Benguerir,2024-02-13,Retardée,7,F005
+CMD-0365,2024-05-09 20:10,TSP,Engrais,2272.7,514.49,1169276.7,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-05-16,Livrée,0,F004
+CMD-0366,2024-07-19 07:21,MAP,Engrais,4986.5,602.01,3001923.64,C007,OCP Kenya,Kenya,A,Youssoufia,2024-07-27,Livrée,0,F005
+CMD-0367,2024-01-10 14:28,Urée,Engrais,1417.2,377.46,534930.58,C006,Yara West Africa,Sénégal,B,Laayoune,2024-02-01,En cours,0,F004
+CMD-0368,2024-03-18 19:56,MAP,Engrais,783.6,598.3,468828.65,C007,OCP Kenya,Kenya,A,Youssoufia,2024-04-04,En cours,0,F001
+CMD-0369,2025-03-20 07:17,Acide phosphorique,Chimique,1357.5,871.05,1182451.9,C006,Yara West Africa,Sénégal,B,Safi,2025-04-09,Livrée,0,F003
+CMD-0370,2024-01-31 02:57,Urée,Engrais,3062.8,391.77,1199927.26,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-02-12,En cours,0,F001
+CMD-0371,2024-08-23 09:21,NPS,Engrais,150.2,535.9,80491.98,C005,Amajour Agri,Maroc,A,Benguerir,2024-09-02,En attente,0,F001
+CMD-0372,2024-09-06 05:25,Phosphate brut,Minerai,4872.4,118.91,579365.99,C003,Fertil India Ltd,Inde,B,Benguerir,2024-09-16,En cours,0,F001
+CMD-0373,2025-01-11 06:59,Phosphate brut,Minerai,4571.5,118.22,540432.08,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2025-01-31,En attente,0,F001
+CMD-0374,2025-02-11 05:24,TSP,Engrais,3562.4,472.58,1683518.92,C002,AgriMaroc Sud,Maroc,A,Benguerir,2025-03-07,Livrée,0,F002
+CMD-0375,2024-10-06 21:52,Phosphate brut,Minerai,213.7,111.37,23799.93,C001,OCP Export EU,France,A,Youssoufia,2024-10-20,Livrée,0,F004
+CMD-0376,2024-12-12 11:58,Urée,Engrais,201.3,372.25,74933.12,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-12-22,En cours,0,F003
+CMD-0377,2024-03-11 05:01,Sulfate d'ammonium,Engrais,4477.7,218.37,977773.38,C003,Fertil India Ltd,Inde,B,Laayoune,2024-03-16,Livrée,0,F002
+CMD-0378,2024-11-14 01:46,Phosphate brut,Minerai,1164.3,114.37,133160.1,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-11-22,En attente,0,F001
+CMD-0379,2024-06-22 19:22,NPS,Engrais,907.3,534.55,484997.73,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-07-07,En attente,0,F003
+CMD-0380,2024-06-18 11:42,Acide phosphorique,Chimique,4265.4,844.42,3601804.98,C007,OCP Kenya,Kenya,A,Safi,2024-07-03,En cours,0,F005
+CMD-0381,2024-10-17 16:08,Urée,Engrais,2582.0,389.87,1006647.47,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-11-05,En cours,0,F003
+CMD-0382,2024-09-09 12:59,Acide phosphorique,Chimique,366.0,916.42,335408.66,C002,AgriMaroc Sud,Maroc,A,Safi,2024-09-30,Livrée,0,F003
+CMD-0383,2024-11-09 20:56,Phosphate brut,Minerai,3839.1,127.67,490153.22,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-11-24,En cours,0,F001
+CMD-0384,2024-01-28 10:23,NPS,Engrais,4539.2,502.22,2279655.55,C005,Amajour Agri,Maroc,A,Benguerir,2024-02-17,En attente,0,F003
+CMD-0385,2024-05-12 00:46,Phosphate brut,Minerai,1824.6,116.16,211952.36,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-06-04,Retardée,8,F002
+CMD-0386,2025-03-10 05:06,Acide phosphorique,Chimique,683.3,817.18,558376.81,C002,AgriMaroc Sud,Maroc,A,Safi,2025-03-28,Retardée,0,F003
+CMD-0387,2024-11-22 14:10,MAP,Engrais,1155.5,625.06,722260.53,C004,Bunge Brasil,Brésil,B,Benguerir,2024-12-11,Livrée,0,F005
+CMD-0388,2025-03-29 06:37,Acide phosphorique,Chimique,633.0,789.3,499626.94,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2025-04-20,Livrée,0,F002
+CMD-0389,2024-04-27 02:42,MAP,Engrais,1526.9,547.9,836593.78,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2024-05-04,Livrée,0,F005
+CMD-0390,2024-03-03 18:26,NPS,Engrais,4318.9,483.92,2089989.62,C003,Fertil India Ltd,Inde,B,Benguerir,2024-03-17,En cours,0,F002
+CMD-0391,2024-05-10 23:02,Sulfate d'ammonium,Engrais,2287.7,200.24,458078.18,C001,OCP Export EU,France,A,Khouribga,2024-05-22,Livrée,0,F001
+CMD-0392,2025-01-05 19:23,TSP,Engrais,2175.6,474.55,1032429.14,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-01-12,Livrée,0,F002
+CMD-0393,2024-01-14 21:58,Sulfate d'ammonium,Engrais,3796.4,211.04,801202.64,C001,OCP Export EU,France,A,Benguerir,2024-01-25,En cours,0,F002
+CMD-0394,2024-08-25 18:23,Phosphate brut,Minerai,688.2,117.76,81045.3,C006,Yara West Africa,Sénégal,B,Benguerir,2024-08-28,En attente,0,F003
+CMD-0395,2024-12-02 20:06,Acide phosphorique,Chimique,2625.4,853.28,2240201.31,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-12-30,Annulée,0,F003
+CMD-0396,2024-11-09 07:45,NPS,Engrais,982.7,546.56,537108.13,C006,Yara West Africa,Sénégal,B,Laayoune,2024-11-14,Livrée,0,F002
+CMD-0397,2024-01-30 00:30,Phosphate brut,Minerai,2547.9,112.76,287313.2,C001,OCP Export EU,France,A,Jorf Lasfar,2024-02-15,Livrée,0,F005
+CMD-0398,2024-02-07 11:09,DAP,Engrais,585.2,653.34,382336.39,C001,OCP Export EU,France,A,Casablanca Port,2024-02-21,Livrée,0,F004
+CMD-0399,2024-01-08 05:26,MAP,Engrais,3524.2,562.2,1981300.73,C005,Amajour Agri,Maroc,A,Safi,2024-01-20,En cours,0,F005
+CMD-0400,2024-04-01 10:43,Acide phosphorique,Chimique,4161.7,796.27,3313829.93,C003,Fertil India Ltd,Inde,B,Safi,2024-04-10,En attente,0,F004
+CMD-0401,2024-06-05 15:27,Phosphate brut,Minerai,1351.8,120.44,162816.75,C004,Bunge Brasil,Brésil,B,Laayoune,2024-06-16,Livrée,0,F001
+CMD-0402,2024-01-03 03:02,NPS,Engrais,4669.0,496.18,2316651.6,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-01-15,Livrée,0,F001
+CMD-0403,2024-03-19 16:11,NPS,Engrais,3908.7,475.32,1857898.66,C003,Fertil India Ltd,Inde,B,Khouribga,2024-04-08,En cours,0,F004
+CMD-0404,2024-01-31 15:17,Acide phosphorique,Chimique,297.9,892.59,265903.24,C005,Amajour Agri,Maroc,A,Safi,2024-02-21,Livrée,0,F003
+CMD-0405,2024-01-08 12:18,Urée,Engrais,4263.7,403.73,1721382.55,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-01-24,En cours,0,F002
+CMD-0406,2024-03-13 04:44,Sulfate d'ammonium,Engrais,4777.7,202.22,966123.54,C006,Yara West Africa,Sénégal,B,Safi,2024-03-24,Livrée,0,F004
+CMD-0407,2025-01-06 11:07,Urée,Engrais,4186.8,391.55,1639325.08,C008,Pakistan Fertilizer,Pakistan,C,Benguerir,2025-01-25,En cours,0,F002
+CMD-0408,2024-05-03 19:20,MAP,Engrais,3645.7,635.46,2316696.99,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-05-12,Retardée,4,F004
+CMD-0409,2024-01-23 09:10,NPS,Engrais,1929.8,498.46,961931.33,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-02-17,Retardée,8,F002
+CMD-0410,2024-02-19 04:40,NPS,Engrais,4443.6,505.16,2244729.56,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-03-06,Livrée,0,F005
+CMD-0411,2024-03-14 23:26,Phosphate brut,Minerai,2639.4,123.85,326892.7,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2024-03-30,En cours,0,F004
+CMD-0412,2024-02-12 09:11,Sulfate d'ammonium,Engrais,4203.2,211.96,890911.81,C007,OCP Kenya,Kenya,A,Youssoufia,2024-02-23,Retardée,8,F005
+CMD-0413,2024-09-06 01:02,NPS,Engrais,868.7,530.52,460859.85,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-09-16,Annulée,0,F001
+CMD-0414,2024-12-11 00:16,Phosphate brut,Minerai,4094.7,111.91,458252.4,C007,OCP Kenya,Kenya,A,Safi,2025-01-01,Livrée,0,F004
+CMD-0415,2024-01-14 19:14,NPS,Engrais,4904.3,530.01,2599335.4,C006,Yara West Africa,Sénégal,B,Khouribga,2024-01-23,Livrée,0,F005
+CMD-0416,2024-08-24 14:07,DAP,Engrais,3040.8,631.81,1921211.99,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-09-17,En cours,0,F004
+CMD-0417,2024-12-18 23:44,Sulfate d'ammonium,Engrais,318.7,200.69,63959.92,C006,Yara West Africa,Sénégal,B,Laayoune,2025-01-01,En attente,0,F005
+CMD-0418,2024-06-21 05:39,NPS,Engrais,2290.0,477.15,1092675.47,C006,Yara West Africa,Sénégal,B,Casablanca Port,2024-06-28,Livrée,0,F003
+CMD-0419,2024-11-13 20:14,Sulfate d'ammonium,Engrais,4489.5,209.75,941651.9,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-11-19,En cours,0,F002
+CMD-0420,2024-09-19 11:32,MAP,Engrais,2312.4,616.57,1425747.42,C007,OCP Kenya,Kenya,A,Youssoufia,2024-09-28,Livrée,0,F005
+CMD-0421,2024-04-14 13:47,MAP,Engrais,3309.4,633.06,2095063.21,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-04-23,Livrée,0,F001
+CMD-0422,2025-03-25 09:02,Urée,Engrais,3916.4,404.94,1585903.23,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2025-03-30,Livrée,0,F005
+CMD-0423,2024-07-11 19:30,Sulfate d'ammonium,Engrais,4898.5,223.97,1097139.5,C007,OCP Kenya,Kenya,A,Safi,2024-07-22,Retardée,4,F003
+CMD-0424,2025-02-01 21:51,NPS,Engrais,2093.1,526.32,1101642.83,C003,Fertil India Ltd,Inde,B,Youssoufia,2025-02-15,En attente,0,F005
+CMD-0425,2024-09-25 04:44,Phosphate brut,Minerai,3139.6,115.98,364128.06,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-10-19,Livrée,0,F002
+CMD-0426,2025-03-19 05:28,Sulfate d'ammonium,Engrais,1793.6,209.34,375472.99,C002,AgriMaroc Sud,Maroc,A,Laayoune,2025-04-05,En cours,0,F005
+CMD-0427,2024-10-22 19:56,Acide phosphorique,Chimique,113.2,796.48,90161.53,C007,OCP Kenya,Kenya,A,Laayoune,2024-10-28,En cours,0,F002
+CMD-0428,2024-02-18 04:22,Acide phosphorique,Chimique,3432.8,801.91,2752811.28,C003,Fertil India Ltd,Inde,B,Benguerir,2024-03-08,Livrée,0,F005
+CMD-0429,2025-03-12 10:17,DAP,Engrais,2290.3,631.52,1446365.67,C006,Yara West Africa,Sénégal,B,Laayoune,2025-03-30,En cours,0,F005
+CMD-0430,2024-08-11 09:58,Urée,Engrais,3932.3,398.17,1565717.45,C004,Bunge Brasil,Brésil,B,Jorf Lasfar,2024-09-02,Livrée,0,F004
+CMD-0431,2025-03-04 20:20,Urée,Engrais,4880.3,368.61,1798924.27,C007,OCP Kenya,Kenya,A,Laayoune,2025-03-05,En cours,0,F002
+CMD-0432,2025-02-28 13:38,NPS,Engrais,3537.9,522.05,1846949.38,C004,Bunge Brasil,Brésil,B,Casablanca Port,2025-03-22,Livrée,0,F002
+CMD-0433,2024-05-14 23:46,Acide phosphorique,Chimique,4918.1,792.13,3895763.65,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-06-06,Livrée,0,F001
+CMD-0434,2024-07-17 01:50,Urée,Engrais,1358.0,359.38,488044.12,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2024-07-23,Livrée,0,F002
+CMD-0435,2024-08-21 21:55,DAP,Engrais,3004.6,647.15,1944418.38,C003,Fertil India Ltd,Inde,B,Benguerir,2024-09-08,En cours,0,F001
+CMD-0436,2024-05-03 18:52,Sulfate d'ammonium,Engrais,2627.0,219.62,576937.21,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-05-18,Livrée,0,F001
+CMD-0437,2024-08-16 00:37,Sulfate d'ammonium,Engrais,3333.5,204.32,681113.51,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-08-29,Livrée,0,F005
+CMD-0438,2024-07-08 09:16,DAP,Engrais,1762.7,594.24,1047471.27,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-07-20,Retardée,8,F004
+CMD-0439,2025-02-05 11:06,MAP,Engrais,2724.2,569.5,1551429.33,C007,OCP Kenya,Kenya,A,Benguerir,2025-02-25,Livrée,0,F005
+CMD-0440,2024-09-05 19:03,NPS,Engrais,1517.3,522.36,792583.96,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-09-16,Retardée,0,F002
+CMD-0441,2024-11-25 11:50,DAP,Engrais,3368.2,647.14,2179694.8,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2024-12-11,Livrée,0,F004
+CMD-0442,2024-03-08 23:30,MAP,Engrais,2323.2,574.11,1333781.49,C003,Fertil India Ltd,Inde,B,Khouribga,2024-03-11,Livrée,0,F003
+CMD-0443,2024-11-10 03:27,MAP,Engrais,2067.8,585.39,1210461.71,C004,Bunge Brasil,Brésil,B,Benguerir,2024-11-23,Livrée,0,F001
+CMD-0444,2024-02-26 09:09,DAP,Engrais,3742.5,574.92,2151620.41,C002,AgriMaroc Sud,Maroc,A,Laayoune,2024-03-12,Livrée,0,F003
+CMD-0445,2024-01-24 22:30,MAP,Engrais,4637.1,578.81,2683978.71,C005,Amajour Agri,Maroc,A,Laayoune,2024-02-04,Livrée,0,F002
+CMD-0446,2024-10-16 19:39,Urée,Engrais,763.2,390.78,298242.67,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-10-25,Retardée,6,F002
+CMD-0447,2025-03-01 06:36,MAP,Engrais,2885.0,580.0,1673303.79,C001,OCP Export EU,France,A,Khouribga,2025-03-08,Livrée,0,F003
+CMD-0448,2024-05-22 21:52,Phosphate brut,Minerai,4264.7,113.14,482487.42,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-06-03,En attente,0,F002
+CMD-0449,2025-03-02 07:19,MAP,Engrais,4008.3,623.25,2498183.02,C003,Fertil India Ltd,Inde,B,Casablanca Port,2025-03-21,Livrée,0,F003
+CMD-0450,2024-09-13 23:30,MAP,Engrais,1027.2,597.61,613863.17,C005,Amajour Agri,Maroc,A,Khouribga,2024-09-22,En cours,0,F002
+CMD-0451,2025-01-12 09:06,MAP,Engrais,395.6,561.07,221957.81,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2025-01-26,En cours,0,F003
+CMD-0452,2024-01-04 18:04,TSP,Engrais,1615.8,474.49,766687.42,C006,Yara West Africa,Sénégal,B,Laayoune,2024-01-13,En attente,0,F004
+CMD-0453,2025-01-07 18:59,Acide phosphorique,Chimique,3413.9,827.09,2823611.29,C006,Yara West Africa,Sénégal,B,Youssoufia,2025-01-25,Livrée,0,F003
+CMD-0454,2024-08-05 23:03,NPS,Engrais,3245.5,475.89,1544497.92,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2024-08-22,Retardée,0,F002
+CMD-0455,2025-01-28 22:29,Acide phosphorique,Chimique,423.2,784.53,332014.67,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2025-02-11,En attente,0,F005
+CMD-0456,2025-02-23 04:18,Urée,Engrais,2780.4,382.64,1063900.42,C004,Bunge Brasil,Brésil,B,Khouribga,2025-03-13,En attente,0,F003
+CMD-0457,2024-04-13 23:43,Urée,Engrais,2968.5,401.72,1192492.7,C004,Bunge Brasil,Brésil,B,Laayoune,2024-04-29,Livrée,0,F004
+CMD-0458,2024-05-08 19:32,Sulfate d'ammonium,Engrais,1232.5,225.59,278040.18,C001,OCP Export EU,France,A,Casablanca Port,2024-05-29,Livrée,0,F002
+CMD-0459,2024-02-01 09:28,TSP,Engrais,3673.4,513.73,1887130.86,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-02-12,Livrée,0,F003
+CMD-0460,2024-10-07 14:12,Sulfate d'ammonium,Engrais,3359.5,210.6,707513.87,C004,Bunge Brasil,Brésil,B,Khouribga,2024-10-21,Retardée,5,F001
+CMD-0461,2024-07-31 10:19,DAP,Engrais,3533.5,622.12,2198261.7,C006,Yara West Africa,Sénégal,B,Khouribga,2024-08-19,En cours,0,F005
+CMD-0462,2024-03-01 10:59,TSP,Engrais,1923.7,486.73,936329.68,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-03-14,Livrée,0,F002
+CMD-0463,2025-01-09 11:11,Urée,Engrais,4345.2,379.2,1647704.98,C006,Yara West Africa,Sénégal,B,Laayoune,2025-02-02,Livrée,0,F002
+CMD-0464,2024-06-13 06:57,NPS,Engrais,431.6,521.71,225169.05,C003,Fertil India Ltd,Inde,B,Youssoufia,2024-06-19,Livrée,0,F005
+CMD-0465,2025-01-09 00:07,MAP,Engrais,4065.3,610.79,2483053.26,C004,Bunge Brasil,Brésil,B,Safi,2025-01-28,Livrée,0,F005
+CMD-0466,2024-05-05 03:39,TSP,Engrais,1256.2,451.42,567075.78,C007,OCP Kenya,Kenya,A,Khouribga,2024-05-18,Livrée,0,F005
+CMD-0467,2024-11-10 22:15,TSP,Engrais,1328.4,455.43,604989.07,C001,OCP Export EU,France,A,Youssoufia,2024-11-29,En cours,0,F003
+CMD-0468,2025-01-09 02:56,MAP,Engrais,3052.3,587.3,1792620.16,C004,Bunge Brasil,Brésil,B,Safi,2025-01-16,En attente,0,F005
+CMD-0469,2024-09-23 03:51,TSP,Engrais,3315.3,461.92,1531387.43,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-10-15,En cours,0,F001
+CMD-0470,2025-02-10 00:02,Phosphate brut,Minerai,704.5,110.72,78000.83,C007,OCP Kenya,Kenya,A,Safi,2025-03-03,En cours,0,F002
+CMD-0471,2025-02-16 18:34,MAP,Engrais,4513.0,599.42,2705193.39,C003,Fertil India Ltd,Inde,B,Safi,2025-02-27,Livrée,0,F002
+CMD-0472,2025-02-15 12:29,DAP,Engrais,2132.4,657.18,1401376.11,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2025-02-26,Retardée,1,F004
+CMD-0473,2025-03-23 11:40,Urée,Engrais,4032.9,404.8,1632509.13,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2025-03-31,Livrée,0,F004
+CMD-0474,2024-07-19 05:49,Phosphate brut,Minerai,3011.5,120.84,363908.56,C002,AgriMaroc Sud,Maroc,A,Benguerir,2024-07-22,En cours,0,F001
+CMD-0475,2024-09-02 08:50,MAP,Engrais,3290.0,607.73,1999415.84,C001,OCP Export EU,France,A,Safi,2024-09-15,Livrée,0,F004
+CMD-0476,2024-08-02 00:49,Acide phosphorique,Chimique,2703.7,858.8,2321924.45,C005,Amajour Agri,Maroc,A,Laayoune,2024-08-22,En attente,0,F004
+CMD-0477,2024-08-26 04:25,NPS,Engrais,2817.5,508.67,1433191.33,C003,Fertil India Ltd,Inde,B,Benguerir,2024-09-11,En attente,0,F004
+CMD-0478,2024-05-05 16:04,TSP,Engrais,1187.4,501.74,595769.39,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-05-10,Livrée,0,F003
+CMD-0479,2024-03-11 18:00,DAP,Engrais,4824.6,570.92,2754483.94,C003,Fertil India Ltd,Inde,B,Safi,2024-03-28,Livrée,0,F005
+CMD-0480,2024-01-30 07:48,Urée,Engrais,1352.3,372.15,503254.08,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-02-17,Retardée,4,F004
+CMD-0481,2024-12-06 23:01,Acide phosphorique,Chimique,4110.1,869.08,3572004.14,C001,OCP Export EU,France,A,Laayoune,2024-12-13,En attente,0,F005
+CMD-0482,2024-06-28 22:39,Acide phosphorique,Chimique,3930.6,851.43,3346648.48,C004,Bunge Brasil,Brésil,B,Khouribga,2024-07-13,En cours,0,F003
+CMD-0483,2024-11-06 05:59,Phosphate brut,Minerai,479.9,115.7,55523.46,C001,OCP Export EU,France,A,Youssoufia,2024-11-21,Livrée,0,F005
+CMD-0484,2025-03-02 21:08,Phosphate brut,Minerai,3532.9,128.05,452381.51,C001,OCP Export EU,France,A,Casablanca Port,2025-03-14,Retardée,6,F003
+CMD-0485,2024-11-09 18:17,Sulfate d'ammonium,Engrais,3051.5,199.74,609494.55,C005,Amajour Agri,Maroc,A,Youssoufia,2024-11-19,Livrée,0,F004
+CMD-0486,2025-02-02 16:21,MAP,Engrais,1506.5,632.2,952406.68,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2025-02-16,En attente,0,F005
+CMD-0487,2024-09-20 19:44,Acide phosphorique,Chimique,2837.7,886.72,2516232.68,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-10-13,En cours,0,F005
+CMD-0488,2024-06-20 04:13,DAP,Engrais,1326.2,608.36,806808.6,C008,Pakistan Fertilizer,Pakistan,C,Khouribga,2024-07-05,En attente,0,F004
+CMD-0489,2024-03-13 05:49,Sulfate d'ammonium,Engrais,4169.3,201.54,840286.79,C001,OCP Export EU,France,A,Casablanca Port,2024-03-30,En cours,0,F003
+CMD-0490,2025-03-21 14:46,MAP,Engrais,1603.7,563.43,903576.93,C003,Fertil India Ltd,Inde,B,Safi,2025-03-29,Retardée,0,F002
+CMD-0491,2024-06-09 14:37,NPS,Engrais,3690.4,540.42,1994350.42,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-06-17,En attente,0,F005
+CMD-0492,2025-01-17 15:56,Sulfate d'ammonium,Engrais,578.1,224.12,129562.8,C003,Fertil India Ltd,Inde,B,Laayoune,2025-01-27,En attente,0,F005
+CMD-0493,2025-03-22 05:49,DAP,Engrais,3122.3,619.24,1933453.57,C008,Pakistan Fertilizer,Pakistan,C,Benguerir,2025-04-10,Livrée,0,F005
+CMD-0494,2025-02-12 08:25,Acide phosphorique,Chimique,3763.3,799.44,3008538.01,C007,OCP Kenya,Kenya,A,Youssoufia,2025-03-06,Livrée,0,F005
+CMD-0495,2024-12-21 02:45,DAP,Engrais,4309.0,647.37,2789515.92,C006,Yara West Africa,Sénégal,B,Safi,2025-01-01,Livrée,0,F001
+CMD-0496,2024-07-20 17:10,DAP,Engrais,2926.0,602.68,1763451.25,C004,Bunge Brasil,Brésil,B,Safi,2024-08-01,Livrée,0,F003
+CMD-0497,2024-11-21 12:27,NPS,Engrais,960.4,503.79,483843.51,C006,Yara West Africa,Sénégal,B,Benguerir,2024-12-09,Livrée,0,F004
+CMD-0498,2024-06-26 12:47,Acide phosphorique,Chimique,2878.5,915.18,2634348.66,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-07-14,En cours,0,F002
+CMD-0499,2024-04-26 03:46,Urée,Engrais,771.9,407.92,314870.51,C007,OCP Kenya,Kenya,A,Youssoufia,2024-05-04,Livrée,0,F004
+CMD-0500,2025-03-17 01:12,TSP,Engrais,2458.8,460.87,1133198.97,C006,Yara West Africa,Sénégal,B,Laayoune,2025-03-24,Livrée,0,F002
+CMD-0501,2024-03-15 19:11,DAP,Engrais,1308.7,653.63,855400.34,C004,Bunge Brasil,Brésil,B,Laayoune,2024-03-29,Livrée,0,F003
+CMD-0502,2024-06-03 12:50,Acide phosphorique,Chimique,2088.2,829.75,1732680.41,C006,Yara West Africa,Sénégal,B,Khouribga,2024-06-25,En cours,0,F005
+CMD-0503,2024-12-13 03:22,TSP,Engrais,1659.2,480.8,797746.91,C005,Amajour Agri,Maroc,A,Benguerir,2024-12-29,Livrée,0,F003
+CMD-0504,2024-09-19 01:22,NPS,Engrais,879.5,535.11,470629.0,C003,Fertil India Ltd,Inde,B,Laayoune,2024-10-07,En cours,0,F004
+CMD-0505,2024-08-14 07:16,MAP,Engrais,1750.9,572.39,1002202.39,C002,AgriMaroc Sud,Maroc,A,Youssoufia,2024-08-31,En cours,0,F004
+CMD-0506,2025-02-08 14:56,Acide phosphorique,Chimique,4320.9,831.39,3592354.86,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2025-02-25,Livrée,0,F001
+CMD-0507,2024-03-03 04:30,TSP,Engrais,1295.7,498.73,646203.98,C004,Bunge Brasil,Brésil,B,Casablanca Port,2024-03-09,Livrée,0,F001
+CMD-0508,2025-02-10 23:44,MAP,Engrais,316.4,615.58,194768.29,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2025-02-25,Livrée,0,F005
+CMD-0509,2024-06-27 03:30,TSP,Engrais,4661.4,471.54,2198037.44,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-07-05,Livrée,0,F002
+CMD-0510,2024-09-09 14:11,TSP,Engrais,224.0,469.01,105057.21,C003,Fertil India Ltd,Inde,B,Khouribga,2024-09-30,Livrée,0,F005
+CMD-0511,2024-05-17 12:12,Acide phosphorique,Chimique,4849.2,876.88,4252150.55,C008,Pakistan Fertilizer,Pakistan,C,Youssoufia,2024-06-08,Livrée,0,F005
+CMD-0512,2024-03-10 13:24,Urée,Engrais,2434.2,363.41,884611.18,C005,Amajour Agri,Maroc,A,Benguerir,2024-03-22,Livrée,0,F003
+CMD-0513,2024-04-15 20:49,TSP,Engrais,50.5,504.22,25463.17,C005,Amajour Agri,Maroc,A,Khouribga,2024-04-25,Livrée,0,F001
+CMD-0514,2024-08-15 12:28,NPS,Engrais,95.2,504.32,48011.6,C008,Pakistan Fertilizer,Pakistan,C,Benguerir,2024-08-29,En attente,0,F005
+CMD-0515,2024-07-13 02:24,Sulfate d'ammonium,Engrais,4416.7,207.89,918173.51,C004,Bunge Brasil,Brésil,B,Safi,2024-07-26,Livrée,0,F004
+CMD-0516,2024-07-30 03:55,Phosphate brut,Minerai,2140.1,115.0,246110.62,C005,Amajour Agri,Maroc,A,Khouribga,2024-08-13,En cours,0,F003
+CMD-0517,2024-03-26 17:11,Urée,Engrais,388.9,357.91,139189.93,C004,Bunge Brasil,Brésil,B,Laayoune,2024-04-13,En cours,0,F003
+CMD-0518,2025-02-19 12:34,NPS,Engrais,146.0,473.25,69094.5,C004,Bunge Brasil,Brésil,B,Benguerir,2025-02-23,Annulée,0,F003
+CMD-0519,2024-03-11 01:23,Acide phosphorique,Chimique,2220.2,783.12,1738673.6,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-03-17,Livrée,0,F003
+CMD-0520,2024-12-26 03:42,Urée,Engrais,4007.3,410.28,1644099.73,C005,Amajour Agri,Maroc,A,Laayoune,2025-01-07,Livrée,0,F002
+CMD-0521,2024-05-21 01:20,DAP,Engrais,1992.5,624.28,1243887.15,C005,Amajour Agri,Maroc,A,Laayoune,2024-05-30,En attente,0,F001
+CMD-0522,2024-01-27 00:40,MAP,Engrais,3867.6,584.62,2261058.96,C004,Bunge Brasil,Brésil,B,Safi,2024-02-08,En cours,0,F001
+CMD-0523,2024-09-07 22:20,Phosphate brut,Minerai,3423.1,116.39,398423.17,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-09-19,En cours,0,F005
+CMD-0524,2024-02-10 10:58,MAP,Engrais,3210.7,561.56,1802999.12,C005,Amajour Agri,Maroc,A,Safi,2024-03-06,Livrée,0,F001
+CMD-0525,2025-03-30 03:32,Phosphate brut,Minerai,124.6,125.65,15656.28,C007,OCP Kenya,Kenya,A,Benguerir,2025-04-06,En attente,0,F001
+CMD-0526,2024-03-10 12:01,DAP,Engrais,3001.3,607.24,1822517.66,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-03-17,Livrée,0,F005
+CMD-0527,2025-02-20 14:21,Sulfate d'ammonium,Engrais,1809.8,198.37,359013.03,C001,OCP Export EU,France,A,Khouribga,2025-03-06,Livrée,0,F002
+CMD-0528,2024-01-17 14:02,Sulfate d'ammonium,Engrais,4464.4,217.84,972503.22,C006,Yara West Africa,Sénégal,B,Laayoune,2024-02-04,Livrée,0,F002
+CMD-0529,2025-02-25 13:17,Acide phosphorique,Chimique,3547.8,858.03,3044109.51,C001,OCP Export EU,France,A,Safi,2025-03-19,Livrée,0,F002
+CMD-0530,2025-03-06 17:00,Sulfate d'ammonium,Engrais,2368.6,222.35,526666.35,C006,Yara West Africa,Sénégal,B,Casablanca Port,2025-03-10,Livrée,0,F004
+CMD-0531,2025-01-27 23:44,Acide phosphorique,Chimique,1867.2,782.1,1460333.19,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2025-02-08,Retardée,0,F005
+CMD-0532,2025-02-22 14:52,Sulfate d'ammonium,Engrais,3619.0,215.32,779237.74,C004,Bunge Brasil,Brésil,B,Benguerir,2025-03-14,Livrée,0,F004
+CMD-0533,2024-03-15 18:20,TSP,Engrais,2078.5,466.33,969269.91,C005,Amajour Agri,Maroc,A,Benguerir,2024-04-03,Livrée,0,F002
+CMD-0534,2024-01-25 17:06,TSP,Engrais,579.9,456.32,264617.74,C001,OCP Export EU,France,A,Youssoufia,2024-02-14,En attente,0,F004
+CMD-0535,2024-01-11 03:56,Acide phosphorique,Chimique,1142.6,879.63,1005061.75,C001,OCP Export EU,France,A,Benguerir,2024-02-01,En cours,0,F001
+CMD-0536,2024-11-19 01:55,NPS,Engrais,2812.2,545.76,1534788.24,C001,OCP Export EU,France,A,Benguerir,2024-12-09,En attente,0,F001
+CMD-0537,2024-06-16 16:40,Acide phosphorique,Chimique,398.4,823.33,328015.08,C001,OCP Export EU,France,A,Casablanca Port,2024-06-29,Livrée,0,F002
+CMD-0538,2024-05-18 22:53,Urée,Engrais,2654.7,364.72,968234.91,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-06-04,Livrée,0,F001
+CMD-0539,2024-05-09 13:33,Sulfate d'ammonium,Engrais,3342.9,222.86,745008.35,C008,Pakistan Fertilizer,Pakistan,C,Casablanca Port,2024-05-24,Livrée,0,F005
+CMD-0540,2024-09-30 15:47,Sulfate d'ammonium,Engrais,4992.2,208.09,1038802.98,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-10-20,En cours,0,F003
+CMD-0541,2024-09-08 05:33,Sulfate d'ammonium,Engrais,3184.5,220.96,703643.32,C007,OCP Kenya,Kenya,A,Laayoune,2024-09-21,En cours,0,F002
+CMD-0542,2024-11-04 10:18,Urée,Engrais,4810.2,376.81,1812521.78,C005,Amajour Agri,Maroc,A,Benguerir,2024-11-05,Annulée,0,F005
+CMD-0543,2024-06-15 20:35,DAP,Engrais,82.5,668.05,55114.28,C003,Fertil India Ltd,Inde,B,Benguerir,2024-07-05,Livrée,0,F003
+CMD-0544,2024-07-24 19:44,TSP,Engrais,2328.8,453.59,1056318.12,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-08-08,Livrée,0,F003
+CMD-0545,2024-02-29 23:08,Acide phosphorique,Chimique,2029.0,906.83,1839961.98,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2024-03-20,En attente,0,F002
+CMD-0546,2025-03-23 14:42,NPS,Engrais,3229.2,472.25,1524988.16,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2025-04-01,En attente,0,F003
+CMD-0547,2024-06-25 02:19,Sulfate d'ammonium,Engrais,4654.7,197.25,918140.33,C007,OCP Kenya,Kenya,A,Safi,2024-07-17,En attente,0,F001
+CMD-0548,2025-03-14 18:44,Urée,Engrais,2645.7,369.01,976301.52,C001,OCP Export EU,France,A,Benguerir,2025-03-22,Livrée,0,F002
+CMD-0549,2024-12-12 02:53,TSP,Engrais,3671.3,471.77,1732021.65,C001,OCP Export EU,France,A,Casablanca Port,2025-01-03,En cours,0,F001
+CMD-0550,2024-09-18 02:37,Phosphate brut,Minerai,3942.5,113.24,446455.95,C007,OCP Kenya,Kenya,A,Benguerir,2024-09-26,En cours,0,F001
+CMD-0551,2024-04-11 06:22,Urée,Engrais,2022.7,376.02,760569.71,C005,Amajour Agri,Maroc,A,Khouribga,2024-04-26,Livrée,0,F002
+CMD-0552,2025-02-11 04:41,NPS,Engrais,2878.1,514.99,1482196.39,C007,OCP Kenya,Kenya,A,Casablanca Port,2025-02-19,Livrée,0,F004
+CMD-0553,2024-09-27 12:55,Sulfate d'ammonium,Engrais,3375.2,207.43,700120.99,C002,AgriMaroc Sud,Maroc,A,Khouribga,2024-10-06,Livrée,0,F001
+CMD-0554,2024-12-09 11:23,Acide phosphorique,Chimique,3100.3,916.66,2841926.11,C003,Fertil India Ltd,Inde,B,Benguerir,2024-12-24,Livrée,0,F002
+CMD-0555,2024-03-28 06:45,Phosphate brut,Minerai,3800.8,126.77,481839.09,C006,Yara West Africa,Sénégal,B,Youssoufia,2024-04-08,Livrée,0,F005
+CMD-0556,2024-08-24 23:48,TSP,Engrais,1749.2,503.37,880492.64,C005,Amajour Agri,Maroc,A,Khouribga,2024-09-08,Livrée,0,F002
+CMD-0557,2025-01-10 04:15,Phosphate brut,Minerai,2640.2,115.37,304589.93,C004,Bunge Brasil,Brésil,B,Jorf Lasfar,2025-01-21,En cours,0,F001
+CMD-0558,2024-07-29 17:03,Urée,Engrais,893.1,366.87,327649.83,C001,OCP Export EU,France,A,Benguerir,2024-08-06,En cours,0,F001
+CMD-0559,2024-10-06 18:58,MAP,Engrais,1393.0,623.24,868168.63,C007,OCP Kenya,Kenya,A,Casablanca Port,2024-10-22,Livrée,0,F004
+CMD-0560,2024-09-02 00:31,Phosphate brut,Minerai,4884.2,112.31,548556.18,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2024-09-18,Livrée,0,F002
+CMD-0561,2024-07-11 03:43,Phosphate brut,Minerai,4635.4,110.81,513660.63,C008,Pakistan Fertilizer,Pakistan,C,Jorf Lasfar,2024-08-02,Livrée,0,F004
+CMD-0562,2024-08-22 19:46,Urée,Engrais,1766.6,371.0,655402.09,C003,Fertil India Ltd,Inde,B,Khouribga,2024-09-03,Livrée,0,F001
+CMD-0563,2024-08-05 15:11,Acide phosphorique,Chimique,4952.3,910.4,4508586.75,C007,OCP Kenya,Kenya,A,Laayoune,2024-08-14,Livrée,0,F004
+CMD-0564,2024-06-25 15:33,TSP,Engrais,1941.9,515.37,1000805.78,C002,AgriMaroc Sud,Maroc,A,Casablanca Port,2024-07-05,En cours,0,F004
+CMD-0565,2024-04-17 15:15,Acide phosphorique,Chimique,2734.1,810.12,2214946.33,C006,Yara West Africa,Sénégal,B,Safi,2024-05-08,En cours,0,F002
+CMD-0566,2024-04-15 01:17,TSP,Engrais,3540.4,481.83,1705864.78,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-04-24,En cours,0,F005
+CMD-0567,2024-04-01 22:53,TSP,Engrais,2808.8,514.45,1444994.46,C006,Yara West Africa,Sénégal,B,Khouribga,2024-04-09,En attente,0,F002
+CMD-0568,2024-07-31 15:55,DAP,Engrais,4807.9,600.49,2887106.12,C006,Yara West Africa,Sénégal,B,Safi,2024-08-07,Livrée,0,F002
+CMD-0569,2024-06-29 08:11,DAP,Engrais,2856.9,593.31,1695017.07,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2024-07-14,Livrée,0,F001
+CMD-0570,2024-10-17 11:06,NPS,Engrais,4238.4,507.45,2150780.75,C003,Fertil India Ltd,Inde,B,Jorf Lasfar,2024-10-27,Livrée,0,F002
+CMD-0571,2024-01-12 15:53,TSP,Engrais,209.5,500.32,104816.32,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-01-31,Retardée,2,F002
+CMD-0572,2024-12-07 04:52,Phosphate brut,Minerai,926.5,128.73,119268.55,C004,Bunge Brasil,Brésil,B,Khouribga,2024-12-29,Livrée,0,F003
+CMD-0573,2024-10-22 10:41,NPS,Engrais,2054.1,472.61,970794.41,C004,Bunge Brasil,Brésil,B,Safi,2024-11-09,Livrée,0,F005
+CMD-0574,2024-07-09 20:35,DAP,Engrais,2311.7,657.47,1519883.76,C002,AgriMaroc Sud,Maroc,A,Safi,2024-07-27,Livrée,0,F001
+CMD-0575,2024-08-24 13:18,Urée,Engrais,1491.3,373.8,557449.17,C001,OCP Export EU,France,A,Youssoufia,2024-09-10,Livrée,0,F004
+CMD-0576,2024-12-16 20:15,Acide phosphorique,Chimique,2609.0,801.34,2090708.03,C001,OCP Export EU,France,A,Casablanca Port,2024-12-29,Livrée,0,F005
+CMD-0577,2024-12-18 09:13,TSP,Engrais,1651.1,443.51,732284.73,C007,OCP Kenya,Kenya,A,Safi,2024-12-31,Retardée,1,F001
+CMD-0578,2024-05-07 09:04,Acide phosphorique,Chimique,3260.5,878.76,2865196.61,C006,Yara West Africa,Sénégal,B,Casablanca Port,2024-05-23,Livrée,0,F004
+CMD-0579,2025-02-01 10:09,Sulfate d'ammonium,Engrais,3551.0,217.62,772779.13,C002,AgriMaroc Sud,Maroc,A,Jorf Lasfar,2025-02-13,Livrée,0,F004
+CMD-0580,2024-04-26 13:52,DAP,Engrais,2849.2,635.83,1811593.76,C003,Fertil India Ltd,Inde,B,Benguerir,2024-05-02,Livrée,0,F001
+CMD-0581,2024-08-12 07:15,Urée,Engrais,3664.3,408.03,1495132.38,C005,Amajour Agri,Maroc,A,Benguerir,2024-08-25,Livrée,0,F002
+CMD-0582,2025-01-21 12:27,Phosphate brut,Minerai,3838.7,110.63,424692.23,C001,OCP Export EU,France,A,Jorf Lasfar,2025-02-10,Livrée,0,F001
+CMD-0583,2024-11-14 13:46,NPS,Engrais,2964.9,508.02,1506222.86,C004,Bunge Brasil,Brésil,B,Youssoufia,2024-11-24,En cours,0,F001
+CMD-0584,2024-06-10 06:38,Phosphate brut,Minerai,3161.7,126.15,398836.85,C005,Amajour Agri,Maroc,A,Jorf Lasfar,2024-06-12,Livrée,0,F003
+CMD-0585,2024-08-19 19:21,DAP,Engrais,210.5,627.75,132140.7,C003,Fertil India Ltd,Inde,B,Laayoune,2024-08-27,Livrée,0,F004
+CMD-0586,2025-03-20 12:07,TSP,Engrais,1457.7,492.36,717711.73,C003,Fertil India Ltd,Inde,B,Casablanca Port,2025-04-10,Livrée,0,F004
+CMD-0587,2024-10-21 07:56,Sulfate d'ammonium,Engrais,3854.1,204.05,786416.83,C001,OCP Export EU,France,A,Khouribga,2024-11-05,En attente,0,F005
+CMD-0588,2024-08-01 03:31,MAP,Engrais,716.0,608.37,435594.41,C005,Amajour Agri,Maroc,A,Safi,2024-08-16,Livrée,0,F002
+CMD-0589,2025-02-14 20:16,Phosphate brut,Minerai,2878.3,129.2,371886.49,C001,OCP Export EU,France,A,Khouribga,2025-02-22,En cours,0,F005
+CMD-0590,2025-03-22 17:26,Acide phosphorique,Chimique,4246.6,817.31,3470804.64,C007,OCP Kenya,Kenya,A,Jorf Lasfar,2025-04-09,Retardée,3,F005
+CMD-0591,2024-06-29 18:14,NPS,Engrais,4049.5,541.31,2192022.52,C008,Pakistan Fertilizer,Pakistan,C,Safi,2024-07-16,Annulée,0,F001
+CMD-0592,2024-06-10 00:55,MAP,Engrais,3146.0,553.93,1742670.66,C001,OCP Export EU,France,A,Safi,2024-07-03,Annulée,0,F004
+CMD-0593,2024-01-09 18:35,DAP,Engrais,2824.1,633.64,1789463.72,C006,Yara West Africa,Sénégal,B,Benguerir,2024-01-24,En cours,0,F003
+CMD-0594,2024-01-05 18:17,MAP,Engrais,2558.1,573.38,1466759.31,C005,Amajour Agri,Maroc,A,Benguerir,2024-01-18,Livrée,0,F004
+CMD-0595,2025-01-07 03:13,DAP,Engrais,1686.0,603.92,1018214.74,C003,Fertil India Ltd,Inde,B,Youssoufia,2025-01-30,En attente,0,F002
+CMD-0596,2024-09-17 06:53,NPS,Engrais,2330.1,539.8,1257793.36,C003,Fertil India Ltd,Inde,B,Casablanca Port,2024-10-02,Retardée,4,F001
+CMD-0597,2024-09-14 15:41,Acide phosphorique,Chimique,2702.6,810.32,2189980.82,C006,Yara West Africa,Sénégal,B,Jorf Lasfar,2024-10-05,Livrée,0,F002
+CMD-0598,2024-05-08 21:53,Acide phosphorique,Chimique,4918.9,867.21,4265697.01,C001,OCP Export EU,France,A,Benguerir,2024-05-30,Livrée,0,F005
+CMD-0599,2024-07-29 21:04,MAP,Engrais,4296.2,609.81,2619860.99,C005,Amajour Agri,Maroc,A,Casablanca Port,2024-08-07,Livrée,0,F002
+CMD-0600,2024-08-22 19:37,Sulfate d'ammonium,Engrais,4756.1,200.46,953418.74,C008,Pakistan Fertilizer,Pakistan,C,Laayoune,2024-08-26,Livrée,0,F001
