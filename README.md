@@ -39,7 +39,7 @@ Conçu pour les opérations logistiques d'**OCP Group** sur 5 sites industriels 
 | Taux de retards livraison | 24% | 8% | **−67%** |
 | Émissions CO₂ | 100% | 65% | **−35%** |
 | Coûts logistiques | 100% | 78% | **−22%** |
-| Temps de réaction | 4h | 1.8 min | **×120** |
+| Temps de réaction | 4h | 2.7 min | **×120** |
 | Taux OTIF | 76% | ≥91% | **+15pt** |
 | Score décision S3 moyen | N/A | 0.91 | **≥0.80 ✔** |
 
