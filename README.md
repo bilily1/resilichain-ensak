@@ -14,7 +14,7 @@ en partenariat avec **OCP Maintenance Solutions**.
 
 ## 📋 Description
 
-ResiliChain est un système IA auto-réparateur qui détecte les anomalies logistiques en temps réel, simule des scénarios multi-objectifs et exécute les décisions correctives de façon autonome, en intégrant le **CO₂ comme contrainte d'optimisation primaire** — une première dans l'industrie.
+ResiliChain est un système IA auto-réparateur qui détecte les anomalies logistiques en temps réel, simule des scénarios multi-objectifs et exécute les décisions correctives de façon autonome, en intégrant le **CO₂ comme contrainte d'optimisation primaire**,  une première dans l'industrie.
 
 Conçu pour les opérations logistiques d'**OCP Group** sur 5 sites industriels marocains : Khouribga, Jorf Lasfar, Safi, Benguerir, Casablanca Port.
 
