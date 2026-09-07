@@ -1,8 +1,5 @@
 # ResiliChain - ENSAK
 
-> **Intelligent Self-Healing Supply Chain System**
-> *Predict · Simulate · Heal*
-
 Projet réalisé dans le cadre de l'**EMI Industrial Challenge 2026 - 13ème édition**,
 en partenariat avec **OCP Maintenance Solutions**.
 
