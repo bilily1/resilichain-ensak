@@ -1,4 +1,4 @@
-# ⛓️ ResiliChain - ENSAK
+# ResiliChain - ENSAK
 
 > **Intelligent Self-Healing Supply Chain System**
 > *Predict · Simulate · Heal*
@@ -12,7 +12,7 @@ en partenariat avec **OCP Maintenance Solutions**.
 
 ---
 
-## 📋 Description
+## Description
 
 ResiliChain est un système IA auto-réparateur qui détecte les anomalies logistiques en temps réel, simule des scénarios multi-objectifs et exécute les décisions correctives de façon autonome, en intégrant le **CO₂ comme contrainte d'optimisation primaire**,  une première dans l'industrie.
 
@@ -20,19 +20,19 @@ Conçu pour les opérations logistiques d'**OCP Group** sur 5 sites industriels 
 
 ---
 
-## ✨ Fonctionnalités clés
+## Fonctionnalités clés
 
-- 🔍 **Détection d'anomalies** en temps réel par algorithme Isolation Forest
-- 🎲 **Simulation Monte-Carlo** multi-scénarios (S1/S2/S3) évaluant coût, délai et CO₂
-- 🌿 **CO₂ comme contrainte primaire** d'optimisation (GHG Protocol)
-- ⚡ **Auto-Healing autonome** : détection → décision → action en < 3 minutes
-- 📊 **Dashboard exécutif** avec KPIs temps réel
-- 🗺️ **Cartographie interactive** des sites OCP (Folium)
-- 📋 **Conformité native** ISO 9001 / 14001 / 45001 / 42001
+- **Détection d'anomalies** en temps réel par algorithme Isolation Forest
+- **Simulation Monte-Carlo** multi-scénarios (S1/S2/S3) évaluant coût, délai et CO₂
+- **CO₂ comme contrainte primaire** d'optimisation (GHG Protocol)
+- **Auto-Healing autonome** : détection → décision → action en < 3 minutes
+- **Dashboard exécutif** avec KPIs temps réel
+- **Cartographie interactive** des sites OCP (Folium)
+- **Conformité native** ISO 9001 / 14001 / 45001 / 42001
 
 ---
 
-## 📈 Résultats KPI
+## Résultats KPI
 
 | KPI | Baseline | Avec ResiliChain | Gain |
 |-----|----------|-----------------|------|
@@ -45,7 +45,7 @@ Conçu pour les opérations logistiques d'**OCP Group** sur 5 sites industriels 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
     resilichain_app/
     │
@@ -91,16 +91,16 @@ Conçu pour les opérations logistiques d'**OCP Group** sur 5 sites industriels 
 
 ---
 
-## 📐 Formule de décision
+## Formule de décision
 
-    Score(S) = α · Performance(S) + β · (1 − CO₂_normalisé(S)) + γ · Coût⁻¹(S)
+    Score(S) = α * Performance(S) + β * (1 − CO₂_normalisé(S)) + γ * Coût⁻¹(S)
     α = 0.40 (performance)  |  β = 0.35 (CO₂)  |  γ = 0.25 (coût)
 
 Le scénario S3 (redistribution optimale) obtient systématiquement un score ≥ 0.80.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 | Composant | Technologie |
 |-----------|-------------|
@@ -110,12 +110,12 @@ Le scénario S3 (redistribution optimale) obtient systématiquement un score ≥
 | Calcul CO₂ | GHG Protocol |
 | Visualisation | Plotly |
 | Cartographie | Folium |
-| Données | CSV synthétique — 2 993 entrées |
+| Données | CSV synthétique - 2 993 entrées |
 | Langage | Python 3.11 |
 
 ---
 
-## 🚀 Installation
+## Installation
 
     git clone https://github.com/bilily1/resilichain-ensak.git
     cd resilichain-ensak
@@ -124,7 +124,7 @@ Le scénario S3 (redistribution optimale) obtient systématiquement un score ≥
 
 ---
 
-## 📋 Conformité normative
+## Conformité normative
 
 | Norme | Domaine | Niveau |
 |-------|---------|--------|
@@ -135,13 +135,13 @@ Le scénario S3 (redistribution optimale) obtient systématiquement un score ≥
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 Le rapport complet du projet est disponible : [`RAPPORT.pdf`](./RAPPORT.pdf)
 
 ---
 
-## 🏆 Contexte
+## Contexte
 
 - **Compétition :** EMI Industrial Challenge 2026 - 13ème Journée Industrielle de l'EMI
 - **Partenaire industriel :** OCP Maintenance Solutions
